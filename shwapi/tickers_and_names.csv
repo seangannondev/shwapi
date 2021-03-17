@@ -1,0 +1,3299 @@
+id,ticker,stock_name
+1,A,"Agilent Technologies, Inc. Common Stock"
+2,AA,Alcoa Inc. Common Stock
+3,AA-B,Alcoa Inc. Depository Shares Representing 1/10th Preferred Convertilble Class B Series 1
+4,AAC,"AAC Holdings, Inc. Common Stock"
+5,AAN,"Aaron's, Inc. Common Stock"
+6,AAP,Advance Auto Parts Inc Advance Auto Parts Inc W/I
+7,AAT,"American Assets Trust, Inc. Common Stock"
+8,AAV,Advantage Oil & Gas Ltd  Ordinary Shares
+9,AB,Allianceberstein Holding L.P.  Units
+10,ABB,ABB Ltd Common Stock
+11,ABBV,AbbVie Inc. Common Stock
+12,ABC,AmerisourceBergen Corporation (Holding Co) Common Stock
+13,ABEV,Ambev S.A. American Depositary Shares (Each representing 1 Common Share)
+14,ABG,Asbury Automotive Group Inc Common Stock
+15,ABM,ABM Industries Incorporated Common Stock
+16,ABR,Arbor Realty Trust Common Stock
+17,ABR-A,Arbor Realty Trust Preferred Series A
+18,ABR-B,Arbor Realty Trust Cumulative Redeemable Preferred Series B
+19,ABR-C,Arbor Realty Trust Cumulative Redeemable Preferred Series C
+20,ABRN,Arbor Realty Trust 7.375% Senior Notes due 2021
+21,ABT,Abbott Laboratories Common Stock
+22,ABX,Barrick Gold Corporation Common Stock
+23,ACC,American Campus Communities Inc Common Stock
+24,ACCO,Acco Brands Corporation Common Stock
+25,ACE,Ace Limited Common Stock
+26,ACG,Alliancebernstein Income Fund
+27,ACH,Aluminum Corporation of China Limited American Depositary Shares
+28,ACI,"Arch Coal, Inc. Common Stock"
+29,ACM,AECOM Common Stock
+30,ACMP,"Access Midstream Partners, L.P. Common Units Representing Limited Partner Interests"
+31,ACN,Accenture plc. Class A Ordinary Shares (Ireland)
+32,ACP,Avenue Income Credit Strategies Fund Common Shares
+33,ACRE,Ares Commercial Real Estate Corporation Common Stock
+34,ACT,Actavis plc Ordinary Shares
+35,ACW,Accuride Corporation Common Stock
+36,ADC,Agree Realty Corporation Common Stock
+37,ADM,Archer
+38,ADPT,Adeptus Health Inc. Common Stock
+39,ADS,Alliance Data Systems Corporation Common Stock
+40,ADT,ADT Corporation Common Stock
+41,ADX,Adams Express Company (The)
+42,AEB,AEGON N.V. Perp. Cap. Secs. Floating Rate (Netherlands)
+43,AEC,Associated Estates Realty Corporation Common Stock
+44,AED,AEGON N.V. Perp. Cap. Securities (Netherlands)
+45,AEE,Ameren Corporation Common Stock
+46,AEG,AEGON N.V. Common Stock
+47,AEH,AEGON N.V. Perp. Cap Secs.
+48,AEK,Aegon NV 8.00% Non
+49,AEL,American Equity Investment Life Holding Company Common Stock
+50,AEM,Agnico Eagle Mines Limited Common Stock
+51,AEO,"American Eagle Outfitters, Inc. Common Stock"
+52,AEP,"American Electric Power Company, Inc. Common Stock"
+53,AER,Aercap Holdings N.V. Ordinary Shares
+54,AES,The AES Corporation Common Stock
+55,AES-C,AES Corporation (The) Class C Preferred Stock
+56,AET,Aetna Inc. Common Stock
+57,AF,Astoria Financial Corporation Common Stock
+58,AF-C,Astoria Financial Corporation Depositary Shs Repstg 1/40th Int Perp Pfd Ser C 6.5%
+59,AFA,"American Financial Group, Inc. 5.75% Senior Notes due 2042"
+60,AFB,AllianceBernstein National Municipal Income Fund Inc
+61,AFC,"Allied Capital Corporation Allied Capital Corporation 6.875% Notes due April 15, 2047"
+62,AFG,"American Financial Group, Inc. Common Stock"
+63,AFGE,"American Financial Group, Inc. 6.25% Subordinated Debentures due 2054"
+64,AFL,AFLAC Incorporated Common Stock
+65,AFM,"Affiliated Managers Group, Inc. 5.250% Senior Notes due 2022"
+66,AFQ,"American Financial Group, Inc. 7% Senior Notes due 2050"
+67,AFSD,"Aflac Incorporated 5.50% Subordinated Debentures due September 15, 2052"
+68,AFSI-A,"AmTrust Financial Services, Inc. Preferred Series A"
+69,AFSI-B,"AmTrust Financial Services, Inc. Depository Shares Representing 1/40th Preferred Series B"
+70,AFSI-C,"AmTrust Financial Services, Inc. Depository Shares Representing 1/40th Preferred Series C"
+71,AFT,Apollo Senior Floating Rate Fund Inc. Common Stock
+72,AFW,"American Financial Group, Inc. 6 3/8% Senior Notes due 2042"
+73,AG,First Majestic Silver Corp. Ordinary Shares (Canada)
+74,AGC,Advent Claymore Convertible Securities and Income Fund Common Shares of Beneficial Interest
+75,AGCO,AGCO Corporation Common Stock
+76,AGD,Alpine Global Dynamic Dividend Fund Shares of Beneficial Interest
+77,AGI,Alamos Gold Inc Ordinary Shares
+78,AGM,Federal Agricultural Mortgage Corporation Common Stock
+79,AGM-A,Federal Agricultural Mortgage Corporation 5.875% Non
+80,AGM-B,Federal Agricultural Mortgage Corporation Non Cumulative Preferred Stock Series B
+81,AGM-C,Federal Agricultural Mortgage Corporation Preferred Series C Fixed to Fltg
+82,AGM.A,Federal Agricultural Mortgage Corporation Common Stock
+83,AGN,"Allergan, Inc. Common Stock"
+84,AGO,Assured Guaranty Ltd. Common Stock
+85,AGO-B,Assured Guaranty Ltd.
+86,AGO-E,Assured Guaranty Ltd.
+87,AGO-F,Assured Guaranty Ltd.
+88,AGRO,Adecoagro S.A. Common Shares
+89,AGU,Agrium Inc. Common Stock
+90,AGX,"Argan, Inc. Common Stock"
+91,AHC,A.H. Belo Corporation Common Stock
+92,AHH,"Armada Hoffler Properties, Inc. Common Stock"
+93,AHL,Aspen Insurance Holdings Limited Ordinary Shares
+94,AHL-A,Aspen Insurance Holdings Limited Perp Pfd Shares (Bermuda)
+95,AHL-B,Aspen Insurance Holdings Limited Perp Pref Shs (Bermuda)
+96,AHL-C,Aspen Insurance Holdings Limited 5.95% Fixed
+97,AHP,"Ashford Hospitality Prime, Inc. Common Stock"
+98,AHS,AMN Healthcare Services Inc AMN Healthcare Services Inc
+99,AHT,Ashford Hospitality Trust Inc Common Stock
+100,AHT-A,Ashford Hospitality Trust Inc 8.55% Cum Preferred Series A
+101,AHT-D,Ashford Hospitality Trust Inc 8.45% Series D Cumulative Preferred Stock
+102,AHT-E,Ashford Hospitality Trust Inc 9.00% Series E Cumulative Preferred Stock
+103,AI,Arlington Asset Investment Corp Class A (new)
+104,AIB,Apollo Investment Corporation 6.625% Senior Notes due 2042
+105,AIF,Apollo Tactical Income Fund Inc. Common Stock
+106,AIG,"American International Group, Inc. New Common Stock"
+107,AIG.W,"American International Group, Inc. Warrant expiring January 19, 2021"
+108,AIN,Albany International Corporation Common Stock
+109,AIR,AAR Corp. Common Stock
+110,AIT,"Applied Industrial Technologies, Inc. Common Stock"
+111,AIV,Apartment Investment and Management Company Common Stock
+112,AIV-A,Apartment Investment and Management Company Preferred Series Class A
+113,AIV-Z,Apartment Investment and Management Company Class Z Cumulative Preferred Stock
+114,AIW,Arlington Asset Investment Corp 6.625% Notes due 2023
+115,AIY,Apollo Investment Corporation 6.875% Senior Notes due 2043
+116,AIZ,"Assurant, Inc. Common Stock"
+117,AJG,Arthur J. Gallagher & Co. Common Stock
+118,AKO.A,Embotelladora Andina S.A. Common Stock
+119,AKO.B,Embotelladora Andina S.A. Common Stock
+120,AKP,Alliance California Municipal Income Fund Inc
+121,AKR,Acadia Realty Trust Common Stock
+122,AKS,AK Steel Holding Corporation Common Stock
+123,AL,Air Lease Corporation Class A Common Stock
+124,ALB,Albemarle Corporation Common Stock
+125,ALDW,"Alon USA Partners, LP Common Units representing Limited Partner Interests"
+126,ALE,"Allete, Inc."
+127,ALEX,"Alexander & Baldwin, Inc. Common Stock"
+128,ALG,"Alamo Group, Inc. Common Stock"
+129,ALJ,"Alon USA Energy, Inc. common stick"
+130,ALK,"Alaska Air Group, Inc. Common Stock"
+131,ALL,Allstate Corporation (The) Common Stock
+132,ALL-A,Allstate Corporation (The) Dep Shs Repstg 1/1000th Perp Pfd Ser A
+133,ALL-B,Allstate Corporation (The) 5.100% Fixed
+134,ALL-C,Allstate Corporation (The) Dep Shs Repstg 1/1000th Int Shs Pfd Stk Ser C
+135,ALL-D,The Allstate Corporation Leopards Each Representing A 1/1000th Interest In A Share Of Fixed Rate Noncumulative Perpetual Preferred Stock Series D
+136,ALL-E,Allstate Corporation Depositary Shares Representing 1/1000th Perpetual Preferred Series E
+137,ALL-F,Allstate Corporation (The) Leopards Dep Shares Representing 1/1000th Perp Pfd
+138,ALLE,Allegion plc Ordinary Shares
+139,ALLY,Ally Financial Inc. Common Stock
+140,ALLY-A,"GMAC Capital Trust I Fixed Rate Floating Rate Trust Preferred Securities, Series 2"
+141,ALLY-B,"Ally Financial Inc Fixed Rate Floating Rate Perpetual Preferred Stock, Series A"
+142,ALP-N,Alabama Power Company Preferred Stock
+143,ALP-O,Alabama Power Company Preferred Stock
+144,ALP-P,Alabama Power Company 5.30% Cl A Pfd Stk
+145,ALR,Alere Inc. Common Stock
+146,ALR-B,"Alere Inc. Inverness Medical Innovations, Inc. Series B Convertible Perpetual Preferred Stock"
+147,ALSN,"Allison Transmission Holdings, Inc. Common Stock"
+148,ALU,Alcatel
+149,ALV,"Autoliv, Inc. Common Stock"
+150,ALX,"Alexander's, Inc. Common Stock"
+151,AM,Antero Midstream Partners LP Common Units representing limited partner interests
+152,AMBR,"Amber Road, Inc. Common Stock"
+153,AMC,"AMC Entertainment Holdings, Inc. Class A Common Stock"
+154,AME,"AMETEK, Inc."
+155,AMFW,AMEC Foster Wheeler plc American Depositary Shares
+156,AMG,"Affiliated Managers Group, Inc. Common Stock"
+157,AMH,American Homes 4 Rent Common Shares of Beneficial Interest
+158,AMH-A,American Homes 4 Rent Participating Preferred Shares Series A
+159,AMH-B,American Homes 4 Rent 5% Series B Participating Preferred Shares of Beneficial Interest
+160,AMH-C,American Homes 4 Rent Participating Pfd Ser C
+161,AMID,"American Midstream Partners, LP Common Units representing Limited Partner Interests"
+162,AMP,"Ameriprise Financial, Inc. Common Stock"
+163,AMRC,"Ameresco, Inc. Class A Common Stock"
+164,AMRE,"AmREIT, Inc. Common stock"
+165,AMT,American Tower Corporation (REIT) Common Stock
+166,AMT-A,American Tower Corporation (REIT) Pfd Conv Ser A
+167,AMTD,TD Ameritrade Holding Corporation Common Stock
+168,AMTG,"Apollo Residential Mortgage, Inc. Common Stock"
+169,AMTG-A,"Apollo Residential Mortgage, Inc. Pfd Shs Series A  (US)"
+170,AMX,"America Movil, S.A.B. de C.V. American Depository Receipt Series L"
+171,AN,"AutoNation, Inc. Common Stock"
+172,ANET,"Arista Networks, Inc. Common Stock"
+173,ANF,Abercrombie & Fitch Company Common Stock
+174,ANFI,Amira Nature Foods Ltd Ordinary Shares
+175,ANH,Anworth Mortgage Asset Corporation Common Stock
+176,ANH-A,Anworth Mortgage Asset Corporation Series A Preferred Stock
+177,ANH-B,Anworth Mortgage Asset  Corporation Preferred Stock Series B 6.25%
+178,ANN,ANN INC. Common Stock
+179,ANR,"Alpha Natural Resources, inc. comm stock"
+180,ANTM,"Anthem, Inc. Common Stock"
+181,ANW,Aegean Marine Petroleum Network Inc. Common Stock
+182,AOD,Alpine Total Dynamic Dividend Fund Common Stock
+183,AOI,"Alliance One International, Inc. Common Stock"
+184,AOL,AOL Inc. AOL Inc. Common Stock
+185,AON,Aon plc Class A Ordinary Shares (UK)
+186,AOS,A.O. Smith Corporation Common Stock
+187,AP,Ampco
+188,APA,Apache Corporation Common Stock
+189,APAM,Artisan Partners Asset Management Inc. Class A Common Stock
+190,APB,"Asia Pacific Fund, Inc. (The)"
+191,APC,Anadarko Petroleum Corporation Common Stock
+192,APD,"Air Products and Chemicals, Inc. Common Stock"
+193,APF,Morgan Stanley Asia
+194,APH,Amphenol Corporation Common Stock
+195,APL,"Atlas Pipeline Partners, L.P. Common Units, No Par Value"
+196,APL-E,"Atlas Pipeline Partners, L.P. Cumulative Redeemable Perpetual Preferred Units Class E"
+197,APO,"Apollo Global Management, LLC Class A Common Shares Representing Class A Limitied Liability Company Interests"
+198,APU,"AmeriGas Partners, L.P. Common Stock"
+199,AR,Antero Resources Corporation Common Stock
+200,ARC,"ARC Document Solutions, Inc. Common Stock"
+201,ARCO,Arcos Dorados Holdings Inc. Class A Shares
+202,ARCX,Arc Logistic Partners LP Common Units representing limited partner interest
+203,ARDC,"Ares Dynamic Credit Allocation Fund, Inc. Common Shares"
+204,ARE,"Alexandria Real Estate Equities, Inc. Common Stock"
+205,ARE-E,"Alexandria Real Estate Equities, Inc. Pfd Ser E"
+206,ARES,Ares Management L.P. Common Units representing Limited Partner Interests
+207,ARG,"Airgas, Inc. Common Stock"
+208,ARH-C,Arch Capital Group Ltd. 6.75% PFD sh S C
+209,ARI,"Apollo Commercial Real Estate Finance, Inc"
+210,ARI-A,Apollo Commercial Real Estate Finance Cumulative Redeemable Perpetual Preferred Stock Series A
+211,ARL,"American Realty Investors, Inc. Common Stock"
+212,ARMF,Ares Multi
+213,ARMK,Aramark Common Stock
+214,ARN,Ares Capital Corporation 7.00% Senior Notes due 2022
+215,ARO,Aeropostale Inc Common Stock
+216,ARP,"Atlas Resource Partners, L.P. Common Units representing Limited Partner Interests"
+217,ARP-D,"Atlas Resource Partners, L.P. CUM RED PERP PDF UNIT CL D %"
+218,ARPI,"American Residential Properties, Inc. Common Stock"
+219,ARR,"ARMOUR Residential REIT, Inc."
+220,ARR-A,Armour Residential REIT INC Preferred Series A
+221,ARR-B,"ARMOUR Residential REIT, Inc. Preferred Series B"
+222,ARU,Ares Capital Corporation 5.875% Senior Notes due 2022
+223,ARW,"Arrow Electronics, Inc. Common Stock"
+224,ARY,Ares Capital Corporation 7.75% Senior Notes due 2040
+225,ASA,ASA  Gold and Precious Metals Limited
+226,ASB,Associated Banc
+227,ASB-B,Associated Banc
+228,ASC,Ardmore Shipping Corporation Common Stock
+229,ASG,Liberty All
+230,ASGN,"On Assignment, Inc. Common Stock"
+231,ASH,Ashland Inc. (NEW) Common Stock
+232,ASPN,"Aspen Aerogels, Inc. Common Stock"
+233,ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock"
+234,ASX,"Advanced Semiconductor Engineering, Inc. Common Stock"
+235,AT,Atlantic Power Corporation Ordinary Shares (Canada)
+236,ATE,Advantest Corporation (Kabushiki Kaisha Advantest) ADS American Depositary Shares
+237,ATEN,"A10 Networks, Inc. Common Stock"
+238,ATHM,"Autohome Inc. American Depositary Shares, each representing one class A ordinary share."
+239,ATI,Allegheny Technologies Incorporated Common Stock
+240,ATK,Alliant Techsystems Inc. Common Stock
+241,ATLS,"Atlas Energy, L.P. Common Units"
+242,ATO,Atmos Energy Corporation Common Stock
+243,ATR,"AptarGroup, Inc. Common Stock"
+244,ATTO,Atento S.A. Ordinary Shares
+245,ATU,Actuant Corporation Common Stock
+246,ATV,"Acorn International, Inc. ADS"
+247,ATW,"Atwood Oceanics, Inc. Common Stock"
+248,AU,AngloGold Ashanti Limited Common Stock
+249,AUO,AU Optronics Corp American Depositary Shares
+250,AUQ,AuRico Gold Inc. Ordinary Shares
+251,AUY,Yamana Gold Inc. Ordinary Shares (Canada)
+252,AV,Aviva plc Unsponsored ADR (UK)
+253,AVA,Avista Corporation Common Stock
+254,AVAL,Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares)
+255,AVB,"AvalonBay Communities, Inc. Common Stock"
+256,AVD,American Vanguard Corporation Common Stock ($0.10 Par Value)
+257,AVG,AVG Technologies N.V. Ordinary Shares
+258,AVH,Avianca Holdings S.A. American Depositary Shares (Each representing 8 preferred Shares)
+259,AVIV,"Aviv REIT, Inc. Common Stock"
+260,AVK,Advent Claymore Convertible Securities and Income Fund
+261,AVOL,Avolon Holdings Limited Common Shares
+262,AVP,"Avon Products, Inc. Common Stock"
+263,AVT,"Avnet, Inc. Common Stock"
+264,AVV,Aviva plc Subordinated Capital Securities due 2041
+265,AVX,AVX Corporation Common Stock
+266,AVY,Avery Dennison Corporation Common Stock
+267,AWF,Alliancebernstein Global High Income Fund
+268,AWH,"Allied World Assurance Company Holdings, AG (Switzerland)"
+269,AWI,Armstrong World Industries Inc Common Stock
+270,AWK,"American Water Works Company, Inc. Common Stock"
+271,AWP,Alpine Global Premier Properties Fund Alpine Global Premier Properties Fund Common Shares of Beneficial Interest
+272,AWR,American States Water Company Common Stock
+273,AXE,Anixter International Inc. Common Stock
+274,AXL,"American Axle & Manufacturing Holdings, Inc. Common Stock"
+275,AXLL,Axiall Corporation Common Stock
+276,AXP,American Express Company Common Stock
+277,AXR,AMREP Corporation Common Stock
+278,AXS,Axis Capital Holdings Limited Common Stock
+279,AXS-C,Axis Capital Holdings Limited Preferred Series C (Bermuda)
+280,AXS-D,Axis Capital Holdings Limited Preferred Series D (Bermuda)
+281,AXTA,Axalta Coating Systems Ltd. Common Shares
+282,AYI,Acuity Brands Inc (Holding Company)
+283,AYN,Alliance New York Municipal Income Fund Inc
+284,AYR,Aircastle Limited Common Stock
+285,AZN,Astrazeneca PLC Common Stock
+286,AZO,"AutoZone, Inc. Common Stock"
+287,AZZ,AZZ Incorporated Common Stock
+288,B,"Barnes Group, Inc. Common Stock"
+289,BA,Boeing Company (The) Common Stock
+290,BABA,Alibaba Group Holding Limited American Depositary Shares each representing one Ordinary share
+291,BAC,Bank of America Corporation Common Stock
+292,BAC-D,Bank of America Corporation Depositary Shares Rpstg 1/1000th Interest in Sh of Non Cum Pfd Stk Ser D
+293,BAC-E,Bank of America Corporation Depositary Sh repstg 1/1000th Perp Pfd Ser E
+294,BAC-I,Bank Amer Corp Dep Sh Repstg 1/1000th Pfd Ser I
+295,BAC-L,Bank of America Corporation Non Cumulative Perpetual Conv Pfd Ser L
+296,BAC-W,Bank of America Corporation Depository Shares Representing 1/1000th Preferred Series W
+297,BAC-Z,Bank of America Corporation BAC Capital Trust VIII 6% Capital Securities
+298,BAC.A,"Bank of America Corporation Class A Warrant expiring January 16, 2019"
+299,BAC.B,Bank of America Corporation Class B Warrants expiring 10/28/2018
+300,BAF,BlackRock Municipal Income Investment Quality Trust
+301,BAH,Booz Allen Hamilton Holding Corporation Common Stock
+302,BAK,Braskem SA ADR
+303,BALT,Baltic Trading Limited Common Stock
+304,BAM,Brookfield Asset Management Inc. Common Stock
+305,BANC,"Banc of California, Inc. Common Stock"
+306,BANC-C,"Banc of California, Inc. Depositary Shares"
+307,BAP,Credicorp Ltd. Common Stock
+308,BAS,"Basic Energy Services, Inc. Common Stock"
+309,BAX,Baxter International Inc. Common Stock
+310,BBD,Banco Bradesco Sa American Depositary Shares
+311,BBDO,Banco Bradesco Sa American Depositary Shares (each representing one Common Share)
+312,BBF,BlackRock Municipal Income Investment Trust
+313,BBG,Bill Barrett Corporation Common Stock
+314,BBK,Blackrock Municipal Bond Trust
+315,BBL,BHP Billiton plc Sponsored ADR
+316,BBN,BlackRock Build America Bond Trust Common Shares of Beneficial Interest
+317,BBT,BB&T Corporation Common Stock
+318,BBT-D,BB&T Corporation Depositary Shares Representing 1/1000th Perpetual Preferred Series D
+319,BBT-E,BB&T Corporation Depositary Shares Representing 1/1000th Perpetual Preferred Series E
+320,BBT-F,BB&T Corporation Depositary Shares Representing 1/1000th Interest Series F Perpetual Preferred
+321,BBT-G,BB&T Corporation Depositary Shares Representing 1/1000th Perpetual Preferred Series G
+322,BBVA,Banco Bilbao Vizcaya Argentaria S.A. Common Stock
+323,BBW,Build
+324,BBX,BBX Capital Corporation Common Stock
+325,BBY,"Best Buy Co., Inc. Common Stock"
+326,BC,Brunswick Corporation Common Stock
+327,BCA,Corpbanca Sponsored Reg S GDR representing Common (Chile)
+328,BCC,"Boise Cascade, L.L.C. Common Stock"
+329,BCE,"BCE, Inc. Common Stock"
+330,BCEI,"Bonanza Creek Energy, Inc. Common Stock"
+331,BCH,Banco De Chile Banco De Chile ADS
+332,BCO,Brinks Company (The) Common Stock
+333,BCR,"C.R. Bard, Inc. Common Stock"
+334,BCRH,Blue Capital Reinsurance Holdings Ltd. Common Shares
+335,BCS,Barclays PLC Common Stock
+336,BCS-,Barclays Bank PLC ADR Ser 2 repstg Pref Shs Ser 2 (United Kingdom)
+337,BCS-A,Barclays PLC ADS
+338,BCS-C,Barclays PLC American Depositary Shares Series 4
+339,BCS-D,Barclays PLC American Depositary Shares (Each representing Non
+340,BCX,BlackRock Resources Common Shares of Beneficial Interest
+341,BDC,Belden Inc Common Stock
+342,BDJ,Blackrock Enhanced Equity Dividend Trust
+343,BDN,Brandywine Realty Trust Common Stock
+344,BDN-E,Brandywine Realty Tr Pfd Shs Ben Int Ser E
+345,BDX,"Becton, Dickinson and Company Common Stock"
+346,BEE,Strategic Hotels & Resorts  Inc Common Stock
+347,BEL,Belmond Ltd. Class A Common Stock
+348,BEN,"Franklin Resources, Inc. Common Stock"
+349,BEP,Brookfield Renewable Energy Partners LP Partnership Units (Bermuda)
+350,BERY,"Berry Plastics Group, Inc. Common Stock"
+351,BF.A,Brown Forman Inc Class A Common Stock
+352,BF.B,Brown Forman Inc Class B Common Stock
+353,BFAM,Bright Horizons Family Solutions Inc. Common Stock
+354,BFK,BlackRock Municipal Income Trust
+355,BFO,Blackrock Florida Municipal 2020 Term Trust
+356,BFR,BBVA Banco Frances S.A. Common Stock
+357,BFS,"Saul Centers, Inc. Common Stock"
+358,BFS-C,"Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.875% Series C Cumulative Redeemable Preferred Stock, $0.01 par value"
+359,BFZ,BlackRock California Municipal Income Trust
+360,BG,Bunge Limited Bunge Limited
+361,BGB,Blackstone / GSO Strategic Credit Fund Common Shares
+362,BGC,General Cable Corporation Common Stock
+363,BGCA,"BGC Partners, Inc. 8.125% Senior Notes due 2042"
+364,BGE-B,Bge Cap Trust II 6.20% Trust Preferred Securities
+365,BGG,Briggs & Stratton Corporation Common Stock
+366,BGH,Babson Capital Global Short Duration High Yield Fund Common Shares of Beneficial Interests
+367,BGR,BlackRock Energy and Resources Trust
+368,BGS,"B&G Foods, Inc. B&G Foods, Inc. Common Stock"
+369,BGT,BlackRock Floating Rate Income Trust
+370,BGX,Blackstone GSO Long Short Credit Income Fund Common Shares
+371,BGY,"BLACKROCK INTERNATIONAL, LTD. Blackrock International Real Estate Fund, Inc."
+372,BH,Biglari Holdings Inc.
+373,BHE,"Benchmark Electronics, Inc. Common Stock"
+374,BHI,Baker Hughes Incorporated Common Stock
+375,BHK,Blackrock Core Bond Trust Blackrock Core Bond Trust
+376,BHL,Blackrock Defined Opportunity Credit Trust Blackrock Defined Opportunity Credit Trust
+377,BHLB,"Berkshire Hills Bancorp, Inc. Common Stock"
+378,BHP,BHP Billiton Limited Common Stock
+379,BID,Sotheby's Common Stock
+380,BIE,BlackRock Municipal Bond Investment Trust
+381,BIF,"Boulder Growth & Income Fund, Inc."
+382,BIG,"Big Lots, Inc. Common Stock"
+383,BIN,Progressive Waste Solutions Ltd. Common Shares
+384,BIO,Bio
+385,BIO.B,Bio
+386,BIOA,BioAmber Inc. Common Stock
+387,BIOA.W,"BioAmber Inc. Warrant, expiring May 9, 2017"
+388,BIP,Brookfield Infrastructure Partners LP Limited Partnership Units
+389,BIT,BlackRock Multi
+390,BITA,Bitauto Holdings Limited American Depositary Shares (each representing one ordinary share)
+391,BJZ,Blackrock California Municipal 2018 Term Trust Blackrock California Municipal 2018 Term Trust
+392,BK,Bank of New York Mellon Corporation (The) Common Stock
+393,BK-C,Bank Of New York Mellon Corporation (The) Dep Shs Repstg 1/4000th Perp Pfd Ser C
+394,BKD,Brookdale Senior Living Inc. Common Stock
+395,BKE,"Buckle, Inc. (The) Common Stock"
+396,BKH,Black Hills Corporation Common Stock
+397,BKK,Blackrock Municipal 2020 Term Trust
+398,BKN,BlackRock Investment Quality Municipal Trust Inc. (The)
+399,BKS,"Barnes & Noble, Inc. Common Stock"
+400,BKT,BlackRock Income Trust Inc. (The)
+401,BKU,"BankUnited, Inc. Common Stock"
+402,BLH,Blackrock New York Municipal 2018 Term Trust
+403,BLK,"BlackRock, Inc. Common Stock"
+404,BLL,Ball Corporation Common Stock
+405,BLOX,Infoblox Inc. Common Stock
+406,BLT,"Blount International, Inc. Common Stock"
+407,BLW,Blackrock Limited Duration Income Trust
+408,BLX,"Banco Latinoamericano de Comercio Exterior, S.A."
+409,BMA,Banco Macro S.A.  ADR (representing Ten Class B Common Shares)
+410,BME,Blackrock Health Sciences Trust
+411,BMI,"Badger Meter, Inc. Common Stock"
+412,BML-G,Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a share of Floating Rate Non
+413,BML-H,Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non
+414,BML-I,Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of 6.375% Non
+415,BML-J,Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non
+416,BML-L,Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non
+417,BMO,Bank Of Montreal Common Stock
+418,BMR,Biomed Realty Trust Common Stock
+419,BMS,"Bemis Company, Inc. Common Stock"
+420,BMY,Bristol
+421,BNJ,BlackRock New Jersey Municipal Income Trust
+422,BNK,"C1 Financial, Inc. Common Stock"
+423,BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares
+424,BNY,BlackRock New York Municipal Income Trust
+425,BOCA,"Banc of California, Inc. Senior Note due 4/15/2020"
+426,BOE,Blackrock Global Blackrock Global Opportunities Equity Trust Common Shares of Beneficial Interest
+427,BOH,Bank of Hawaii Corporation Common Stock
+428,BOI,Brookfield Mortgage Opportunity Income Fund Inc. Common Stock
+429,BOOT,"Boot Barn Holdings, Inc. Common Stock"
+430,BORN,China New Borun Corporation American Depositary Shares
+431,BOXC,Brookfield Canada Office Properties
+432,BP,BP p.l.c. Common Stock
+433,BPI,"Bridgepoint Education, Inc."
+434,BPK,Blackrock Municipal 2018 Term Trust Blackrock Municipal 2018 Term Trust
+435,BPL,Buckeye Partners L.P. Common Stock
+436,BPT,BP Prudhoe Bay Royalty Trust Common Stock
+437,BPY,Brookfield Property Partners L.P. Limited Partnership Units
+438,BPZ,"BPZ Resources, Inc Common Stock"
+439,BQH,Blackrock New York Municipal Bond Trust Common Shares of Beneficial Interest
+440,BR,"Broadridge Financial Solutions, Inc.Common Stock"
+441,BRC,Brady Corporation Common Stock
+442,BRFS,BRF S.A.
+443,BRK.A,Berkshire Hathaway Inc. Common Stock
+444,BRK.B,Berkshire Hathaway Inc. New Common Stock
+445,BRO,"Brown & Brown, Inc. Common Stock"
+446,BRP,Brookfield Residential Properties Inc. Common Stock
+447,BRS,Bristow Group Inc. Common Stock
+448,BRSS,"Global Brass and Copper Holdings, Inc. Common Stock"
+449,BRT,BRT Realty Trust Common Stock
+450,BRX,Brixmor Property Group Inc. Common Stock
+451,BSAC,Banco Santander
+452,BSBR,"Banco Santander Brasil SA American Depositary Shares, each representing one unit"
+453,BSD,BlackRock Strategic Municipal Trust Inc. (The) Common Stock
+454,BSE,Blackrock New York Municipal Income Quality Trust Common Shares of Beneficial Interest
+455,BSI,Alon Blue Square Israel Ltd.
+456,BSL,Blackstone GSO Senior Floating Rate Term Fund Common Shares of Beneficial Interest
+457,BSMX,"Grupo Financiero Santander Mexico S.A. B. de C.V. American Depositary Shares, each representing five Series B shares"
+458,BST,BlackRock Science and Technology Trust Common Shares of Beneficial Interest
+459,BSX,Boston Scientific Corporation Common Stock
+460,BT,BT Group plc Common Stock
+461,BTA,BlackRock Long
+462,BTE,Baytex Energy Corp
+463,BTF,"Boulder Total Return Fund, Inc. Common Stock"
+464,BTH,"Blyth, Inc. New Common Stock"
+465,BTO,John Hancock Financial Opportunities Fund Common Stock
+466,BTT,BlackRock Municipal Target Term Trust Inc. (The) Common Shares of Beneficial Interest
+467,BTU,Peabody Energy Corporation Common Stock
+468,BTZ,BlackRock Credit Allocation Income Trust
+469,BUD,Anheuser
+470,BUI,BlackRock Utility and Infrastructure Trust Common Shares of Beneficial Interest
+471,BURL,"Burlington Stores, Inc. Common Stock"
+472,BVN,Buenaventura Mining Company Inc.
+473,BWA,BorgWarner Inc. Common Stock
+474,BWC,Babcock Common Stock
+475,BWG,Legg Mason BW Global Income Opportunities Fund Inc. Common Stock
+476,BWP,Boardwalk Pipeline Partners LP Common Units
+477,BWS,"Brown Shoe Company, Inc. Common Stock"
+478,BX,The Blackstone Group L.P. Common Units Representing Limited Partnership Interests
+479,BXC,Bluelinx Holdings Inc. Common Stock
+480,BXE,Bellatrix Exploration Ltd Ordinary Shares (Canada)
+481,BXMT,"Blackstone Mortgage Trust, Inc. Common Stock"
+482,BXMX,Nuveen S&P 500 Buy
+483,BXP,"Boston Properties, Inc. Common Stock"
+484,BXP-B,"Boston Properties, Inc. Depositary Shares, each representing 1/100th of a share of the Issuer's 5.25% Sockeries B Cumulative Redeemable Preferred St"
+485,BXS,"BancorpSouth, Inc. Common Stock"
+486,BYD,Boyd Gaming Corporation Common Stock
+487,BYM,Blackrock Municipal Income Quality Trust Common Shares of Beneficial Interest
+488,BZH,"Beazer Homes USA, Inc. Common Stock"
+489,BZT,"Beazer Homes USA, Inc. Tangible Equity Unit"
+490,C,"Citigroup, Inc. Common Stock"
+491,C-C,Citigroup Inc. Depositary Shares representing 1/1000 Series C Noncumulative Preferred Stock (United States)
+492,C-J,Citigroup Inc. Dep Shs Repstg 1/1000 Pfd Ser J Fixed/Fltg
+493,C-K,Citigroup Inc. Dep Shs Repstg 1/1000th Pfd Ser K
+494,C-L,Citigroup Inc. Depositary Share representing 1/1000 interest in a share of noncumulative series L
+495,C-N,Citigroup Capital VIII 7.875% Fixed rate Floating Rate trust Preferred Securities (TruPS)
+496,C-P,Citigroup Inc. Dep Shs Repstg 1/1000th Pfd Ser AA
+497,C.A,"Citigroup Inc. Warrants Class A expiring January 4, 2019"
+498,C.B,"Citigroup Inc. Class B Warant expiring October 28, 2018"
+499,CAB,Cabela's Inc Class A Common Stock
+500,CACI,"CACI International, Inc. Class A Common Stock"
+501,CAE,CAE Inc. Ordinary Shares
+502,CAF,Morgan Stanley China A Share Fund Inc. Common Stock
+503,CAG,"ConAgra Foods, Inc. Common Stock"
+504,CAH,"Cardinal Health, Inc. Common Stock"
+505,CAJ,"Canon, Inc. American Depositary Shares"
+506,CALX,"Calix, Inc Common Stock"
+507,CAM,Cameron International Corporation Common Stock
+508,CAP,"Cai International, Inc. Common Stock"
+509,CAPL,CrossAmerica Partners LP Common Units representing limited partner interests
+510,CAS,Castle (A.M.) & Co. Common Stock
+511,CAT,"Caterpillar, Inc. Common Stock"
+512,CATO,Cato Corporation (The) Class A Common Stock
+513,CB,Chubb Corporation (The) Common Stock
+514,CBA,ClearBridge American Energy MLP Fund Inc. Common Stock
+515,CBB,Cincinnati Bell Inc. Common Stock
+516,CBB-B,Cincinnati Bell Inc. Preferred Stock
+517,CBD,Companhia Brasileira de Distribuicao ADS
+518,CBG,CBRE Group Inc Common Stock Class A
+519,CBI,Chicago Bridge & Iron Company N.V. Common Stock
+520,CBK,Christopher & Banks Corporation Common Stock
+521,CBL,"CBL & Associates Properties, Inc. Common Stock"
+522,CBL-D,"CBL & Associates Properties, Inc. Dep Shares Repstg 1/10th Preferred Series D"
+523,CBL-E,"CBL & Associates Properties, Inc. Depositary Shs Repstg 1/10 6.625% Ser E Cum Redeemable (Pfd Stk)"
+524,CBM,Cambrex Corporation Common Stock
+525,CBPX,"Continental Building Products, Inc. Common Stock"
+526,CBR,"Ciber, Inc. Common Stock"
+527,CBS,CBS Corporation Class B Common Stock
+528,CBS.A,CBS Corporation CBS Corporation Class A Common Stock
+529,CBT,Cabot Corporation Common Stock
+530,CBU,"Community Bank System, Inc. Common Stock"
+531,CBZ,"CBIZ, Inc. Common Stock"
+532,CCC,Calgon Carbon Corporation Common Stock
+533,CCE,Coca
+534,CCG,"Campus Crest Communities, Inc. Common Stock"
+535,CCG-A,"Campus Crest Communities, Inc. 8.00% Series A Cumulative Redeemable Preferred Stock"
+536,CCI,Crown Castle International Corp. (REIT) Common Stock
+537,CCI-A,Crown Castle International Corp. (REIT) Mandatory Conv Pfd Stk Series A
+538,CCJ,Cameco Corporation Common Stock
+539,CCK,"Crown Holdings, Inc."
+540,CCL,Carnival Corporation Common Stock
+541,CCM,Concord Medical Services Holdings Limited ADS (Each represents three ordinary shares)
+542,CCO,"Clear Channel Outdoor Holdings, Inc. Clear Channel Outdoor Holdings, Inc. Class A Common Stock"
+543,CCS,"Century Communities, Inc. Common Stock"
+544,CCSC,"Country Style Cooking Restaurant Chain Co., Ltd American Depositary Shares, each representing four ordinary shares"
+545,CCU,"Compania Cervecerias Unidas, S.A. Common Stock"
+546,CCV,Comcast Corporation 5.00% Notes due 2061
+547,CCZ,Comcast Holdings ZONES
+548,CDE,"Coeur Mining, Inc. Common Stock"
+549,CDE.W,"Coeur Mining, Inc. Warrant expiring April 16, 2017"
+550,CDI,CDI Corporation Common Stock
+551,CDR,"Cedar Realty Trust, Inc. Common Stock"
+552,CDR-B,"Cedar Realty Trust, Inc. 7.25% Series B Cumulative Redeemable Preferred Stock"
+553,CE,Celanese Corporation Celanese Corporation Series A Common Stock
+554,CEA,China Eastern Airlines Corporation Ltd. Common Stock
+555,CEB,Corporate Executive Board Company (The) Common Stock
+556,CEE,"Central Europe, Russia and Turkey Fund, Inc. (The) Common Stock"
+557,CEL,"Cellcom Israel, Ltd. Ordinary Shares"
+558,CELP,"Cypress Energy Partners, L.P. Common Units representing limited partner interests"
+559,CEM,ClearBridge Energy MLP Fund Inc. Common Stock
+560,CEN,Center Coast MLP & Infrastructure Fund Common Shares of Beneficial Interest
+561,CEO,CNOOC Limited Common Stock
+562,CEQP,Crestwood Equity Partners LP
+563,CF,"CF Industries Holdings, Inc. Common Stock"
+564,CFC-A,Countrywide Capital IV (New) 6.75% Trust Pfd Securities
+565,CFC-B,Countrywide Capital V (New) 7.00% Capital Securities
+566,CFG,"Citizens Financial Group, Inc. Common Stock"
+567,CFI,"Culp, Inc. Common Stock"
+568,CFN,CareFusion Corporation Common Stock
+569,CFR,"Cullen/Frost Bankers, Inc. Common Stock"
+570,CFR-A,"Cullen/Frost Bankers, Inc. Perpetual Preferred Series A"
+571,CFX,Colfax Corporation Common Stock
+572,CGA,"China Green Agriculture, Inc. Common Stock"
+573,CGG,CGG
+574,CGI,"Celadon Group, Inc. Common Stock"
+575,CHA,China Telecom Corp Ltd ADS
+576,CHD,"Church & Dwight Company, Inc. Common Stock"
+577,CHE,Chemed Corp
+578,CHGG,"Chegg, Inc. Common Stock"
+579,CHH,"Choice Hotels International, Inc. Common Stock"
+580,CHK,Chesapeake Energy Corporation Common Stock
+581,CHK-D,Chesapeake Energy Corporation Convertible Preferred
+582,CHKR,Chesapeake Granite Wash Trust Common Units representing beneficial interests in the Trust
+583,CHL,China Mobile Limited Common Stock
+584,CHMI,Cherry Hill Mortgage Investment Corporation Common Stock
+585,CHMT,Chemtura Corp. Common Stock
+586,CHN,"China Fund, Inc. (The) Common Stock"
+587,CHS,"Chico's FAS, Inc. Common Stock"
+588,CHSP,Chesapeake Lodging Trust Common Shares of Beneficial Interest
+589,CHSP-A,Chesapeake Lodging Trust 7.75% Series A Cumulative Redeemable Preferred Shares
+590,CHT,"Chunghwa Telecom Co., Ltd."
+591,CHU,China Unicom (Hong Kong) Ltd Common Stock
+592,CI,Cigna Corporation Common Stock
+593,CIA,"Citizens, Inc. Class A Common Stock ($1.00 Par)"
+594,CIB,BanColombia S.A. Common Stock
+595,CIE,"Cobalt International Energy, Inc. COBALT INTERNATIONAL ENERGY, INC."
+596,CIEN,Ciena Corporation Common Stock
+597,CIF,MFS Intermediate High Income Fund Common Stock
+598,CIG,Comp En De Mn Cemig ADS American Depositary Shares
+599,CIG.C,Comp En De Mn Cemig ADS American Depositary Receipts
+600,CII,"Blackrock Capital and Income Fund, Inc."
+601,CIM,Chimera Investment Corporation Common Stock
+602,CIO,"City Office REIT, Inc. Common Stock"
+603,CIR,"CIRCOR International, Inc. Common Stock"
+604,CIT,CIT Group Inc (DEL) Common Stock
+605,CIVI,"Civitas Solutions, Inc. Common Stock"
+606,CJES,"C&J Energy Services, Inc. Common Stock"
+607,CKH,SEACOR Holdings Inc. Common Stock
+608,CKP,"Checkpoint Systms, Inc. Common Stock"
+609,CL,Colgate
+610,CLA,Capitala Finance Corp. 7.125% Notes due 2021
+611,CLB,Core Laboratories N.V. Common Stock
+612,CLC,CLARCOR Inc. Common Stock
+613,CLD,Cloud Peak Energy Inc Common Stock
+614,CLDT,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest
+615,CLF,Cliffs Natural Resources Inc Common Stock
+616,CLGX,"CoreLogic, Inc. Common Stock"
+617,CLH,"Clean Harbors, Inc. Common Stock"
+618,CLI,Mack
+619,CLNY,"Colony Financial, Inc Common Stock"
+620,CLNY-A,Colony Finl Inc Cum Red Perp Pfd Ser A %
+621,CLNY-B,"Colony Financial, Inc Perp Pfd Ser B %"
+622,CLR,"Continental Resources, Inc. Common Stock"
+623,CLS,"Celestica, Inc. Common Stock"
+624,CLV,Cliffs Natural Resources Inc. Depositary Shares Representing 1/40th Preferred Convertible Series A
+625,CLW,Clearwater Paper Corporation Common Stock
+626,CLX,Clorox Company (The) Common Stock
+627,CM,Canadian Imperial Bank of Commerce Common Stock
+628,CMA,Comerica Incorporated Common Stock
+629,CMA.W,"Comerica Incorporated Warrant expiring November 14, 2018"
+630,CMC,Commercial Metals Company Common Stock
+631,CMCM,"Cheetah Mobile Inc. American Depositary Shares, each representing 10 Class Ordinary Shares"
+632,CMG,"Chipotle Mexican Grill, Inc. Common Stock"
+633,CMI,Cummins Inc. Common Stock
+634,CMK,MFS Intermarket Income Trust I Common Stock
+635,CMLP,Crestwood Midstream Partners LP
+636,CMN,Cantel Medical Corp. Common Stock
+637,CMO,Capstead Mortgage Corporation Common Stock
+638,CMO-E,Capstead Mortgage Corporation Pfd Ser E
+639,CMP,Compass Minerals Intl Inc Common Stock
+640,CMRE,Costamare Inc. Common Stock $0.0001 par value
+641,CMRE-B,Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands)
+642,CMRE-C,Costamare Inc. Perpetual Preferred Series C (Marshall Islands)
+643,CMS,CMS Energy Corporation Common Stock
+644,CMS-B,CMS Energy Corporation Preferred Stock
+645,CMU,MFS Municipal Income Trust Common Stock
+646,CNA,CNA Financial Corporation Common Stock
+647,CNC,Centene Corporation Common Stock
+648,CNCO,Cencosud S.A. American Depositary Shares (Each representing three Common Shares)
+649,CNHI,CNH Industrial N.V. Common Shares
+650,CNI,Canadian National Railway Company Common Stock
+651,CNK,"Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock"
+652,CNL,Cleco Corporation Common Stock
+653,CNNX,Cone Midstream Partners LP Common Units representing limited partner interests
+654,CNO,"CNO Financial Group, Inc. Common Stock"
+655,CNP,"CenterPoint Energy, Inc (Holding Co) Common Stock"
+656,CNQ,Canadian Natural Resources Limited Common Stock
+657,CNS,Cohn & Steers Inc Common Stock
+658,CNW,Con
+659,CNX,CONSOL Energy Inc. Common Stock
+660,CO,China Cord Blood Corporation Common Stock
+661,CODE,Spansion Inc Common Stock Class A New
+662,CODI,Compass Diversified Holdings Shares of Beneficial Interest
+663,COF,Capital One Financial Corporation Common Stock
+664,COF-C,Capital One Financial Corp Depository Shares Representing 1/40th Int Perp Pfd Ser C%
+665,COF-D,Capital One Financial Corp Depository Shares Representing 1/40th Interest Perpetual Preferred Series D
+666,COF-P,Capital One Financial Corp Pfd Ser B
+667,COF.W,"Capital One Financial Corporation Warrants expiring November 14, 2018"
+668,COG,Cabot Oil & Gas Corporation Common Stock
+669,COH,"Coach, Inc. Common Stock"
+670,COL,"Rockwell Collins, Inc. Common Stock"
+671,COO,"Cooper Companies, Inc. (The) Common Stock"
+672,COP,ConocoPhillips Common Stock
+673,COR,CoreSite Realty Corporation Common Stock
+674,COR-A,CoreSite Realty Corporation Pfd Ser A
+675,CORR,"CorEnergy Infrastructure Trust, Inc. Common Stock"
+676,COT,Cott Corporation Common Stock
+677,COTY,Coty Inc. Class A Common Stock
+678,COUP,Coupons.com Incorporated Common Stock
+679,COV,Covidien plc. Ordinary Shares (Ireland)
+680,CP,Canadian Pacific Railway Limited Common Stock
+681,CPA,"Copa Holdings, S.A. Copa Holdings, S.A. Class A Common Stock"
+682,CPAC,"Cementos Pacasmayo S.A.A. American Depositary Shares, each representing five Common Shares"
+683,CPB,Campbell Soup Company Common Stock
+684,CPE,Callon Petroleum Company Common Stock
+685,CPE-A,Callon Petroleum Company Preferred Shares Series A 10%
+686,CPF,Central Pacific Financial Corp New
+687,CPG,Crescent Point Energy Corporation Ordinary Shares (Canada)
+688,CPK,Chesapeake Utilities Corporation Common Stock
+689,CPL,CPFL Energia S.A. CPFL Energia S.A. American Depositary Shares
+690,CPN,Calpine Corporation Common Stock
+691,CPS,Cooper
+692,CPT,Camden Property Trust Common Stock
+693,CR,Crane Company Common Stock
+694,CRC,California Resources Corporation Common Stock
+695,CRCM,"Care.com, Inc. Common Stock"
+696,CRD.A,Crawford & Company Common Stock
+697,CRD.B,Crawford & Company Common Stock
+698,CRH,CRH PLC American Depositary Shares
+699,CRI,"Carter's, Inc. Common Stock"
+700,CRK,"Comstock Resources, Inc. Common Stock"
+701,CRL,"Charles River Laboratories International, Inc. Common Stock"
+702,CRM,Salesforce.com Inc Common Stock
+703,CRR,"Carbo Ceramics, Inc. Common Stock"
+704,CRS,Carpenter Technology Corporation Common Stock
+705,CRT,Cross Timbers Royalty Trust Common Stock
+706,CRY,"CryoLife, Inc. Common Stock"
+707,CS,Credit Suisse Group American Depositary Shares
+708,CSC,Computer Sciences Corporation Common Stock
+709,CSG,Chambers Street Properties Common Shares of Beneficial Interest
+710,CSH,"Cash America International, Inc. Common Stock"
+711,CSI,Cutwater Select Income Fund
+712,CSL,Carlisle Companies Incorporated Common Stock
+713,CSLT,"Castlight Health, Inc. Class B Common Stock"
+714,CSS,"CSS Industries, Inc. Common Stock"
+715,CST,"CST Brands, Inc. Common Stock"
+716,CSTM,Constellium N.V. Ordinary Shares
+717,CSU,Capital Senior Living Corporation Common Stock
+718,CSV,"Carriage Services, Inc. Common Stock"
+719,CSX,CSX Corporation Common Stock
+720,CTB,Cooper Tire & Rubber Company Common Stock
+721,CTL,"CenturyLink, Inc. Common Stock"
+722,CTLT,"Catalent, Inc. Common Stock"
+723,CTQ,Qwest Corporation 7.375% Notes due 2051
+724,CTR,ClearBridge Energy MLP Total Return Fund Inc. Common Stock
+725,CTS,CTS Corporation Common Stock
+726,CTT,"CatchMark Timber Trust, Inc. Class A Common Stock"
+727,CTU,Qwest Corporation 7.00% Notes due 2025
+728,CTV,Qwest Corporation 6.875% Notes due 2054
+729,CTW,Qwest Corporation 7.50% Notes due 2051
+730,CTX,Qwest Corporation 7.00% Notes due 2052
+731,CTY,Qwest Corporation 6.125% Notes due 2053
+732,CUB,Cubic Corporation Common Stock
+733,CUBE,CubeSmart Common Shares
+734,CUBE-A,CubeSmart 7.75% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest
+735,CUBI,"Customers Bancorp, Inc Common Stock"
+736,CUBS,"Customers Bancorp, Inc 6.375% Senior Notes due 2018"
+737,CUDA,"Barracuda Networks, Inc. Common Stock"
+738,CUK,Carnival Plc ADS ADS
+739,CUZ,Cousins Properties Incorporated Common Stock
+740,CVA,Covanta Holding Corporation Common Stock
+741,CVB,"Lehman ABS Corporation 7.75% Corp Backed Tr Ctfs, Kinder Morgan Debenture"
+742,CVC,Cablevision Systems Corporation Class A Common Stock
+743,CVD,Covance Inc. Common Stock
+744,CVE,Cenovus Energy Inc Common Stock
+745,CVEO,Civeo Corporation Common Stock
+746,CVG,Convergys Corporation Common Stock
+747,CVI,CVR Energy Inc. Common Stock
+748,CVO,Cenveo Inc
+749,CVRR,"CVR Refining, LP Common Units Representing Limited Partner Interests"
+750,CVS,CVS Health Corporation Common Stock
+751,CVT,"CVENT, INC. Common Stock"
+752,CVX,Chevron Corporation Common Stock
+753,CW,Curtiss
+754,CWEI,"Clayton Williams Energy, Inc. Common Stock"
+755,CWT,California Water Service Group Common Stock
+756,CX,"Cemex, S.A.B. de C.V. Sponsored ADR"
+757,CXE,MFS High Income Municipal Trust Common Stock
+758,CXH,MFS Investment Grade Municipal Trust Common Stock
+759,CXO,Concho Resources Inc. Common Stock
+760,CXP,"Columbia Property Trust, Inc. Common Stock"
+761,CXW,Corrections Corporation of America Common Stock
+762,CYD,China Yuchai International Limited Common Stock
+763,CYH,"Community Health Systems, Inc. Common Stock"
+764,CYN,City National Corporation Common Stock
+765,CYN-C,City National Corporation Depositary Shares Representing 1/40th Perpetual Preferred Series Series C
+766,CYN-D,City National Corporation Depositary Shares Representing 1/40th Preferred Series D Fixed/Floating
+767,CYNI,"Cyan, Inc. Common Stock"
+768,CYS,"CYS Investments, Inc. Common Stock"
+769,CYS-A,CYS Investments Inc Cumulative Redeemable Preferred Series A
+770,CYS-B,"CYS Investments, Inc. Preferred Series B"
+771,CYT,Cytec Industries Inc. Common Stock
+772,CZZ,Cosan Limited Class A Common Stock
+773,D,"Dominion Resources, Inc. Common Stock"
+774,DAC,Danaos Corporation Common Stock
+775,DAL,"Delta Air Lines, Inc. Common Stock"
+776,DAN,Dana Holding Corporation Common Stock When
+777,DANG,E
+778,DAR,Darling Ingredients Inc. Common Stock
+779,DATA,"Tableau Software, Inc. Class A Common Stock"
+780,DB,Deutsche Bank AG Common Stock
+781,DBD,"Diebold, Incorporated Common Stock"
+782,DBL,DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest
+783,DCA,Virtus Total Return Fund
+784,DCI,"Donaldson Company, Inc. Common Stock"
+785,DCM,"NTT DOCOMO, Inc American Depositary Shares"
+786,DCO,Ducommun Incorporated Common Stock
+787,DCT,DCT Industrial Trust Inc Common Stock
+788,DCUA,"Dominion Resources, Inc. Corporate Unit 2013 Series A"
+789,DCUB,"Dominion Resources, Inc. Corporate Unit 2013 Series B"
+790,DCUC,"Dominion Resources, Inc. VA New 2014 Series A Corp Unit"
+791,DD,E.I. du Pont de Nemours and Company Common Stock
+792,DD-A,E.I. du Pont de Nemours and Company Preferred Stock
+793,DD-B,E.I. du Pont de Nemours and Company Preferred Stock
+794,DDC,Dominion Diamond Corporation Common Stock
+795,DDD,3D Systems Corporation Common Stock
+796,DDE,Dover Downs Gaming & Entertainment Inc Common Stock
+797,DDF,"Delaware Investments Dividend & Income Fund, Inc. Common Stock"
+798,DDR,DDR Corp. Common Stock
+799,DDR-J,DDR Corporation Dep Shs Repstg 1/20th Pfd Cl J
+800,DDR-K,DDR Corp. DEPOSITARY SH REPSTG 1/20TH PDF CL K % (United States)
+801,DDS,"Dillard's, Inc. Common Stock"
+802,DDT,Dillard's Capital Trust I
+803,DE,Deere & Company Common Stock
+804,DECK,Deckers Outdoor Corporation Common Stock
+805,DEG,"Etablissements Delhaize Freres et Cie ""Le Lion"" S.A. Common Stock"
+806,DEI,"Douglas Emmett, Inc. Common Stock"
+807,DEL,Deltic Timber Corporation Common Stock
+808,DEO,Diageo plc Common Stock
+809,DEX,Delaware Enhanced Global Dividend Common Shares of Beneficial Interest
+810,DF,Dean Foods Company Common Stock
+811,DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock
+812,DFS,Discover Financial Services Common Stock
+813,DFS-B,Discover Financial Services Dep Shs
+814,DFT,"Dupont Fabros Technology, Inc. Common Stock"
+815,DFT-A,DuPont Fabros Technology Inc CUMULATIVE RED PERP PFD SER A
+816,DFT-B,"Dupont Fabros Technology, Inc. 7.625% Series B Cumulative Redeemable Perpetual Preferred Stock"
+817,DG,Dollar General Corporation Common Stock
+818,DGI,"DigitalGlobe, Inc Common Stock"
+819,DGX,Quest Diagnostics Incorporated Common Stock
+820,DHF,Dreyfus High Yield Strategies Fund Common Stock
+821,DHG,"Deutsche High Income Opportunities Fund, Inc  New Common Stock"
+822,DHI,"D.R. Horton, Inc. Common Stock"
+823,DHR,Danaher Corporation Common Stock
+824,DHT,"DHT Holdings, Inc."
+825,DHX,"Dice Holdings, Inc. Common Stock"
+826,DIAX,Nuveen Dow 30SM Dynamic Overwrite Fund Common Shares of Beneficial Interest
+827,DIN,"DineEquity, Inc Common Stock"
+828,DIS,Walt Disney Company (The) Common Stock
+829,DK,"Delek US Holdings, Inc. Common Stock"
+830,DKL,"Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests"
+831,DKS,Dick's Sporting Goods Inc Common Stock
+832,DKT,Deutsch Bk Contingent Cap Tr V Tr Pfd Secs
+833,DL,China Distance Education Holdings Limited American Depositary Shares
+834,DLB,Dolby Laboratories Common Stock
+835,DLNG,Dynagas LNG Partners LP Common Units
+836,DLPH,Delphi Automotive plc Ordinary Shares
+837,DLR,"Digital Realty Trust, Inc. Common Stock"
+838,DLR-E,"Digital Realty Trust, Inc. Redeemable Pfd Ser E"
+839,DLR-F,"Digital Realty Trust, Inc. Preferred Series F"
+840,DLR-G,"Digital Realty Trust, Inc. Preferred Series G"
+841,DLR-H,"Digital Realty Trust, Inc. Redeemable Preferred Stock Series H"
+842,DLX,Deluxe Corporation Common Stock
+843,DM,"Dominion Midstream Partners, LP Common Units representing Limited Partner Interests"
+844,DMB,"Dreyfus Municipal Bond Infrastructure Fund, Inc. Common Stock"
+845,DMD,Demand Media Inc. Common Stock
+846,DMO,Western Asset Mortgage Defined Opportunity Fund Inc Common Stock
+847,DNB,Dun & Bradstreet Corporation (The) Common Stock
+848,DNI,Dividend and Income Fund Common Stock
+849,DNOW,NOW Inc. Common Stock
+850,DNP,"DNP Select Income Fund, Inc. Common Stock"
+851,DNR,Denbury Resources Inc. Common Stock
+852,DNY,The Denali Fund Inc
+853,DO,"Diamond Offshore Drilling, Inc. Common Stock"
+854,DOC,Physicians Realty Trust Common Shares of Beneficial Interest
+855,DOM,Dominion Resources Black Warrior Trust Common Stock
+856,DOOR,Masonite International Corporation Ordinary Shares (Canada)
+857,DOV,Dover Corporation Common Stock
+858,DOW,Dow Chemical Company (The) Common Stock
+859,DPG,Duff & Phelps Global Utility Income Fund Inc. Common Stock
+860,DPLO,"Diplomat Pharmacy, Inc. Common Stock"
+861,DPM,"DCP Midstream Partners, LP DCP Midstream Partnership, LP Common Units"
+862,DPS,"Dr Pepper Snapple Group, Inc Dr Pepper Snapple Group, Inc  Common Stock"
+863,DPZ,Domino's Pizza Inc Common Stock
+864,DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares"
+865,DRA,Diversified Real Asset Income Fund Common Shares of Beneficial Interest
+866,DRC,Dresser
+867,DRD,DRDGOLD Limited American Depositary Shares
+868,DRE,Duke Realty Corporation Common Stock
+869,DRH,Diamondrock Hospitality Company Common Stock
+870,DRI,"Darden Restaurants, Inc. Common Stock"
+871,DRII,"Diamond Resorts International, Inc. Common Stock"
+872,DRL,Doral Financial Corporation NEW Common Stock
+873,DRQ,Dril
+874,DSE,Duff & Phelps Select Energy MLP Fund Inc. Common Stock
+875,DSL,DoubleLine Income Solutions Fund Common Shares of Beneficial Interests
+876,DSM,"Dreyfus Strategic Municipal Bond Fund, Inc. Common Stock"
+877,DST,"DST Systems, Inc. Common Stock"
+878,DSU,"Blackrock Debt Strategies Fund, Inc. Common Stock"
+879,DSW,DSW Inc. Common Stock
+880,DSX,Diana Shipping inc. common stock
+881,DSX-B,Diana Shipping Inc. Perpetual Preferred Shares Series B (Marshall Islands)
+882,DTE,DTE Energy Company Common Stock
+883,DTF,DTF Tax
+884,DTK,Deutsche Bk Contingent Cap Tr III Tr Pfd Secs
+885,DTLA-,Brookfield DTLA Inc. 7.625% Series A Cumulative Redeemable Preferred Stock
+886,DTQ,"DTE Energy Company 2012 Series C 5.25% Junior Subordinate Debentures due December 1, 2062"
+887,DTT,Deutsche Bank Cap Fdg Tr IX Guaranteed Trust Preferred Securities
+888,DTZ,DTE Energy Company 2011 Series I 6.50% Junior Subordinate Debentures due 2061
+889,DUA,Deutsche Bank Cap Fdg Tr VIII 6.375% Tr Pfd Secs
+890,DUC,"Duff & Phelps Utility & Corporate Bond Trust, Inc. Common Stock"
+891,DUK,Duke Energy Corporation (Holding Company) Common Stock
+892,DUKH,Duke Energy Corporation 5.125% Junior Subordinated Debentures due 2073
+893,DV,DeVry Education Group Inc. Common Stock
+894,DVA,DaVita HealthCare Partners Inc. Common Stock
+895,DVD,"Dover Motorsports, Inc. Common Stock"
+896,DVN,Devon Energy Corporation Common Stock
+897,DW,Drew Industries Incorporated Common Stock ($0.01 Par Value)
+898,DWRE,"DEMANDWARE, INC. Common Stock"
+899,DX,"Dynex Capital, Inc. Common Stock"
+900,DX-A,"Dynex Capital, Inc. Preferred Stock Series A"
+901,DX-B,"Dynex Capital, Inc. Preferred Series B"
+902,DXB,Deutsche Bk Contingent Cap TR II Tr Pfd Sec
+903,DY,"Dycom Industries, Inc. Common Stock"
+904,DYN,Dynegy Inc. Common Stock
+905,DYN-A,Dynegy Inc. Mandatory Preferred Convertible Series A%
+906,DYN.W,"Dynegy Inc. Warrant expiring October 2, 2017"
+907,E,ENI S.p.A. Common Stock
+908,EAA,"Entergy Arkansas, Inc. First Mortgage Bonds, 5.75% Series Due November 1, 2040"
+909,EAB,"Entergy Arkansas, Inc. First Mortgage Bonds, 4.90% Series Due December 1, 2052"
+910,EAE,"Entergy Arkansas, Inc. First Mortgage Bonds, 4.75% Series due June 1, 2063"
+911,EARN,Ellington Residential Mortgage REIT Common Shares of Beneficial Interest
+912,EAT,"Brinker International, Inc. Common Stock"
+913,EBF,"Ennis, Inc. Common Stock"
+914,EBR,Centrais Elc Braz Pfb B Elbras American Depositary Shares
+915,EBR.B,Centrais Elc Braz Pfb B Elbras American Depositary Shares
+916,EBS,"Emergent Biosolutions, Inc. Common Stock"
+917,EC,Ecopetrol S.A. American Depositary Shares
+918,ECA,Encana Corporation
+919,ECC,Eagle Point Credit Company Inc. Common Stock
+920,ECL,Ecolab Inc. Common Stock
+921,ECOM,ChannelAdvisor Corporation Common Stock
+922,ECR,Eclipse Resources Corporation Common Stock
+923,ECT,ECA Marcellus Trust I Common Units of Beneficial Interest
+924,ED,"Consolidated Edison, Inc. Common Stock"
+925,EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc. Morgan Stanley Emerging Markets Domestic Debt Fund, Inc. Common Stock"
+926,EDE,Empire District Electric Company (The) Common Stock
+927,EDF,Stone Harbor Emerging Markets Income Fund Common Shares of Beneficial Interest
+928,EDI,Stone Harbor Emerging Markets Total Income Fund Common Shares of Beneficial Interests
+929,EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American Depositary Shares
+930,EDR,"Education Realty Trust, Inc. Common Stock"
+931,EDU,"New Oriental Education & Technology Group, Inc. Sponsored ADR representing 1 Ordinary Share (Cayman Islands)"
+932,EE,El Paso Electric Company Common Stock
+933,EEA,"The European Equity Fund, Inc. Common Stock"
+934,EEP,"Enbridge Energy, L.P. Class A Common Units"
+935,EEQ,Enbridge Energy Management LLC Shares repstg limited liability company interests
+936,EFC,"Ellington Financial LLC Common Shares representing Limitied Liability Company Interests, no par valu"
+937,EFF,Eaton vance Floating
+938,EFM,"Entergy Mississippi, Inc. First Mortgage Bonds, 6.20% Series due April 15, 2040"
+939,EFR,Eaton Vance Senior Floating
+940,EFT,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest
+941,EFX,"Equifax, Inc. Common Stock"
+942,EGF,"Blackrock Enhanced Government Fund, Inc. Common Stock"
+943,EGL,"Engility Holdings, Inc. Common Stock"
+944,EGN,Energen Corporation Common Stock
+945,EGO,Eldorado Gold Corporation Ordinary Shares
+946,EGP,"EastGroup Properties, Inc. Common Stock"
+947,EGY,Vaalco Energy Inc Common Stock
+948,EHI,Western Asset Global High Income Fund Inc Common Stock
+949,EHIC,eHi Car Services Limited American Depositary Shares
+950,EIG,Employers Holdings Inc Common Stock
+951,EIX,Edison International Common Stock
+952,EJ,E
+953,EL,"Estee Lauder Companies, Inc. (The) Common Stock"
+954,ELA,"Entergy Louisiana, LLC First Mortgage Bonds, 5.875% Series due June 15, 2041"
+955,ELB,"Entergy Louisiana, Inc. 6.0% Series Due March 15, 2040"
+956,ELJ,"Entergy Louisiana, Inc. First Mortgage Bonds, 5.25% Series due July 1, 2052"
+957,ELLI,"Ellie Mae, Inc. Common Stock"
+958,ELP,Companhia Paranaense de Energia (COPEL) Common Stock
+959,ELS,"Equity Lifestyle Properties, Inc. Common Stock"
+960,ELS-C,"Equity Lifestyle Properties, Inc. Depositary Shares each representing 1/100th of a share of 6.75% Series C Cumulative Redeemable Perpetual Preferred Stock"
+961,ELU,"Entergy Louisiana, Inc. First Mortgage Bonds, 4.70% Series due June 1, 2063"
+962,ELX,Emulex Corporation Common Stock
+963,ELY,Callaway Golf Company Common Stock
+964,EMC,EMC Corporation Common Stock
+965,EMD,"Western Asset Emerging Markets Income Fund, Inc. Common Stock"
+966,EME,"EMCOR Group, Inc. Common Stock"
+967,EMES,Emerge Energy Services LP Common Units representing Limited Partner Interests
+968,EMF,Templeton Emerging Markets Fund Common Stock
+969,EMN,Eastman Chemical Company Common Stock
+970,EMO,ClearBridge Energy MLP Opportunity Fund Inc. Common Stock
+971,EMQ,"Entergy Mississippi, Inc. 1st Mtg Bds"
+972,EMR,Emerson Electric Company Common Stock
+973,EMZ,"Entergy Mississippi, Inc. First Mortgage Bonds, 6.0% Series due May 1, 2051"
+974,ENB,Enbridge Inc Common Stock
+975,ENBL,"Enable Midstream Partners, LP Common Units representing limited partner interests"
+976,ENH,Endurance Specialty Holdings Ltd Common Stock
+977,ENH-A,Endurance Specialty Holdings Ltd Preferred Series A
+978,ENH-B,Endurance Specialty Holdings Ltd PFD SER B (Bermuda)
+979,ENI,Enersis S A Common Stock
+980,ENJ,"Entergy New Orleans, Inc. First Mortgage Bonds, 5.0% Series due December 1, 2052"
+981,ENL,Reed Elsevier NV American Depositary Shares
+982,ENLC,"EnLink Midstream, LLC Common Units representing Limited Partner Interests"
+983,ENLK,"EnLink Midstream Partners, LP Common Units Representing Limited Partnership Interests"
+984,ENR,"Energizer Holdings, Inc. Common Stock"
+985,ENS,Enersys Common Stock
+986,ENV,"Envestnet, Inc Common Stock"
+987,ENVA,"Enova International, Inc. Common Stock"
+988,ENZ,"Enzo Biochem, Inc. Common Stock ($0.01 Par Value)"
+989,EOC,Empresa Nacional de Electricidad S.A. Common Stock
+990,EOD,Wells Fargo Advantage Global Dividend Opportunity Fund
+991,EOG,"EOG Resources, Inc. Common Stock"
+992,EOI,Eaton Vance Enhance Equity Income Fund Eaton Vance Enhanced Equity Income Fund Shares of Beneficial Interest
+993,EOS,Eaton Vance Enhance Equity Income Fund II Common Stock
+994,EOT,Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST
+995,EP-C,El Paso Corporation Preferred Stock
+996,EPAM,"EPAM Systems, Inc. Common Stock"
+997,EPD,Enterprise Products Partners L.P. Common Stock
+998,EPE,EP Energy Corporation Class A Common Stock
+999,EPR,EPR Properties Common Stock
+1000,EPR-C,EPR Properties 5.75% Series C Cumulative Convertible Preferred Shares
+1001,EPR-E,EPR Properties Series E Cumulative Conv Pfd Shs Ser E
+1002,EPR-F,EPR Properties Pfd Ser F
+1003,EQC,Equity Commonwealth Common Shares of Beneficial Interest
+1004,EQC-D,Equity Commonwealth 6.50% Pfd Conv Shs Ser D
+1005,EQC-E,Equity Commonwealth 7.25% Series E Cumulative Redeemable Preferred Shares
+1006,EQCO,Equity Commonwealth 5.75% Senior Notes due 2042
+1007,EQM,"EQT Midstream Partners, LP Common Units representing Limited Partner Interests"
+1008,EQR,Equity Residential Common Shares of Beneficial Interest
+1009,EQS,"Equus Total Return, Inc. Common Stock"
+1010,EQT,EQT Corporation Common Stock
+1011,EQY,"Equity One, Inc. Common Stock"
+1012,ERA,"Era Group, Inc. Common Stock"
+1013,ERF,Enerplus Corporation Common Stock
+1014,ERJ,Embraer S.A. Common Stock
+1015,EROS,Eros International PLC A Ordinary Shares
+1016,ESD,Western Asset Emerging Markets Debt Fund Inc Common Stock
+1017,ESE,ESCO Technologies Inc. Common Stock
+1018,ESI,"ITT Educational Services, Inc. Common Stock"
+1019,ESL,Esterline Technologies Corporation Common Stock
+1020,ESNT,Essent Group Ltd. Common Shares
+1021,ESRT,"Empire State Realty Trust, Inc. Class A Common Stock"
+1022,ESS,"Essex Property Trust, Inc. Common Stock"
+1023,ESS-H,"Essex Property Trust, Inc. 7.125% Series H Cumulative Redeemable Preferred Stock"
+1024,ESV,Ensco plc Class A Ordinary Shares
+1025,ETB,Eaton Vance Tax
+1026,ETE,"Energy Transfer Equity, L.P. Energy Transfer Equity, L.P. Common Units representing Limited Partnership interests"
+1027,ETG,Eaton Vance Tax
+1028,ETH,Ethan Allen Interiors Inc. Common Stock
+1029,ETJ,Eaton Vance Risk
+1030,ETM,Entercom Communications Corporation Common Stock
+1031,ETN,"Eaton Corporation, PLC Ordinary Shares"
+1032,ETO,Eaton Vance Tax
+1033,ETP,"Energy Transfer Partners, L.P. ENERGY TRANSFER PARNTERS"
+1034,ETR,Entergy Corporation Common Stock
+1035,ETV,Eaton Vance Corporation Eaton Vance Tax
+1036,ETW,Eaton Vance Corporation Eaton Vance Tax
+1037,ETX,Eaton Vance Municipal Income Term Trust Common Shares of Beneficial Interest
+1038,ETY,Eaton Vance Tax
+1039,EV,Eaton Vance Corporation Common Stock
+1040,EVC,Entravision Communications Corporation Common Stock
+1041,EVDY,"Everyday Health, Inc. Common Stock"
+1042,EVER,EverBank Financial Corp. Common Stock
+1043,EVER-A,EverBank Financial Corp. Depositary Shares Representing 1/1000th Perpetual Preferred Series A
+1044,EVF,Eaton Vance Senior Income Trust Common Stock
+1045,EVG,Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest
+1046,EVGN,Evogene Ltd Ordinary shares (Israel)
+1047,EVHC,"Envision Healthcare Holdings, Inc. Common Stock"
+1048,EVN,Eaton Vance Municipal Income Trust Common Stock
+1049,EVR,Evercore Partners Inc Class A Common Stock
+1050,EVT,Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest
+1051,EVTC,"Evertec, Inc. Common Stock"
+1052,EW,Edwards Lifesciences Corporation Common Stock
+1053,EXAM,"ExamWorks Group, Inc. Common Stock"
+1054,EXAR,Exar Corporation Common Stock
+1055,EXC,Exelon Corporation Common Stock
+1056,EXCU,Exelon Corp. Conv Unit
+1057,EXD,Eaton Vance Tax
+1058,EXG,Eaton Vance Tax
+1059,EXH,"Exterran Holdings, Inc. Common Stock"
+1060,EXK,Endeavour Silver Corporation Ordinary Shares (Canada)
+1061,EXL,"Excel Trust, Inc. Common Stock"
+1062,EXL-B,"Excel Trust, Inc. 8.125% Series B Cumulative Redeemable Preferred Stock, $0.01 par value"
+1063,EXP,Eagle Materials Inc Common Stock
+1064,EXPR,"Express, Inc. Common Stock"
+1065,EXR,Extra Space Storage Inc Common Stock
+1066,EZT,"Entergy Texas Inc First Mortgage Bonds 5.625% Series due June 1, 2064"
+1067,F,Ford Motor Company Common Stock
+1068,FAC,First Acceptance Corporation
+1069,FAF,First American Corporation (New) Common Stock
+1070,FAM,First Trust/Aberdeen Global Opportunity Income Fund First Trust/Aberdeen Global Opportunity Income Fund Common Shares of Beneficial Interest
+1071,FAV,First Trust Dividend and Income Fund Common Shares of Beneficial Interest
+1072,FBC,"Flagstar Bancorp, Inc. Common Stock"
+1073,FBHS,"Fortune Brands Home & Security, Inc. Common Stock"
+1074,FBP,First BanCorp. New Common Stock
+1075,FBR,Fibria Celulose S.A.
+1076,FBS-A,First Preferred Cap Tr Iv First Preferred Capital Trust IV 8.15% Cum Trust Pfd Sec
+1077,FC,Franklin Covey Company Common Stock
+1078,FCAM,Fiat Chrysler Automobiles N.V. Mandatory Convertible Securities
+1079,FCAU,Fiat Chrysler Automobiles N.V. Common Shares
+1080,FCB,"FCB Financial Holdings, Inc. Class A Common Stock"
+1081,FCE.A,"Forest City Enterprises, Inc. Common Stock"
+1082,FCE.B,"Forest City Enterprises, Inc. Common Stock"
+1083,FCF,First Commonwealth Financial Corporation Common Stock
+1084,FCH,FelCor Lodging Trust Incorporated Common Stock
+1085,FCH-A,FelCor Lodging Trust Incorporated Preferred Stock
+1086,FCH-C,FelCor Lodging Trust Incorporated Dep Shares Representing 1/100 Preferred Series C
+1087,FCN,"FTI Consulting, Inc. Common Stock"
+1088,FCT,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest
+1089,FCX,Freeport
+1090,FDI,"Fort Dearborn Income Securities, Inc. Common Stock"
+1091,FDO,"Family Dollar Stores, Inc. Common Stock"
+1092,FDP,"Fresh Del Monte Produce, Inc. Common Stock"
+1093,FDS,FactSet Research Systems Inc. Common Stock
+1094,FDX,FedEx Corporation Common Stock
+1095,FE,FirstEnergy Corporation Common Stock
+1096,FEI,First Trust MLP and Energy Income Fund Common Shares of Beneficial Interest
+1097,FELP,Foresight Energy LP Common Units representing Limited Partner Interests
+1098,FENG,"Phoenix New Media Limited American Depositary Shares, each representing 8 Class A ordinary shares."
+1099,FEO,First Trust/Aberdeen Emerging Opportunity Fund Common Shares of Beneficial Interest
+1100,FET,"Forum Energy Technologies, Inc. Common Stock"
+1101,FF,FutureFuel Corp.  Common shares
+1102,FFA,First Trust Enhanced Equity Income Fund
+1103,FFC,Flaherty & Crumrine Preferred Securities Income Fund Incorporated
+1104,FFG,"FBL Financial Group, Inc. Common Stock"
+1105,FGB,First Trust Specialty Finance and Financial Opportunities Fund
+1106,FGL,Fidelity & Guaranty Life Common Stock
+1107,FGP,"Ferrellgas Partners, L.P. Common Stock"
+1108,FHN,First Horizon National Corporation Common Stock
+1109,FHN-A,First Horizon National Corporation Depositary Shares
+1110,FHY,First Trust Strategic High Income Fund II First Trust Strategic High Income Fund II Common Shares of Beneficial Interest
+1111,FI,Frank's International N.V. Common Stock
+1112,FICO,Fair Isaac Corproation Common Stock
+1113,FIF,First Trust Energy Infrastructure Fund Common Shares of Beneficial Interest
+1114,FIG,Fortress Investment Group LLC Class A Common Stock
+1115,FII,"Federated Investors, Inc. Common Stock"
+1116,FIS,"Fidelity National Information Services, Inc. Common Stock"
+1117,FIX,"Comfort Systems USA, Inc. Common Stock"
+1118,FL,"Foot Locker, Inc."
+1119,FLC,Flaherty & Crumrine Total Return Fund Inc Common Stock
+1120,FLO,"Flowers Foods, Inc. Common Stock"
+1121,FLR,Fluor Corporation Common Stock
+1122,FLS,Flowserve Corporation Common Stock
+1123,FLT,"FleetCor Technologies, Inc. Common Stock"
+1124,FLTX,Fleetmatics Group PLC Ordinary Shares
+1125,FLY,Fly Leasing Limited
+1126,FMC,FMC Corporation Common Stock
+1127,FMD,First Marblehead Corporation (The) Common Stock
+1128,FMER-A,FirstMerit Corporation Depositary Shares
+1129,FMN,Federated Premier Municipal Income Fund Federated Premier Municipal Income Fund
+1130,FMO,Fiduciary/Claymore MLP Opportunity Fund Fiduciary/Claymore MLP Opportunity Fund Common Shares of Beneficial Interest
+1131,FMS,Fresenius Medical Care AG Common Stock
+1132,FMSA,FMSA Holdings Inc. Common Stock
+1133,FMX,Fomento Economico Mexicano S.A.B. de C.V. Common Stock
+1134,FMY,First Trust Motgage Income Fund Common Shares of Beneficial Interest
+1135,FN,Fabrinet Ordinary Shares
+1136,FNB,F.N.B. Corporation Common Stock
+1137,FNB-E,"F.N.B. Corporation Depositary Shares, each representing a 1/40th interest in a share of Fixed"
+1138,FNF,"FNF Group of Fidelity National Financial, Inc. Common Stock"
+1139,FNFG-B,First Niagara Financial Group Inc. PFD NON CUM SER B FXD/FLTG
+1140,FNFV,"FNFV Group of Fidelity National Financial, Inc. Common Stock"
+1141,FNV,Franco
+1142,FOE,Ferro Corporation Common Stock
+1143,FOF,Cohen & Steers Closed
+1144,FOR,Forestar Group Inc Common Stock
+1145,FPF,First Trust Intermediate Duration Preferred & Income Fund Common Shares of Beneficial Interest
+1146,FPL,First Trust New Opportunities MLP & Energy Fund Common Shares of Beneficial Interest
+1147,FPO,First Potomac Realty Trust Common Shares of Beneficial Interest
+1148,FPO-A,First Potomac Realty Trust CUMULATIVE REDEEMABLE PFD PERPETUAL SER A
+1149,FPT,Federated Premier Intermediate Municipal Income Fund Federated Premier Intermediate Municipal Income Fund
+1150,FR,"First Industrial Realty Trust, Inc. Common Stock"
+1151,FRA,Blackrock Floating Rate Income Strategies Fund Inc  Common Stock
+1152,FRC,FIRST REPUBLIC BANK Common Stock
+1153,FRC-A,First Republicbank Corp DEP SHS REPSTG 1/40TH PERP PFD SER A
+1154,FRC-B,First Republic Bank Depositary Shares Representing 1/40th Perpetual Preferred Series B
+1155,FRC-C,FIRST REPUBLIC BANK Dep Shs Repstg 1/40th Perp Pfd Ser C
+1156,FRC-D,First Republic Bank San Francisco California Depositary Shares Representing 1/40th Perpetual Preferred Series D
+1157,FRC-E,FIRST REPUBLIC BANK Depositary Shs Repstg 1/40th Perp Pfd Ser E Fixed To Fltg (RATE)
+1158,FRM,Furmanite Corporation Common Stock
+1159,FRO,Frontline Ltd. Ordinary Shares
+1160,FRT,Federal Realty Investment Trust Common Stock
+1161,FSCE,Fifth Street Finance Corp. 5.875% Senior Notes due 2024
+1162,FSD,First Trust High Income Long Short Fund Common Shares of Beneficial Interest
+1163,FSIC,FS Investment Corporation Common Stock
+1164,FSL,"Freescale Semiconductor, Ltd Common Shares"
+1165,FSM,Fortuna Silver Mines Inc Ordinary Shares (Canada)
+1166,FSS,Federal Signal Corporation Common Stock
+1167,FT,Franklin Universal Trust Common Stock
+1168,FTI,"FMC Technologies, Inc. Common Stock"
+1169,FTK,"Flotek Industries, Inc. Common Stock"
+1170,FTT,Federated Enhanced Treasury Income Fund Common Shares of Beneficial Interest
+1171,FUL,H. B. Fuller Company Common Stock
+1172,FUN,"Cedar Fair, L.P. Common Stock"
+1173,FUR,Winthrop Realty Trust New Common Stock
+1174,FVE,"Five Star Quality Care, Inc. Common Stock"
+1175,FXCM,FXCM Inc. Class A Common Stock
+1176,G,Genpact Limited Common Stock
+1177,GAB,"Gabelli Equity Trust, Inc. (The) Common Stock"
+1178,GAB-D,"Gabelli Equity Trust, Inc. (The) Preferred Stock Series D"
+1179,GAB-G,"Gabelli Equity Trust, Inc. (The) Series G Cumulative Preferred Stock"
+1180,GAB-H,"Gabelli Equity Trust, Inc. (The) Pfd Ser H"
+1181,GAM,"General American Investors, Inc. Common Stock"
+1182,GAM-B,"General American Investors Company, Inc. Cumulative Preferred Stock"
+1183,GAS,"AGL Resources, Inc. Common Stock"
+1184,GB,"Greatbatch, Inc. Common Stock"
+1185,GBAB,Guggenheim Build America Bonds Managed Duration Trust Common Shares of Beneficial Interest
+1186,GBL,"Gamco Investors, Inc. Common Stock"
+1187,GBX,"Greenbrier Companies, Inc. (The) Common Stock"
+1188,GCA,"Global Cash Access Holdings, Inc. Common Stock"
+1189,GCAP,"GAIN Capital Holdings, Inc. Common Stock"
+1190,GCH,"Aberdeen Greater China Fund, Inc. Common Stock"
+1191,GCI,"Gannett Co., Inc. Common Stock"
+1192,GCO,Genesco Inc. Common Stock
+1193,GCV,"Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock"
+1194,GCV-B,"Gabelli Convertible and Income Securities Fund, Inc. (The) Series B 6.00% Cumulative Preferred Stock"
+1195,GD,General Dynamics Corporation Common Stock
+1196,GDF,"Western Asset Global Partners Income Fund, Inc. Common Stock"
+1197,GDL,"GDL Fund, The Common Shares of Beneficial Interest"
+1198,GDL-B,The GDL Fund Series B Cumulative Puttable and Callable Preferred Shares
+1199,GDO,Western Asset Global Corporate Defined Opportunity Fund Inc. Western Asset Global Corporate Defined Opportunity Fund Inc.
+1200,GDOT,"Green Dot Corporation Class A Common Stock, $0.001 par value"
+1201,GDP,Goodrich Petroleum Corporation Common Stock
+1202,GDP-C,Goodrich Petroleum Corporation Depositary Shares Representing 1/1000th Preferred Series C
+1203,GDP-D,Goodrich Petroleum Corporation Depositary Shares Representing 1/1000th Preferred Series D
+1204,GDV,Gabelli Dividend & Income Trust Common Shares of Beneficial Interest
+1205,GDV-A,Gabelli Dividend & Income Tr Preferred Series A
+1206,GDV-D,Gabelli Dividend Pfd Series D
+1207,GE,General Electric Company Common Stock
+1208,GEB,"General Electric Company 4.875% Notes due October 15, 2052"
+1209,GEF,Greif Inc. Class A Common Stock
+1210,GEF.B,"Greif, Inc. Corporation Class B Common Stock"
+1211,GEH,"General Electric Capital Corporation 4.876% Notes due January 29, 2053"
+1212,GEK,"General Electric Capital Corporation 4.70% Notes due May 16, 2053"
+1213,GEL,"Genesis Energy, L.P. Common Units"
+1214,GEO,Geo Group Inc (The) REIT
+1215,GEQ,Guggenheim Equal Weight Enhanced Equity Income Fund Common Shares of Beneficial Interest
+1216,GER,Goldman Sachs MLP Energy Renaissance Fund
+1217,GES,"Guess?, Inc. Common Stock"
+1218,GF,"New Germany Fund, Inc. (The) Common Stock"
+1219,GFA,Gafisa SA Gafisa S.A. American Depositary Shares
+1220,GFF,Griffon Corporation Common Stock
+1221,GFI,Gold Fields Limited American Depositary Shares
+1222,GFIG,GFI Group Inc. Common Stock
+1223,GFY,Western Asset Variable Rate Strategic Fund Inc. Common Stock
+1224,GG,Goldcorp Inc. Common Stock
+1225,GGB,Gerdau S.A. Common Stock
+1226,GGE,Guggenheim Enhanced Equity Strategy Fund
+1227,GGG,Graco Inc. Common Stock
+1228,GGM,Guggenheim Credit Allocation Fund Common Shares of Beneficial Interest
+1229,GGP,"General Growth Properties, Inc. Common Stock"
+1230,GGP-A,"General Growth Properties, Inc. Preferred Series A"
+1231,GGT,Gabelli Multi
+1232,GGT-B,Gabelli Multi
+1233,GGZ,Gabelli Global Small and Mid Cap Value Trust (The) Common Shares of Beneficial Interest
+1234,GHC,Graham Holdings Company Common Stock
+1235,GHI,"Global High Income Fund, Inc. Common Stock"
+1236,GHL,"Greenhill & Co., Inc. Common Stock"
+1237,GHM,Graham Corporation Common Stock
+1238,GHY,"Prudential Global Short Duration High Yield Fund, Inc. Common Stock"
+1239,GIB,"CGI Group, Inc. Common Stock"
+1240,GIL,"Gildan Activewear, Inc. Class A Sub. Vot. Common Stock"
+1241,GIM,"Templeton Global Income Fund, Inc. Common Stock"
+1242,GIMO,Gigamon Inc. Common Stock
+1243,GIS,"General Mills, Inc. Common Stock"
+1244,GJH,Synthetic Fixed
+1245,GJO,Synthetic Fixed
+1246,GJP,Synthetic Fixed
+1247,GJR,Synthetic Fixed
+1248,GJS,"Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities, Series 2006"
+1249,GJT,Synthetic Fixed
+1250,GJV,Synthetic Fixed
+1251,GLF,"GulfMark Offshore, Inc. New Common Stock"
+1252,GLOB,Globant S.A. Common Shares
+1253,GLOG,GasLog Ltd. Common Shares
+1254,GLOP,GasLog Partners LP Common Units representing limited partnership interests
+1255,GLP,Global Partners LP Global Partners LP Common Units representing Limited Partner Interests
+1256,GLPW,Global Power Equipment Group Inc Common Stock
+1257,GLT,Glatfelter Common Stock
+1258,GLW,Corning Incorporated Common Stock
+1259,GM,General Motors Company Common Stock
+1260,GM.A,General Motors Company Warrant (Expires 07/10/2016)
+1261,GM.B,General Motors Company Warrant (Expires 07/10/2019)
+1262,GM.C,"General Motors Company Warrants (expiring December 31, 2015)"
+1263,GME,Gamestop Corporation Common Stock
+1264,GMED,"Globus Medical, Inc. Class A Common Stock"
+1265,GMK,"GRUMA, S.A.B de C.V. Common Stock"
+1266,GMT,GATX Corporation Common Stock
+1267,GMZ,Goldman Sachs MLP Income Opportunities Fund
+1268,GNC,"GNC Holdings, Inc. Class A Common Stock"
+1269,GNE,Genie Energy Ltd. Class B Common Stock Stock
+1270,GNE-A,Genie Energy Ltd. Series 2012
+1271,GNI,Great Northern Iron Ore Properties Common Stock
+1272,GNRC,Generac Holdlings Inc. Common Stock
+1273,GNT,"GAMCO Natural Resources, Gold & Income Trust"
+1274,GNW,Genworth Financial Inc Common Stock
+1275,GOF,Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest
+1276,GOL,Gol Linhas Aereas Inteligentes S.A. Sponsored ADR representing Pfd Shares
+1277,GOV,Government Properties Income Trust Common Shares of Beneficial Interest
+1278,GPC,Genuine Parts Company Common Stock
+1279,GPE-A,"Georgia Power Company Georgia Power Company 6 1/8% Series Class A Preferred Stock, Non"
+1280,GPI,"Group 1 Automotive, Inc. Common Stock"
+1281,GPK,Graphic Packaging Holding Company
+1282,GPM,Guggenheim Enhanced Equity Income Fund
+1283,GPN,Global Payments Inc. Common Stock
+1284,GPRK,Geopark Ltd Common Shares
+1285,GPS,"Gap, Inc. (The) Common Stock"
+1286,GPT,Gramercy Property Trust Inc. Common Stock
+1287,GPT-B,Gramercy Property Trust Inc. Preferred Series B
+1288,GPX,GP Strategies Corporation Common Stock
+1289,GRA,W.R. Grace & Co. Common Stock
+1290,GRAM,"Grana y Montero S.A.A. American Depositary Shares, each representing five Common Shares"
+1291,GRO,Agria Corporation American Depositary Shares
+1292,GRP.U,"Granite Real Estate Inc. Stapled Units, each consisting of one unit of Granite Real Estate Trust and one common share of Granite REIT Inc."
+1293,GRR,"Asia Tigers Fund, Inc. (The) Common Stock"
+1294,GRT,Glimcher Realty Trust Common Stock
+1295,GRT-G,Glimcher Realty Trust Preferred Shares of Beneficial Interest Series G
+1296,GRT-H,Glimcher Reatly Tr Pfd Sh Ben Int Ser H %
+1297,GRT-I,Glimcher Realty Trust 6.875% Cumulative Redeemable Preferred Shares of Beneficial Interest
+1298,GRUB,GrubHub Inc. Common Stock
+1299,GRX,The Gabelli Healthcare & Wellness Trust Common Shares of Beneficial Interest
+1300,GRX-A,Gabelli Healthcare PFD SER A
+1301,GRX-B,Gabelli Healthcare Preferred Series B
+1302,GS,"Goldman Sachs Group, Inc. (The) Common Stock"
+1303,GS-A,"Goldman Sachs Group, Inc. (The) Depositary Shares each representing 1/1000th Interest in a Share of Floating Rate Non"
+1304,GS-B,"Goldman Sachs Group, Inc. (The) Depositary Share repstg 1/1000th Preferred Series B"
+1305,GS-C,"Goldman Sachs Group, Inc. (The) Depositary Share repstg 1/1000th Preferred Series C"
+1306,GS-D,"Goldman Sachs Group, Inc. (The) Dep Shs repstg 1/1000 Pfd Ser D Fltg"
+1307,GS-I,"Goldman Sachs Group, Inc. (The) Perpetual Preferred Series I"
+1308,GS-J,Goldman Sachs Group Inc Depositary Shs Repstg 1/1000th Pfd Ser J Fixed to Fltg Rate
+1309,GS-K,"Goldman Sachs Group, Inc. (The) Dep Shs Repstg 1/1000 Int Sh Fxd/Fltg Non Cum Pfd Stk Ser K"
+1310,GSF,"Goldman Sachs Group, Inc. (The) 6.125% Notes due 2060"
+1311,GSH,Guangshen Railway Company Limited Common Stock
+1312,GSI,"General Steel Holdings, Inc. Common Stock"
+1313,GSJ,"Goldman Sachs Group, Inc. (The) 6.50% Notes due 2061"
+1314,GSK,GlaxoSmithKline PLC Common Stock
+1315,GSL,Global Ship Lease Inc New Class A Common Shares
+1316,GSL-B,"Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)"
+1317,GTI,GrafTech International Ltd (Holding Co.) Common Stock
+1318,GTN,"Gray Communications Systems, Inc. Common Stock"
+1319,GTN.A,"Gray Television, Inc. CLass A Common Stock"
+1320,GTS,Triple
+1321,GTT,"GTT Communications, Inc. Common Stock"
+1322,GTY,Getty Realty Corporation Common Stock
+1323,GUA,"Gulf Power Company Series 2011A 5.75% Senior Notes due June 1, 2051"
+1324,GUT,Gabelli Utility Trust (The) Common Stock
+1325,GUT-A,Gabelli Utility Trust (The) 5.625% Series A Cumulative Preferred Shares
+1326,GVA,Granite Construction Incorporated Common Stock
+1327,GWB,"Great Western Bancorp, Inc. Common Stock"
+1328,GWR,Genesee & Wyoming Inc. Class A Common Stock
+1329,GWRE,"Guidewire Software, Inc. Common Stock"
+1330,GWRU,"Genesee & Wyoming, Inc. Tangible Equity Unit"
+1331,GWW,"W.W. Grainger, Inc. Common Stock"
+1332,GXP,Great Plains Energy Incorporated Common Stock
+1333,GXP-A,Great Plains Energy Incorporated Preferred Stock
+1334,GXP-D,Great Plains Energy Incorporated Preferred Stock
+1335,GXP-E,Great Plains Energy Incorporated Preferred Stock
+1336,GY,GenCorp Inc. Common Stock
+1337,GYB,CABCO Series 2004
+1338,GYC,Corporate Asset Backed Corp CABCO Corporate Asset Backed Corporation CABCO Series 2004
+1339,GZT,Gazit
+1340,H,Hyatt Hotels Corporation Class A Common Stock
+1341,HAE,Haemonetics Corporation Common Stock
+1342,HAL,Halliburton Company Common Stock
+1343,HAR,"Harman International Industries, Incorporated Common Stock"
+1344,HASI,"Hannon Armstrong Sustainable Infrastructure Capital, Inc. Common Stock"
+1345,HBI,Hanesbrands Inc. Common Stock
+1346,HBM,Hudbay Minerals Inc Ordinary Shares (Canada)
+1347,HBM.W,HudBay Minerals Inc Warrants Expiring 07/20/2018 (Canada)
+1348,HCA,"HCA Holdings, Inc. Common Stock"
+1349,HCC,"HCC Insurance Holdings, Inc. Common Stock"
+1350,HCI,"HCI Group, Inc. Common Stock"
+1351,HCJ,"HCI Group, Inc. 8% Senior Notes due 2020"
+1352,HCLP,Hi
+1353,HCN,"Health Care REIT, Inc. Common Stock"
+1354,HCN-I,"Health Care REIT, Inc. PFD PERPETUAL CONV SER I"
+1355,HCN-J,HEALTH CARE REIT INC Preferred Stock 6.5% PFD SERIES J
+1356,HCP,"HCP, Inc. Common Stock"
+1357,HD,"Home Depot, Inc. (The) Common Stock"
+1358,HDB,HDFC Bank Limited Common Stock
+1359,HDY,HyperDynamics Corporation Common Stock
+1360,HE,"Hawaiian Electric Industries, Inc. Common Stock"
+1361,HE-U,"Hawaiian Electric Industries, Inc. 6.5 % Cum QUIPS"
+1362,HEI,Heico Corporation Common Stock
+1363,HEI.A,Heico Corporation Common Stock
+1364,HELI,CHC Group Ltd. Ordinary Shares
+1365,HEP,"Holly Energy Partners, L.P. Common Stock"
+1366,HEQ,John Hancock Hedged Equity & Income Fund Common Shares of Beneficial Interest
+1367,HES,Hess Corporation Common Stock
+1368,HF,"HFF, Inc. Common Stock, Class A"
+1369,HFC,HollyFrontier Corporation Common Stock
+1370,HGG,"HHGregg, Inc. Common Stock"
+1371,HGH,"Hartford Financial Services Group, Inc. (The) 7.875% Fixed to Floating Rate Junior Subordinated Debentures due 2042"
+1372,HGR,"Hanger, Inc. Common Stock ($0.01 Par Value)"
+1373,HGT,Hugoton Royalty Trust Common Stock
+1374,HHC,Howard Hughes Corporation (The) Common Stock
+1375,HHS,Harte
+1376,HHY,Brookfield High Income Fund Inc.
+1377,HI,Hillenbrand Inc Common Stock
+1378,HIE,Miller/Howard High Income Equity Fund Common Shares of Beneficial Interest
+1379,HIG,"Hartford Financial Services Group, Inc. (The) Common Stock"
+1380,HIG.W,"Hartford Financial Services Group, Inc. (The) Warrants expiring June 26, 2019"
+1381,HII,"Huntington Ingalls Industries, Inc. Common Stock"
+1382,HIL,"Hill International, Inc. Common Stock"
+1383,HIO,"Western Asset High Income Opportunity Fund, Inc. Common Stock"
+1384,HIVE,"Aerohive Networks, Inc. Common Stock"
+1385,HIW,"Highwoods Properties, Inc. Common Stock"
+1386,HIX,Western Asset High Income Fund II Inc. Common Stock
+1387,HJV,"MS Structured Asset Corp MS Structured Asset Corp. SATURNS J.C. Penney Company, Inc. Debenture Backed Series 2007"
+1388,HK,Halcon Resources Corporation Common Stock
+1389,HL,Hecla Mining Company Common Stock
+1390,HL-B,Hecla Mining Company Preferred Stock
+1391,HLF,Herbalife Ltd. Common Stock
+1392,HLS,HealthSouth Corporation Common Stock
+1393,HLT,Hilton Worldwide Holdings Inc. Common Stock
+1394,HLX,"Helix Energy Solutions Group, Inc. Common Stock"
+1395,HMC,"Honda Motor Company, Ltd. Common Stock"
+1396,HME,"Home Properties, Inc. Common Stock"
+1397,HMLP,Hoegh LNG Partners LP Common Units representing Limited Partner Interests
+1398,HMN,Horace Mann Educators Corporation Common Stock
+1399,HMY,Harmony Gold Mining Company Limited
+1400,HNI,HNI Corporation Common Stock
+1401,HNP,Huaneng Power Intl Common Stock
+1402,HNR,Harvest Natural Resources Inc
+1403,HNT,Health Net Inc. Common Stock
+1404,HOG,Harley
+1405,HON,Honeywell International Inc. Common Stock
+1406,HOS,Hornbeck Offshore Services Common Stock
+1407,HOT,"Starwood Hotels & Resorts Worldwide, Inc. Common Stock"
+1408,HOV,"Hovnanian Enterprises, Inc. Class A Common Stock"
+1409,HP,"Helmerich & Payne, Inc. Common Stock"
+1410,HPF,John Hancock Pfd Income Fund II Pfd Income Fund II
+1411,HPI,John Hancock Preferred Income Fund Common Shares of Beneficial Interest
+1412,HPP,"Hudson Pacific Properties, Inc. Common Stock"
+1413,HPP-B,"Hudson Pacific Properties, Inc. 8.375% Series B Cumulative Redeemable Preferred shares"
+1414,HPQ,Hewlett
+1415,HPS,John Hancock Preferred Income Fund III Preferred Income Fund III
+1416,HPT,Hospitality Properites Trust Common Stock
+1417,HPT-D,Hospitality Properties Trust Preferred Stock
+1418,HPY,"Heartland Payment Systems, Inc. Common Stock"
+1419,HQH,Tekla Healthcare Investors Common Stock
+1420,HQL,TeklaLife Sciences Investors Common Stock
+1421,HR,Healthcare Realty Trust Incorporated Common Stock
+1422,HRB,"H&R Block, Inc. Common Stock"
+1423,HRC,Hill
+1424,HRG,Harbinger Group Inc Common Stock
+1425,HRL,Hormel Foods Corporation Common Stock
+1426,HRS,Harris Corporation Common Stock
+1427,HRTG,"Heritage Insurance Holdings, Inc. Common Stock"
+1428,HSBC,"HSBC Holdings, plc. Common Stock"
+1429,HSBC-A,"HSBC Holdings, plc. ADR SER A REP 1/40 PFD SER A"
+1430,HSC,Harsco Corporation Common Stock
+1431,HSEA,"HSBC Holdings, plc. Perpetual Sub Cap Secs"
+1432,HSEB,HSBC Holdings plc PERP SUB CAP SECS EXCH PREF SHS SER 2 (United Kingdom)
+1433,HSFC-B,HSBC Finance Corp Dep. Shares reptsg 1/40 Preferred Series B
+1434,HSP,Hospira Inc
+1435,HST,"Host Hotels & Resorts, Inc. Common Stock"
+1436,HSY,The Hershey Company Common Stock
+1437,HT,Hersha Hospitality Trust Class A Common Shares of Beneficial Interest
+1438,HT-B,Hersha Hospitality Trust PFD SER B
+1439,HT-C,Hersha Hospitality Trust 6.875% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest
+1440,HTA,"Healthcare Trust of America, Inc. Class A Common Stock"
+1441,HTD,John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest
+1442,HTF,Horizon Technology Finance Corporation 7.375% Senior Notes due 2019
+1443,HTGC,"Hercules Technology Growth Capital, Inc. Common Stock"
+1444,HTGX,"Hercules Technology Growth Capital, Inc. 6.25% Notes due 2024"
+1445,HTGY,"Hercules Technology Growth Capital, Inc. 7.00% Senior Notes due 2019"
+1446,HTGZ,"Hercules Technology Growth Capital, Inc. 7.00% Note due 2019"
+1447,HTH,Hilltop Holdings Inc.
+1448,HTR,Brookfield Total Return Fund Inc. (The) Common Stock
+1449,HTS,Hatteras Financial Corp Hatteras Financial Corp  Common Stock
+1450,HTS-A,Hatteras Financial Corp Cum Redeemable Pfd Ser A
+1451,HTY,John Hancock Tax
+1452,HTZ,"Hertz Global Holdings, Inc Common Stock"
+1453,HUB.A,Hubbell Inc A Common Stock
+1454,HUB.B,Hubbell Inc Common Stock Class B
+1455,HUBS,"HubSpot, Inc. Common Stock"
+1456,HUM,Humana Inc. Common Stock
+1457,HUN,Huntsman Corporation Common Stock
+1458,HUSI-D,"HSBC USA, Inc. Preferred Stock"
+1459,HUSI-F,"HSBC USA, Inc. Preferred Series F Floating Rate"
+1460,HUSI-G,"HSBC USA, Inc. Dep Shs repstg 1/40 Preferred Series G"
+1461,HUSI-H,"HSBC USA, Inc. Depositary Sh repstg 1/40th Preferred Series H"
+1462,HUSI-Z,"HSBC USA, Inc. Preferred Stock"
+1463,HVB,Hudson Valley Holding Corp. Common Stock
+1464,HVT,"Haverty Furniture Companies, Inc. Common Stock"
+1465,HVT.A,"Haverty Furniture Companies, Inc. Common Stock"
+1466,HW,Headwaters Incorporated Common Stock
+1467,HXL,Hexcel Corporation Common Stock
+1468,HY,Hyster
+1469,HYB,"New America High Income Fund, Inc. (The) Common Stock"
+1470,HYF,"Managed High Yield Plus Fund, Inc. Common Stock"
+1471,HYH,"Halyard Health, Inc. Common Stock"
+1472,HYI,Western Asset High Yield Defined Opportunity Fund Inc. Common Stock
+1473,HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock"
+1474,HZO,"MarineMax, Inc. Common Stock"
+1475,I,Intelsat S.A. Common Shares
+1476,I-A,Intelsat S.A. Series A mandatory convefrtible junior non
+1477,IAE,Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest
+1478,IAG,Iamgold Corporation Ordinary Shares
+1479,IBA,"Industrias Bachoco, S.A.B. de C.V. Common Stock"
+1480,IBM,International Business Machines Corporation Common Stock
+1481,IBN,ICICI Bank Limited Common Stock
+1482,IBP,"Installed Building Products, Inc. Common Stock"
+1483,ICA,Empresas Ica Soc Contrladora Common Stock
+1484,ICB,"MS Income Securities, Inc. Common Stock"
+1485,ICD,"Independence Contract Drilling, Inc. Common Stock"
+1486,ICE,Intercontinental Exchange Inc. Common Stock
+1487,ICL,Israel Chemicals Limited Ordinary Shares
+1488,IDA,"IDACORP, Inc. Common Stock"
+1489,IDE,"Voya Infrastructure, Industrials and Materials Fund Common Shares of Beneficial Interest"
+1490,IDG,ING GROEP N V PREF CTF 7.3750% Perp Hybrid Cap Secs (Netherlands)
+1491,IDT,IDT Corporation Class B Common Stock
+1492,IEH,Integrys Energy Group 6.00% Junior Subordinated Notes Due 2073
+1493,IEX,IDEX Corporation Common Stock
+1494,IFF,"Internationa Flavors & Fragrances, Inc. Common Stock"
+1495,IFN,"India Fund, Inc. (The) Common Stock"
+1496,IFT,"Imperial Holdings, Inc. Common Stock"
+1497,IGA,Voya Global Advantage and Premium Opportunity Fund Common Shares of Beneficial Interest
+1498,IGD,Voya Global Equity Dividend and Premium Opportunity Fund
+1499,IGI,Western Asset Investment Grade Defined Opportunity Trust Inc. Common Stock
+1500,IGR,CBRE Clarion Global Real Estate Income Fund Common Stock
+1501,IGT,International Game Technology Common Stock
+1502,IHC,Independence Holding Company Common Stock
+1503,IHD,Voya Emerging Markets High Income Dividend Equity Fund Common Shares
+1504,IHG,Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share)
+1505,IHS,IHS Inc. IHS Inc. Class A Common Stock
+1506,IID,Voya International High Dividend Equity Income Fund Common Shares of Beneficial Interest
+1507,IIF,"Morgan Stanley India Investment Fund, Inc. Common Stock"
+1508,IIM,Invesco Value Municipal Income Trust Common Stock
+1509,IL,"IntraLinks Holdings, Inc. Common Stock $0.001 par value"
+1510,IM,Ingram Micro Inc. Common Stock
+1511,IMAX,Imax Corporation Common Stock
+1512,IMN,Imation Corporation Common Stock
+1513,IMPR,"Imprivata, Inc. Common Stock"
+1514,IMPV,"Imperva, Inc. Common Stock"
+1515,IMS,"IMS Health Holdings, Inc. Common Stock"
+1516,INB,"Cohen & Steers Global Income Builder, Inc. Common Shares of Beneficial Interest"
+1517,IND,"ING Group, N.V. Perpetual Debt Securities"
+1518,INF,Brookfield Global Listed Infrastructure Income Fund Closed End Fund
+1519,INFY,Infosys Limited American Depositary Shares
+1520,ING,"ING Group, N.V. Common Stock"
+1521,INGR,Ingredion Incorporated Common Stock
+1522,INN,"Summit Hotel Properties, Inc. Common Stock"
+1523,INN-A,"Summit Hotel Properties, Inc. 9.25% Series A Cumulative Redeemable Preferred Stock"
+1524,INN-B,"Summit Hotel Properties, Inc. Pfd Ser B"
+1525,INN-C,"Summit Hotel Properties, Inc. 7.125% Series C Cumulative Redeemable Preferred Stock"
+1526,INT,World Fuel Services Corporation Common Stock
+1527,INVN,"InvenSense, Inc. Common Stock"
+1528,INXN,InterXion Holding N.V. Ordinary Shares (0.01 nominal value)
+1529,INZ,Ing Groep NV Perpetual Debt Securities
+1530,IO,Ion Geophysical Corporation Common Stock
+1531,IOC,InterOil Corporation
+1532,IP,International Paper Company Common Stock
+1533,IPG,"Interpublic Group of Companies, Inc. (The) Common Stock"
+1534,IPHI,Inphi Corporation Common Stock $0.001 par value
+1535,IPI,"Intrepid Potash, Inc Common Stock"
+1536,IPL-D,Interstate Power & Light Company Perp Prd Ser D
+1537,IQI,Invesco Quality Municipal Income Trust Common Stock
+1538,IR,Ingersoll
+1539,IRC,Inland Real Estate Corporation Common Stock
+1540,IRC-A,"Inland Real Estate Corporation 8.125% Series A Cumulative Redeemable Preferred Stock, $0.01 par value"
+1541,IRC-B,Inland Real Estate Corporation Redeemable Preferred Series B
+1542,IRE,Governor and Company of the Bank of Ireland (The) Common Stock
+1543,IRET,Investors Real Estate Trust Shares of Beneficial Interest
+1544,IRET-,Investors Real Estate Trust Series A Cumulative Redeemable Preferred Shares of Beneficial Interest
+1545,IRET-B,Investors Real Estate Trust 7.95% Series B Cumulative Redeemable Preferred Shares
+1546,IRF,International Rectifier Corporation Common Stock
+1547,IRL,"New Ireland Fund, Inc (The) Common Stock"
+1548,IRM,Iron Mountain Incorporated (Delaware)Common Stock
+1549,IRR,Voya Natural Resources Equity Income Fund Common Shares of Beneficial Interest
+1550,IRS,IRSA Inversiones Y Representaciones S.A. Common Stock
+1551,ISD,"Prudential Short Duration High Yield Fund, Inc. Common Stock"
+1552,ISF,"ING Group, N.V. Perp Hybrid Cap Secs (Netherlands)"
+1553,ISG,"ING Group, N.V. Perpetual Dent Secs 6.125%"
+1554,ISH,International Shipholding Corporation Common Stock
+1555,ISH-A,International Shipholding Corporation Cumulative Redeemable Perpetual Preferred Series A
+1556,ISH-B,International Shipholding Corporation PERP PFD SER B
+1557,ISP,ING Groep NV 6.20% Perpetual Debt Securities (Netherlands)
+1558,IT,"Gartner, Inc. Common Stock"
+1559,ITC,ITC Holdings Corp. Common Stock
+1560,ITG,"Investment Technology Group, Inc. Common Stock"
+1561,ITT,ITT Corporation Common Stock New
+1562,ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)
+1563,ITW,Illinois Tool Works Inc. Common Stock
+1564,IVC,Invacare Corporation Common Stock
+1565,IVH,Ivy High Income Opportunities Fund Common Shares of Beneficial Interest
+1566,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock
+1567,IVR-A,Invesco Mortgage Capital Inc. Pfd Ser A
+1568,IVR-B,Invesco Mortgage Capital Inc. Preferred Series B Cum Fxd to Fltg
+1569,IVZ,Invesco Plc New Common Stock
+1570,IX,Orix Corp Ads Common Stock
+1571,JAH,Jarden Corporation Common Stock
+1572,JBK,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I
+1573,JBL,"Jabil Circuit, Inc. Common Stock"
+1574,JBN,"Select Asset Inc. Select Asset Inc. on behalf of Corporate Backed Callable Trust Certificates, J.C. Penney Debenture Backed Series 2007"
+1575,JBR,"Select Asset Inc. Corporate Backed Callable Trust Certificates, J.C. Penney Debenture"
+1576,JBT,John Bean Technologies Corporation Common Stock
+1577,JCE,Nuveen Core Equity Alpha Fund Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest
+1578,JCI,"Johnson Controls, Inc. Common Stock"
+1579,JCP,"J.C. Penney Company, Inc. Holding Company Common Stock"
+1580,JDD,Nuveen Diversified Dividend and Income Fund Shares of Beneficial Interest
+1581,JE,"Just Energy Group, Inc. Ordinary Shares (Canada)"
+1582,JEC,Jacobs Engineering Group Inc. Common Stock
+1583,JEQ,"Aberdeen Japan Equity Fund, Inc.  Common Stock"
+1584,JFC,"JPMorgan China Region  Fund, Inc. Common Stock"
+1585,JFR,Nuveen Floating Rate Income Fund Common Stock
+1586,JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest
+1587,JGV,Nuveen Global Equity Income Fund
+1588,JGW,J.G. Wentworth Company (The) Class A Common Stock
+1589,JHI,John Hancock Investors Trust Common Stock
+1590,JHP,Nuveen Quality Preferred Income Fund 3 Preferred Income 3
+1591,JHS,John Hancock Income Securities Trust Common Stock
+1592,JHX,James Hardie Industries plc American Depositary Shares (Ireland)
+1593,JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares)
+1594,JLL,Jones Lang LaSalle Incorporated Common Stock
+1595,JLS,Nuveen Mortgage Opportunity Term Fund Nuveen Mortgage Opportunity Term Fund
+1596,JMEI,"Jumei International Holding Limited American Depositary Shares, each representing one Class A ordinary share"
+1597,JMF,Nuveen Energy MLP Total Return Fund Common Shares of Beneficial Interest
+1598,JMI,Javelin Mortgage Investment Corp. Common Stock
+1599,JMLP,Nuveen All Cap Energy MLP Opportunities Fund Common Shares of Beneficial Interest
+1600,JMM,Nuveen Multi
+1601,JMP,JMP Group LLC Common Shares
+1602,JMPB,JMP Group Inc 8.00% Senior Notes due 2023
+1603,JMPC,JMP Group Inc 7.25% Senior Notes due 2021
+1604,JMT,Nuveen Mortgage Opportunity Term Fund 2 Common Shares of Beneficial Interest
+1605,JNJ,Johnson & Johnson Common Stock
+1606,JNPR,"Juniper Networks, Inc. Common Stock"
+1607,JNS,"Janus Capital Group, Inc. Cmn Stk"
+1608,JOE,St. Joe Company (The) Common Stock
+1609,JOF,Japan Smaller Capitalization Fund Inc Common Stock
+1610,JONE,"Jones Energy, Inc. Class A Common Stock"
+1611,JOY,Joy Global Inc. Common Stock
+1612,JPC,Nuveen  Preferred Income Opportunities Fund
+1613,JPEP,JP Energy Partners LP Common units representing limited partner interests
+1614,JPI,Nuveen Preferred and Income Term Fund Common Shares of Beneficial Interest
+1615,JPM,JP Morgan Chase & Co. Common Stock
+1616,JPM-A,J P Morgan Chase & Co Depositary Shs Repstg 1/400 Pfd Ser P
+1617,JPM-B,JP Morgan Chase & Co Depositary Shares Representing 1/400th Preferred Series T
+1618,JPM-C,"JPMorgan Chase Capital XXIX 6.70% Capital Securities, Series CC"
+1619,JPM-D,JPMorgan Chase Bank N A London Branch Depositary Shs Repstg 1/400th Pfd Ser O
+1620,JPM-E,J P Morgan Chase & Co Depository Shares Representing 1/400th Int Perp Pfd Ser W
+1621,JPM.W,"J P Morgan Chase & Co Warrant expiring October 28, 2018"
+1622,JPS,Nuveen Quality Preferred Income Fund 2 Shares of Beneficial Interest
+1623,JPW,Nuveen Flexible Investment Income Fund Common Shares of Beneficial Interest
+1624,JQC,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest
+1625,JRI,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest
+1626,JRN,"Journal Communications, Inc. Class A Common Stock"
+1627,JRO,Nuveen Floating Rate Income Opportuntiy Fund Shares of Beneficial Interest
+1628,JSD,Nuveen Short Duration Credit Opportunities Fund Common Shares of Beneficial Interest
+1629,JTA,Nuveen Tax
+1630,JTD,Nuveen Tax
+1631,JTP,Nuveen Quality Preferred Income Fund Shares of Beneficial Interest
+1632,JW.A,"John Wiley & Sons, Inc. Common Stock"
+1633,JW.B,"John Wiley & Sons, Inc. Common Stock"
+1634,JWN,"Nordstrom, Inc. Common Stock"
+1635,K,Kellogg Company Common Stock
+1636,KAI,Kadant Inc Common Stock
+1637,KAMN,Kaman Corporation Common Stock
+1638,KAP,"KCAP Financial, Inc. 7.375% Senior Notes due 2019"
+1639,KAR,"KAR Auction Services, Inc Common Stock"
+1640,KATE,Kate Spade & Company Common Stock
+1641,KB,KB Financial Group Inc
+1642,KBH,KB Home Common Stock
+1643,KBR,"KBR, Inc. Common Stock"
+1644,KCC,Structured Products Corp. 8.20% Corporate Backed Trust Securities (CorTS)Issued by Provident Financial Trust I
+1645,KCG,"KCG Holdings, Inc. Class A Common Stock"
+1646,KED,Kayne Anderson Energy Development Company Common Stock
+1647,KEF,"Korea Equity Fund, Inc. Common Stock"
+1648,KEG,"Key Energy Services, Inc. Common Stock"
+1649,KEM,Kemet Corporation New Common Stock
+1650,KEN.V,Kenon Holdings Ltd. Ordinary Shares When Issued
+1651,KEP,Korea Electric Power Corporation Common Stock
+1652,KEX,Kirby Corporation Common Stock
+1653,KEY,KeyCorp Common Stock
+1654,KEY-G,KeyCorp Non Cumulative Perp Conv Pfd Ser A
+1655,KEYS,Keysight Technologies Inc. Common Stock
+1656,KF,"Korea Fund, Inc. (The) New Common Stock"
+1657,KFH,KKR Financial Holdings LLC 8.375% Senior Notes due 2041
+1658,KFI,KKR Financial Holdings LLC 7.50% Senior Notes due 2042
+1659,KFN-,KKR Financial Holdings LLC Pfd Ser A Llc
+1660,KFS,"Kingsway Financial Services, Inc. Ordinary Shares"
+1661,KFY,Korn/Ferry International Common Stock
+1662,KGC,Kinross Gold Corporation Common Stock
+1663,KHI,Deutsche High Income Trust Shares of Beneficial Interest
+1664,KIM,Kimco Realty Corporation Common Stock
+1665,KIM-H,Kimco Realty Corporation Depositary Shares Representing 1/100 Shares of Redeemable Preferred Class H
+1666,KIM-I,Kimco Realty Corporation DEPOSITARY SH REPSTG 1/1000TH PFD SER I
+1667,KIM-J,Kimco Realty Corporation Depositary Sh Repstg 1/1000th Pfd CL J %
+1668,KIM-K,Kimco Realty Corporation Depositary Shares Representing 1/1000th Preferred Series K
+1669,KING,King Digital Entertainment plc Ordinary Share
+1670,KIO,KKR Income Opportunities Fund Common Shares
+1671,KKD,"Krispy Kreme Doughnuts, Inc. Common Stock"
+1672,KKR,KKR & Co. L.P. Common Units Representing Limited Partnership Interest
+1673,KMB,Kimberly
+1674,KMF,"Kayne Anderson Midstream Energy Fund, Inc Common Stock"
+1675,KMG,"KMG Chemicals, Inc. Common Stock"
+1676,KMI,"Kinder Morgan, Inc. Common Stock"
+1677,KMI.W,"Kinder Morgan, Inc. Warrants Expiring 2017"
+1678,KMM,Deutsche  Multi
+1679,KMPA,Kemper Corporation 7.375% Subordinated Debentures due 2054
+1680,KMPR,Kemper Corporation
+1681,KMT,Kennametal Inc. Common Stock
+1682,KMX,CarMax Inc
+1683,KN,Knowles Corporation Common Stock
+1684,KND,"Kindred Healthcare, Inc. Common Stock"
+1685,KNL,"Knoll, Inc. Common Stock"
+1686,KNM,Konami Corporation American Depositary Shares (Each repstg one share of Common Stock)
+1687,KNOP,KNOT Offshore Partners LP Common Units representing Limited Partner Interests
+1688,KNX,"Knight Transportation, Inc. Common Stock"
+1689,KO,Coca
+1690,KODK,Eastman Kodak Company Common New
+1691,KODK.A,Eastman Kodak Company Wt Exp 135%
+1692,KODK.W,"Eastman Kodak Company Warrant (Expiring September 3, 2018)"
+1693,KOF,Coca Cola Femsa S.A.B. de C.V.  Common Stock
+1694,KOP,Koppers Holdings Inc. Koppers Holdings Inc. Common Stock
+1695,KORS,Michael Kors Holdings Limited Ordinary Shares
+1696,KOS,Kosmos Energy Ltd. Common Shares
+1697,KR,Kroger Company (The) Common Stock
+1698,KRA,"Kraton Performance Polymers, Inc Common Stock"
+1699,KRC,Kilroy Realty Corporation Common Stock
+1700,KRC-G,Kilroy Realty Corporation Preferred Stock Series G
+1701,KRC-H,Kilroy Realty Corporation Pfd Ser H
+1702,KRG,Kite Realty Group Trust Common Stock
+1703,KRG-A,Kite Realty Group Trust PERP PFD SER A
+1704,KRO,Kronos Worldwide Inc Common Stock
+1705,KS,KapStone Paper and Packaging Corporation Common Stock
+1706,KSM,Deutsche Strategic Municiple Income Trust Common Shares of Beneficial Interest
+1707,KSS,Kohl's Corporation Common Stock
+1708,KST,Deutsche Strategic Income Trust Shares of Beneficial Interest
+1709,KSU,Kansas City Southern Common Stock
+1710,KSU-,Kansas City Southern Preferred Stock
+1711,KT,KT Corporation Common Stock
+1712,KTF,Deutsche Municiple Income Trust Common Shares
+1713,KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock
+1714,KTN,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
+1715,KTP,Corts 7.625 Pfd Common Stock
+1716,KW,Kennedy
+1717,KWN,Kennedy
+1718,KWR,Quaker Chemical Corporation Common Stock
+1719,KYE,"Kayne Anderson Total Energy Return Fund, Inc. Common Stock"
+1720,KYN,Kayne Anderson MLP Investment Company Common Stock
+1721,KYN-E,"Kayne Anderson MLP Investment Company Series E Mandatory Redeemable Preferred Shares, $25.00 liquidation preference"
+1722,KYN-F,Kayne Anderson MLP Investment Company 3.50% Series F Mandatory Redeemable Preferred Shares $25.00 Liquidation Preference per share
+1723,KYN-G,Kayne Anderson MLP Investment Company Series G Mandatory Redeemable Preferred Shares Liquidation Preference
+1724,KYO,Kyocera Corporation Common Stock
+1725,L,Loews Corporation Common Stock
+1726,LAD,"Lithia Motors, Inc. Common Stock"
+1727,LADR,Ladder Capital Corp Class A Common Stock
+1728,LAS,"Lentuo International Inc. American Depositary Shares, each representing two ordinary shares"
+1729,LAZ,"Lazard LTD. Lazard, LTD. Class A Common Stock"
+1730,LB,"L Brands, Inc."
+1731,LBF,"Deutsche Global High Income Fund, Inc. Common Stock"
+1732,LC,LendingClub Corporation Common Stock
+1733,LCI,Lannett Co Inc Common Stock
+1734,LCM,Advent/Claymore Enhanced Growth & Income Fund Advent/Claymore Enhanced Growth & Income Fund Common Shares of Beneficial Interest
+1735,LDF,"Latin American Discovery Fund, Inc. (The) Common Stock"
+1736,LDL,"Lydall, Inc. Common Stock"
+1737,LDOS,"Leidos Holdings, Inc. Common Stock"
+1738,LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc."
+1739,LDR,"Landauer, Inc. Common Stock"
+1740,LEA,Lear Corporation Common Stock
+1741,LEAF,"Springleaf Holdings, Inc. Common Stock"
+1742,LEE,"Lee Enterprises, Incorporated Common Stock"
+1743,LEG,"Leggett & Platt, Incorporated Common Stock"
+1744,LEJU,"Leju Holdings Limited American Depositary Shares, each representing one Ordinary share"
+1745,LEN,Lennar Corporation Class A Common Stock
+1746,LEN.B,Lennar Corporation Class B
+1747,LEO,"Dreyfus Strategic Municipals, Inc. Common Stock"
+1748,LEU,Centrus Energy Corp. Class A Common Stock
+1749,LF,Leapfrog Enterprises Inc Common Stock
+1750,LFC,China Life Insurance Company Limited American Depositary Shares
+1751,LFL,LATAM Airlines Group S.A.
+1752,LG,Laclede Gas Company Common Stock
+1753,LGF,Lions Gate Entertainment Corporation Common Stock
+1754,LGI,Lazard Global Total Return and Income Fund Common Stock
+1755,LH,Laboratory Corporation of America Holdings Common Stock
+1756,LHO,LaSalle Hotel Properties Common Stock
+1757,LHO-H,LaSalle Hotel Properties 7.50% Series H Cumulative Redeemable Preferred Shares of Beneficial Interest
+1758,LHO-I,LaSalle Hotel Properties 6.375% Series I Cumulative Redeemable Redeemable Preferred SBI
+1759,LII,"Lennox International, Inc. Common Stock"
+1760,LITB,"LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing 2 ordinary shares"
+1761,LL,"Lumber Liquidators Holdings, Inc Common Stock"
+1762,LLL,L
+1763,LLY,Eli Lilly and Company Common Stock
+1764,LM,"Legg Mason, Inc. Common Stock"
+1765,LMT,Lockheed Martin Corporation Common Stock
+1766,LNC,Lincoln National Corporation Common Stock
+1767,LNC.W,"Lincoln National Corporation Warrant expiring July 10, 2019"
+1768,LND,Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil)
+1769,LNKD,LinkedIn Corporation Class A Common Stock
+1770,LNN,Lindsay Corporation Common Stock
+1771,LNT,Alliant Energy Corporation Common Stock
+1772,LO,"Lorillard, Inc Common Stock"
+1773,LOCK,"LifeLock, Inc. Common Stock"
+1774,LOR,"Lazard World Dividend & Income Fund, Inc. Common Stock"
+1775,LOW,"Lowe's Companies, Inc. Common Stock"
+1776,LPG,Dorian LPG Ltd. Common Stock
+1777,LPI,"Laredo Petroleum, Inc. Common Stock"
+1778,LPL,"LG Display Co, Ltd AMERICAN DEPOSITORY SHARES"
+1779,LPT,Liberty Property Trust
+1780,LPX,Louisiana
+1781,LQ,La Quinta Holdings Inc. Common Stock
+1782,LRE,"LRR Energy, L.P. Common Units Representing Limited Partner Interests"
+1783,LRN,K12 Inc Common Stock
+1784,LTC,"LTC Properties, Inc. Common Stock"
+1785,LTM,Life Time Fitness Common Stock
+1786,LUB,"Luby's, Inc. Common Stock"
+1787,LUK,Leucadia National Corporation Common Stock
+1788,LUV,Southwest Airlines Company Common Stock
+1789,LUX,"Luxottica Group, S.p.A. Common Stock"
+1790,LVLT,"Level 3 Communications, Inc. Common Stock"
+1791,LVS,Las Vegas Sands Corp. Common Stock
+1792,LXFR,Luxfer Holdings PLC American Depositary Shares (each representing one
+1793,LXFT,"Luxoft Holding, Inc. Class A Ordinary Shares"
+1794,LXK,"Lexmark International, Inc. Common Stock"
+1795,LXP,Lexington Realty Trust Common Stock
+1796,LXP-C,Lexington Realty Trust  Preferred Conv. Series C
+1797,LXU,"LSB Industries, Inc. Common Stock"
+1798,LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands)
+1799,LYG,Lloyds Banking Group Plc American Depositary Shares
+1800,LYG-A,"Lloyds Banking Group Plc 7.75% Public Income NotES (PINES) due July 15, 2050"
+1801,LYV,"Live Nation Entertainment, Inc. Common Stock"
+1802,LZB,La
+1803,M,Macy's Inc Common Stock
+1804,MA,Mastercard Incorporated Common Stock
+1805,MAA,Mid
+1806,MAC,Macerich Company (The) Common Stock
+1807,MAIN,Main Street Capital Corporation Common Stock
+1808,MAN,ManpowerGroup Common Stock
+1809,MANU,Manchester United Ltd. Class A Ordinary Shares
+1810,MAS,Masco Corporation Common Stock
+1811,MATX,"Matson, Inc. Common Stock"
+1812,MAV,Pioneer Municipal High Income Advantage Trust Common Shares of Beneficial Interest
+1813,MBI,MBIA Inc. Common Stock
+1814,MBLY,Mobileye N.V. Ordinary Shares
+1815,MBT,Mobile TeleSystems OJSC
+1816,MC,Moelis & Company Class A Common Stock
+1817,MCA,"Blackrock MuniYield California Quality Fund, Inc. Common Stock"
+1818,MCC,Medley Capital Corporation Common Stock
+1819,MCD,McDonald's Corporation Common Stock
+1820,MCI,Babson Capital Corporate Investors Common Stock
+1821,MCK,McKesson Corporation Common Stock
+1822,MCN,Madison Covered Call & Equity Strategy Fund Common Stock
+1823,MCO,Moody's Corporation Common Stock
+1824,MCP,"Molycorp, Inc Common Stock"
+1825,MCQ,Medley Capital Corporation 7.125% Senior Notes due 2019
+1826,MCR,MFS Charter Income Trust Common Stock
+1827,MCS,Marcus Corporation (The) Common Stock
+1828,MCV,Medley Capital Corporation 6.125% Senior Notes due 2023
+1829,MCY,Mercury General Corporation Common Stock
+1830,MD,"Mednax, Inc. Common Stock"
+1831,MDC,"M.D.C. Holdings, Inc. Common Stock"
+1832,MDLY,Medley Management Inc. Class A Common Stock
+1833,MDP,Meredith Corporation Common Stock
+1834,MDR,"McDermott International, Inc. Common Stock"
+1835,MDT,Medtronic Inc. Common Stock
+1836,MDU,"MDU Resources Group, Inc. Common Stock"
+1837,MED,MEDIFAST INC Common Stock
+1838,MEG,"Media General, Inc. Common Stock"
+1839,MEI,"Methode Electronics, Inc. Common Stock"
+1840,MEN,"Blackrock MuniEnhanced Fund, Inc Common Stock"
+1841,MEP,"Midcoast Energy Partners, L.P. Common units representing limited partner interests"
+1842,MER-D,"Merrill Lynch & Co., Inc. Preferred Stock"
+1843,MER-E,"Merrill Lynch & Co., Inc. Preferred Stock"
+1844,MER-F,"Merrill Lynch & Co., Inc. Preferred Stock"
+1845,MER-K,"Merrill Lynch & Co., Inc. 6.45% Trust Preferred Securities"
+1846,MER-M,"Merrill Lynch & Co., Inc. 6.45% Trust Preferred Securities"
+1847,MER-P,"Merrill Lynch & Co., Inc. Merrill Lynch Capital Trust III 7.375% Trust Preferred Securities"
+1848,MET,"MetLife, Inc. Common Stock"
+1849,MET-A,"MetLife, Inc. Preferred Series A Floating Rate"
+1850,MET-B,"MetLife, Inc. Preferred Series B"
+1851,MFA,"MFA Financial, Inc."
+1852,MFA-B,"MFA Financial, Inc. Preferred Series B"
+1853,MFC,Manulife Financial Corporation Common Stock
+1854,MFD,Macquarie/First Trust Global Common Stock
+1855,MFG,"Mizuho Financial Group, Inc. Sponosred ADR (Japan)"
+1856,MFL,Blackrock MuniHoldings Investment Quality Fund Common Shares of Beneficial Interest
+1857,MFM,MFS Municipal Income Trust Common Stock
+1858,MFO,"MFA Financial, Inc. 8.00% Senior Notes due 2042"
+1859,MFT,Blackrock MuniYield Investment Quality Fund Common Shares of Beneficial Interest
+1860,MFV,MFS Special Value Trust Common Stock
+1861,MG,Mistras Group Inc Common Stock
+1862,MGA,"Magna International, Inc. Common Stock"
+1863,MGF,MFS Government Markets Income Trust Common Stock
+1864,MGM,MGM Resorts International Common Stock
+1865,MGR,"Affiliated Managers Group, Inc. 6.375% Senior Notes due 2042"
+1866,MGU,Macquarie Global Infrastructure Total Return Fund Inc. Common Stock
+1867,MH-A,"Maiden Holdings, Ltd. Pref Shs Ser A (Bermuda)"
+1868,MHD,"Blackrock MuniHoldings Fund, Inc. Common Stock"
+1869,MHF,"Western Asset Municipal High Income Fund, Inc. Common Stock"
+1870,MHFI,"McGraw Hill Financial, Inc. Common Stock"
+1871,MHG,Marine Harvest ASA Sponsored ADR (Norway)
+1872,MHI,Pioneer Municipal High Income Trust Common Shares of Beneficial Interest
+1873,MHK,"Mohawk Industries, Inc. Common Stock"
+1874,MHN,"Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock"
+1875,MHNA,Maiden Holdings North America Ltd. 8.25% Notes due 2041
+1876,MHNB,"Maiden Holdings North America, Ltd. 8.00% Notes due 2042"
+1877,MHNC,"Maiden Holdings North America, Ltd. 7.75% Notes due 2043"
+1878,MHO,"M/I Homes, Inc. Common Stock"
+1879,MHO-A,"M/I Homes, Inc. M/I Homes, Inc. Depositary Shares (Each representing 1/1000 of a Share of 9.75% Series A Preferred Share)"
+1880,MHR,Magnum Hunter Resources Corporation
+1881,MHY,"Western Asset Managed High Income Fund, Inc. Common Stock"
+1882,MIC,Macquarie Infrastructure Company LLC (New) Shares representing one Limited Liability Interest
+1883,MIE,"Cohen & Steers MLP Income and Energy Opportunity Fund, Inc. Common Stock"
+1884,MIG,"Meadowbrook Insurance Group, Inc. Common Stock"
+1885,MIL,MFC Industrial Ltd.
+1886,MILL,"Miller Energy Resourses, Inc. Common Stock"
+1887,MILL-C,"Miller Energy Resources, Inc. 10.75% Series C Cumulative, Redeemable Preferred Stock"
+1888,MILL-D,"Miller Energy Resources, Inc. 10.5% Series D Fixed Rate/Floating Rate Cumulative Redeemable Preferred Stock"
+1889,MIN,MFS Intermediate Income Trust Common Stock
+1890,MITT,"AG Mortgage Investment Trust, Inc. Common Stock"
+1891,MITT-A,"AG Mortgage Investment Trust, Inc. 8.25% Preferred Series A"
+1892,MITT-B,"AG Mortgage Investment Trust, Inc. Preferred Series B"
+1893,MIXT,"MiX Telematics Limited American Depositary Shares, each representing 25 Ordinary Shares"
+1894,MIY,"Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock"
+1895,MJI,"Blackrock MuniYield New Jersey Quality Fund, Inc. Common Stock"
+1896,MJN,Mead Johnson Nutrition Company Common Stock
+1897,MKC,"McCormick & Company, Incorporated Common Stock"
+1898,MKC.V,"McCormick & Company, Incorporated Common Stock"
+1899,MKL,Markel Corporation Common Stock
+1900,MLI,"Mueller Industries, Inc. Common Stock"
+1901,MLM,"Martin Marietta Materials, Inc. Common Stock"
+1902,MLP,"Maui Land & Pineapple Company, Inc. Common Stock"
+1903,MLR,"Miller Industries, Inc. Common Stock"
+1904,MM,"Millennial Media, Inc. Common Stock"
+1905,MMC,"Marsh & McLennan Companies, Inc. Common Stock"
+1906,MMD,MainStay DefinedTerm Municipal Opportunities Fund Common Shares of Beneficial Interest
+1907,MMI,"Marcus & Millichap, Inc. Common Stock"
+1908,MMM,3M Company Common Stock
+1909,MMP,Magellan Midstream Partners L.P. Limited Partnership
+1910,MMS,"Maximus, Inc. Common Stock"
+1911,MMT,MFS Multimarket Income Trust Common Stock
+1912,MMU,"Western Asset Managed Municipals Fund, Inc. Common Stock"
+1913,MN,"Manning & Napier, Inc. Class A Common Stock"
+1914,MNE,Blackrock Muni New York Intermediate Duration Fund Inc Common Stock
+1915,MNI,McClatchy Company (The) Common Stock
+1916,MNK,Mallinckrodt plc Ordinary Shares
+1917,MNP,"Western Asset Municipal Partners Fund, Inc. Common Stock"
+1918,MNR,Monmouth Real Estate Investment Corporation Class A Common Stock
+1919,MNR-A,Monmouth Real Estate Investment Corporation 7.625% Series A Cumulative Redeemable Preferred Stock
+1920,MNR-B,Monmouth Real Estate Investment Corporation Series B Cumulative Redeemable Preferred Stock $0.01 par value
+1921,MO,"Altria Group, Inc."
+1922,MOD,Modine Manufacturing Company Common Stock
+1923,MODN,"Model N, Inc. Common Stock"
+1924,MOG.A,Moog Inc. Class A Common Stock
+1925,MOG.B,Moog Inc. Class B Common Stock
+1926,MOH,Molina Healthcare Inc Common Stock
+1927,MON,Monsanto Company Common Stock
+1928,MORE,"Monogram Residential Trust, Inc. Common"
+1929,MOS,Mosaic Company (The) Common Stock
+1930,MOV,Movado Group Inc. Common Stock
+1931,MP-D,Mississippi Power Company 5.25 Srs Pfd
+1932,MPA,Blackrock MuniYield Pennsylvania Quality Fund Common Stock
+1933,MPC,Marathon Petroleum Corporation Common Stock
+1934,MPG,Metaldyne Performance Group Inc. Common Stock
+1935,MPLX,MPLX LP Common Units Representing Limited Partner Interests
+1936,MPO,"Midstates Petroleum Company, Inc. Common Stock"
+1937,MPV,Babson Capital Participation Investors Common Stock
+1938,MPW,"Medical Properties Trust, Inc. common stock"
+1939,MPX,Marine Products Corporation Common Stock
+1940,MQT,"Blackrock MuniYield Quality Fund II, Inc. Common Stock"
+1941,MQY,"Blackrock MuniYield Quality Fund, Inc. Common Stock"
+1942,MR,Mindray Medical International Limited Sponsored ADR representing Class A shares (China)
+1943,MRC,MRC Global Inc. Common Stock
+1944,MRH,Montpelier Re Holdings Ltd.
+1945,MRH-A,Montpelier RE Holdings Ltd Non Cumulative Series A Preferred Shares (Bermuda)
+1946,MRIN,Marin Software Incorporated Common Stock
+1947,MRK,"Merck & Company, Inc. Common Stock (new)"
+1948,MRO,Marathon Oil Corporation Common Stock
+1949,MS,Morgan Stanley Common Stock
+1950,MS-A,Morgan Stanley Dep Shs repstg 1/1000 Pfd Ser A
+1951,MS-E,Morgan Stanley DEPOSITARY SHARES REP 1/1000TH SHARES FIXED/FLTG PREFERRED STOCK SERIES E
+1952,MS-F,Morgan Stanley Dep Shs Rpstg 1/1000th Int Prd Ser F Fxd to Flag
+1953,MS-G,Morgan Stanley Depositary Shares Representing 1/1000th Preferred Series G
+1954,MS-I,Morgan Stanley Depository Shares Representing 1/1000th Preferred Series 1 Fixed to Floating Non (Cum)
+1955,MSA,MSA Safety Incorporated Common Stock
+1956,MSB,Mesabi Trust Common Stock
+1957,MSCA,Main Street Capital Corporation 6.125% Senior Notes due 2023
+1958,MSCI,MSCI Inc Common Stock
+1959,MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock"
+1960,MSF,"Morgan Stanley Emerging Markets Fund, Inc. Common Stock"
+1961,MSI,"Motorola Solutions, Inc. Common Stock"
+1962,MSJ,Morgan Stanley Cap Trust VI Cap Securities
+1963,MSK,Morgan Stanley Cap TR VIII GDT Cap Securities
+1964,MSL,MidSouth Bancorp Common Stock
+1965,MSM,"MSC Industrial Direct Company, Inc. Common Stock"
+1966,MSO,"Martha Stewart Living Omnimedia, Inc. Common Stock"
+1967,MSP,Madison Strategic Sector Premium Fund Madison Strategic Sector Premium Fund Common Shares of Beneficial Interest
+1968,MSZ,Morgan Stanley Capital Trust VII Cap Secs
+1969,MT,Arcelor Mittal NY Registry Shares NEW
+1970,MTB,M&T Bank Corporation Common Stock
+1971,MTB-,"M&T Bank Corporation Fixed Rate Cumulative Perpetual Preferred Stock, Series A"
+1972,MTB-C,"M&T Bank Corporation Fixed Rate Cumulative Perpetual Preferred Stock, Series C"
+1973,MTB.W,"M&T Bank Corporation Warrant (Expiring December 23, 2018)"
+1974,MTCN,ArcelorMittal 6.00% Mandatorily Convertible Subordinated Notes due 2016
+1975,MTD,Mettler
+1976,MTDR,Matador Resources Company Common Stock
+1977,MTG,MGIC Investment Corporation Common Stock
+1978,MTH,Meritage Homes Corporation Common Stock
+1979,MTL,Mechel OAO American Depositary Shares (Each rep. 1 common shares)
+1980,MTL-,Mechel Steel Group OAO American Depositary Shares (each representing one
+1981,MTN,"Vail Resorts, Inc. Common Stock"
+1982,MTOR,"Meritor, Inc. Common Stock"
+1983,MTR,Mesa Royalty Trust Common Stock
+1984,MTRN,Materion Corporation
+1985,MTS,"Montgomery Street Income Securities, Inc. Common Stock"
+1986,MTT,Western Asset Municipal Defined Opportunity Trust Inc Common Stock
+1987,MTU,"Mitsubishi UFJ Financial Group, Inc. Common Stock"
+1988,MTW,"Manitowoc Company, Inc. (The) Common Stock"
+1989,MTX,Minerals Technologies Inc. Common Stock
+1990,MTZ,"MasTec, Inc. Common Stock"
+1991,MUA,"Blackrock MuniAssets Fund, Inc Common Stock"
+1992,MUC,"Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock"
+1993,MUE,"Blackrock MuniHoldings Quality Fund II, Inc. Common Stock"
+1994,MUH,"Blackrock MuniHoldings Fund II, Inc. Common Stock"
+1995,MUI,Blackrock Muni Intermediate Duration Fund Inc Common Stock
+1996,MUJ,"Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock"
+1997,MUR,Murphy Oil Corporation Common Stock
+1998,MUS,"Blackrock MuniHoldings Quality Fund, Inc Common Stock"
+1999,MUSA,Murphy USA Inc. Common Stock
+2000,MUX,McEwen Mining Inc. Common Stock
+2001,MVC,"MVC Capital, Inc. Common Stock"
+2002,MVCB,MVC Capital 7.25% Senior Notes due 2023
+2003,MVNR,"Mavenir Systems, Inc. Common Stock"
+2004,MVO,MV Oil Trust Units of Beneficial Interests
+2005,MVT,"Blackrock MuniVest Fund II, Inc.  Common Stock"
+2006,MW,"Men's Wearhouse, Inc. (The) Common Stock"
+2007,MWA,MUELLER WATER PRODUCTS Common Stock
+2008,MWE,"MarkWest Energy Partners, LP Common units representing limited partnership units"
+2009,MWG,Morgan Stanley Cap Tr IV Gtd Cap Secs
+2010,MWO,Morgan Stanley Cap Tr V Gtd Cap Secs
+2011,MWR,Morgan Stanley Cap Tr III Capital Trust Securities
+2012,MWV,Meadwestvaco Corporation Common Stock
+2013,MWW,"Monster Worldwide, Inc. Common Stock"
+2014,MX,"MagnaChip Semiconductor Corporation Depositary Shares, each representing one share of common stock"
+2015,MXE,"Mexico Equity and Income Fund, Inc. (The) Common Stock"
+2016,MXF,"Mexico Fund, Inc. (The) Common Stock"
+2017,MXL,"MaxLinear, Inc Class A Common Stock"
+2018,MY,"China Ming Yang Wind Power Group Limited American Depositary Shares, each representing one ordinary share $0.001 par value"
+2019,MYC,"Blackrock MuniYield California Fund, Inc. Common Stock"
+2020,MYCC,"ClubCorp Holdings, Inc. Common Stock"
+2021,MYD,"Blackrock MuniYield Fund, Inc.  Common Stock"
+2022,MYE,"Myers Industries, Inc. Common Stock"
+2023,MYF,Blackrock MuniYield Investment Fund Common Stock
+2024,MYI,"Blackrock MuniYield Quality Fund III, Inc Common Stock"
+2025,MYJ,"Blackrock MuniYield New Jersey Fund, Inc Common Stock"
+2026,MYM,"Blackrock MuniYield Michigan Quality Fund II, Inc. Common Stock"
+2027,MYN,"Blackrock MuniYield New York Quality Fund, Inc.Common Stock"
+2028,MZF,Managed Duration Investment Grade Municipal Fund
+2029,N,Netsuite Inc Common Stock
+2030,NAC,Nuveen California Dividend Advantage Municipal Fund Common Stock
+2031,NAD,Nuveen Dividend Advantage Municipal Fund Common Stock
+2032,NADL,North Atlantic Drilling Ltd. Common Shares
+2033,NAN,Nuveen New York Dividend Advantage Municipal Fund Common Stock
+2034,NAO,Nordic Amern Offshore Ltd Ordinary Shares Reg S (Marshall Islands)
+2035,NAP,Navios Maritime Midstream Partners LP Common Units representing limited partner interests
+2036,NAT,Nordic American Tankers Limited Common Stock
+2037,NAV,Navistar International Corporation Common Stock
+2038,NAV-D,Navistar International Corporation Preferred Stock
+2039,NAZ,Nuveen Arizona Premium Income Municipal Fund Common Stock
+2040,NBB,Nuveen Build America Bond Fund Common Shares of Beneficial Interest
+2041,NBD,Nuveen Build America Bond Opportunity Fund Common Shares of Beneficial Interest
+2042,NBG,Natl Bk Greece American Depositary Shares
+2043,NBG-A,National Bank of Greece SA Sponsored ADR representing Series A Preferred Shares (Greece)
+2044,NBHC,National Bank Holdings Corporation Common Stock
+2045,NBL,Noble Energy Inc. Common Stock
+2046,NBR,Nabors Industries Ltd.
+2047,NC,"NACCO Industries, Inc. Common Stock"
+2048,NCA,"Nuveen California Municipal Value Fund, Inc. Common Stock"
+2049,NCFT,"Norcraft Companies, Inc. Common Stock"
+2050,NCI,"Navigant Consulting, Inc. Common Stock"
+2051,NCR,NCR Corporation Common Stock
+2052,NCS,"NCI Building Systems, Inc. New Common Stock"
+2053,NCT,Newcastle Investment Corporation
+2054,NCT-B,Newcastle Investment Corporation Preferred Series B
+2055,NCT-C,Newcastle Investment Corporation Preferred Series C
+2056,NCT-D,Newcastle Invt Corp New PFD Ser D%
+2057,NCV,AllianzGI Convertible & Income Fund
+2058,NCZ,AllianzGI Convertible & Income Fund II Common Shares of Beneficial Interest
+2059,NDP,"Tortoise Energy Independence Fund, Inc. Common Stock"
+2060,NDRO,Enduro Royalty Trust Trust Units representing beneficial interest in the trust
+2061,NE,Noble Corporation Ordinary Shares (UK)
+2062,NEA,Nuveen AMT
+2063,NEE,"NextEra Energy, Inc. Common Stock"
+2064,NEE-C,"FPL Group, Inc. 5 7/8% Preferred Trust Securities"
+2065,NEE-G,"NextEra Energy, Inc. Series G Junior Subordinated Debenture due March 1, 2072"
+2066,NEE-H,"NextEra Energy, Inc. Series H Junior Subordinated Debentures due June 15, 2072"
+2067,NEE-I,"NextEra Energy, Inc. Series I Junior Subordinated Debentures due November 15, 2072"
+2068,NEE-J,"NextEra Energy, Inc. Series J Junior Subordinated Debentures due January 15, 2073"
+2069,NEE-O,"NextEra Energy, Inc. Units Expiring 09/01/2015"
+2070,NEE-P,"NextEra Energy, Inc. EQUITY UNIT"
+2071,NEFF,Neff Corporation Common Stock
+2072,NEM,Newmont Mining Corporation
+2073,NEP,"NextEra Energy Partners, LP Common Units representing limited partner interests"
+2074,NES,"Nuverra Environmental Solutions, Inc. Common Stock"
+2075,NEU,NewMarket Corp Common Stock
+2076,NEV,Nuveen Enhanced Municipal Value Fund Common Shares of Beneficial Interest
+2077,NEWM,New Media Investment Group Inc. Common Stock
+2078,NEWR,"New Relic, Inc. Common Stock"
+2079,NFG,National Fuel Gas Company Common Stock
+2080,NFJ,"AllianzGI NFJ Dividend, Interest & Premium Strategy Fund"
+2081,NFX,Newfield Exploration Company Common Stock
+2082,NGG,"National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares"
+2083,NGL,NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests
+2084,NGLS,Targa Resources Partners LP Common Units Representing Limited Partnership Interests
+2085,NGS,"Natural Gas Services Group, Inc. Common Stock"
+2086,NGVC,"Natural Grocers by Vitamin Cottage, Inc. Common Stock"
+2087,NHF,NexPoint Credit Strategies Fund
+2088,NHI,"National Health Investors, Inc. Common Stock"
+2089,NI,NiSource Inc Common Stock
+2090,NID,Nuveen Intermediate Duration Municipal Term Fund Common Shares of Beneficial Interest
+2091,NIE,AllianzGI Equity & Convertible Income Fund
+2092,NIM,Nuveen Select Maturities Municipal Fund Common Stock
+2093,NIO,"Nuveen Municipal Opportunity Fund, Inc. Common Stock"
+2094,NIQ,Nuveenn Intermediate Duration Quality Municipal Term Fund Common Shares of Beneficial Interest
+2095,NJ,Nidec Corporation (Nihon Densan Kabushiki Kaisha) American Depositary Shares
+2096,NJR,NewJersey Resources Corporation Common Stock
+2097,NKA,Niska Gas Storage Partners LLC Common Units Representing Limited Liability Company Interests
+2098,NKE,"Nike, Inc. Common Stock"
+2099,NKG,Nuveen Georgia Dividend Advantage Municipal Fund 2 Nuveen Georgia Dividend Advantage Municipal Fund 2 (the
+2100,NKX,Nuveen California AMT
+2101,NL,"NL Industries, Inc. Common Stock"
+2102,NLS,"Nautilus, Inc. Common Stock"
+2103,NLSN,Nielsen N.V. Common Stock
+2104,NLY,Annaly Capital Management Inc Common Stock
+2105,NLY-A,Annaly Capital Management Inc Preferred Stock Series A
+2106,NLY-C,Annaly Capital Management Inc 7.625% Series C Cumulative Redeemable Preferred Stock
+2107,NLY-D,Annaly Capital Management Inc Preferred Series D
+2108,NM,Navios Maritime Holdings Inc. Common Stock
+2109,NM-G,Navios Maritime Holdings Inc. Sponsored ADR Representing 1/100th Perpetual Preferred Series G (Marshall Islands)
+2110,NM-H,Navios Maritime Holdings Inc. Sponsored ADR Representing 1/100th Perp. Preferred Series H%
+2111,NMA,"Nuveen Municipal Advantage Fund, Inc. Common Stock"
+2112,NMBL,"Nimble Storage, Inc. Common Stock"
+2113,NMFC,New Mountain Finance Corporation Common Stock
+2114,NMI,"Nuveen Municipal Income Fund, Inc. Common Stock"
+2115,NMK-B,"Niagara Mohawk Holdings, Inc. Preferred Stock"
+2116,NMK-C,"Niagara Mohawk Holdings, Inc. Preferred Stock"
+2117,NMM,Navios Maritime Partners LP Common Units Representing Limited Partner Interests
+2118,NMO,"Nuveen Municipal Market Opportunity Fund, Inc. Common Stock"
+2119,NMR,Nomura Holdings Inc ADR American Depositary Shares
+2120,NMS,Nuveen Minnesota Municipal Income Fund Common Shares of Beneficial Interest
+2121,NMT,Nuveen Massachusetts Premium Income Municipal Fund Common Stock
+2122,NMY,Nuveen Maryland Premium Income Municipal Fund Common Stock
+2123,NNA,Navios Maritime Acquisition Corporation Common stock
+2124,NNC,Nuveen North Carolina Premium Income Municipal Fund Common Stock
+2125,NNI,"Nelnet, Inc. Common Stock"
+2126,NNN,National Retail Properties Common Stock
+2127,NNN-D,National Retail Properties Depositary Shares Representing 1/100th Preferred Series D
+2128,NNN-E,"National Retail Properties Depositary Shares, each representing a 1/100th interest in a share of 5.70% Series E Pfd."
+2129,NNP,"Nuveen New York Performance Plus Municipal Fund, Inc. Common Stock"
+2130,NNY,"Nuveen New York Municipal Value Fund, Inc. Common Stock"
+2131,NOA,"North American Energy Partners, Inc. Common Shares (no par)"
+2132,NOAH,Noah Holdings Limited
+2133,NOC,Northrop Grumman Corporation Common Stock
+2134,NOK,Nokia Corporation Sponsored American Depositary Shares
+2135,NOM-C,Nuveen Missouri Premium Income Municipal Fund MUNIFUND TERM PFD SHS SER 2015 (United States)
+2136,NOR,Noranda Aluminum Holding Corporation Common Stock
+2137,NORD,"Nord Anglia Education, Inc. Ordinary Shares"
+2138,NOV,"National Oilwell Varco, Inc. Common Stock"
+2139,NOW,"ServiceNow, Inc. Common Stock"
+2140,NP,"Neenah Paper, Inc. Common Stock"
+2141,NPD,China Nepstar Chain Drugstore Ltd American Depositary Shares
+2142,NPF,"Nuveen Premier Municipal Income Fund, Inc. Common Stock"
+2143,NPI,"Nuveen Premium Income Municipal Fund, Inc. Common Stock"
+2144,NPK,"National Presto Industries, Inc. Common Stock"
+2145,NPM,"Nuveen Premium Income Municipal Fund II, Inc. Common Stock"
+2146,NPO,Enpro Industries Inc
+2147,NPP,"Nuveen Performance Plus Municipal Fund, Inc. Common Stock"
+2148,NPT,"Nuveen Premium Income Municipal Fund IV, Inc. Common Stock"
+2149,NPTN,NeoPhotonics Corporation Common Stock
+2150,NPV,Nuveen Virginia Premium Income Municipal Fund Common Stock
+2151,NQ,"NQ Mobile Inc. American Depositary Shares, each representing five Class A common shares"
+2152,NQI,"Nuveen Quality Municipal Fund, Inc.  Common Stock"
+2153,NQM,"Nuveen Investment Quality Municipal Fund, Inc. Common Stock"
+2154,NQP,"Nuveen Pennsylvania Investment Quality Municipal Fund, Inc. Common Stock"
+2155,NQS,"Nuveen Select Quality Municipal Fund, Inc. Common Stock"
+2156,NQU,"Nuveen Quality Income Municipal Fund, Inc. Common Stock"
+2157,NR,"Newpark Resources, Inc. Common Stock"
+2158,NRF,NorthStar Realty Finance Corp. Common Stock (New)
+2159,NRF-A,Northstar Realty Finance Corp. 8.75% Series A Cumulative Redeemable Preferred Stock
+2160,NRF-B,Northstar Realty Finance Corp. Preferred Series B
+2161,NRF-C,Northstar Realty Finance Corp. Preferred Series C
+2162,NRF-D,Northstar Realty Finance Corp. 8.50% Series D Cumulative Redeemable Preferred Stock
+2163,NRF-E,Northstar Realty Finance Corp. Preferred Stock Series E
+2164,NRG,"NRG Energy, Inc. Common Stock"
+2165,NRK,Nuveen New York AMT
+2166,NRP,Natural Resource Partners LP Limited Partnership
+2167,NRT,North European Oil Royality Trust Common Stock
+2168,NRZ,New Residential Investment Corp. Common Stock
+2169,NS,Nustar Energy L.P.  Common Units
+2170,NSAM,"NorthStar Asset Management Group, Inc. Common Stock"
+2171,NSC,Norfolk Southern Corporation Common Stock
+2172,NSH,"Nustar GP Holdings, LLC Units"
+2173,NSL,Nuveen Senior Income Fund Common Stock
+2174,NSLP,New Source Energy Partners L.P. Common Units Representing Limited Partner Interests
+2175,NSM,Nationstar Mortgage Holdings Inc. Common Stock
+2176,NSP,"Insperity, Inc. Common Stock"
+2177,NSR,"Neustar, Inc. Neustar, Inc. Class A Common Stock"
+2178,NSS,"NuStar Logistics, L.P. 7.625% Fixed"
+2179,NTC,Nuveen Connecticut Premium Income Municipal Fund Common Stock
+2180,NTG,"Tortoise MLP Fund, Inc. Common Stock"
+2181,NTI,Northern Tier Energy LP Common Units representing Limited Partner Interests
+2182,NTL,"Nortel Inversora SA, ADR Common Stock"
+2183,NTP,Nam Tai Property Inc. Common Stock
+2184,NTT,Nippon Telegraph and Telephone Corporation Common Stock
+2185,NTX,Nuveen Texas Quality Income Municipal Fund Common Stock
+2186,NTX-C,Nuveen Texas Quality Income Municipal Fund Munifund Term Pfd Shs Ser 2013
+2187,NTZ,"Natuzzi, S.p.A."
+2188,NU,Northeast Utilities Common Stock
+2189,NUE,Nucor Corporation Common Stock
+2190,NUM,Nuveen Michigan Quality Income Municipal Fund Common Stock
+2191,NUO,Nuveen Ohio Quality Income Municipal Fund Common Stock
+2192,NUS,"Nu Skin Enterprises, Inc. Common Stock"
+2193,NUV,"Nuveen Municipal Value Fund, Inc. Common Stock"
+2194,NUW,Nuveen AMT
+2195,NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands)
+2196,NVO,Novo Nordisk A/S Common Stock
+2197,NVR,"NVR, Inc. Common Stock"
+2198,NVRO,Nevro Corp. Common Stock
+2199,NVS,Novartis AG Common Stock
+2200,NW-C,Natl Westminster Pfd Preferred Stock
+2201,NWE,NorthWestern Corporation Common Stock
+2202,NWHM,New Home Company Inc. (The) Common Stock
+2203,NWL,Newell Rubbermaid Inc. Common Stock
+2204,NWN,Northwest Natural Gas Company Common Stock
+2205,NWY,"New York & Company, Inc. New York & Company, Inc. Common Shares"
+2206,NX,Quanex Building Products Corporation Common Stock
+2207,NXC,Nuveen California Select Tax
+2208,NXJ,Nuveen New Jersey Dividend Advantage Municipal Fund Share of Beneficial Interest
+2209,NXJ-C,"Nuveen New Jersey Dividend Advantage Municipal Fund MuniFund Term Preferred Shares, 2.00% Series 2015, $10.00 Liquidation preference per share"
+2210,NXN,Nuveen New York Select Tax
+2211,NXP,Nuveen Select Tax Free Income Portfolio Common Stock
+2212,NXQ,Nuveen Select Tax Free Income Portfolio II Common Stock
+2213,NXR,Nuveen Select Tax Free Income Portfolio III Common Stock
+2214,NYCB,"New York Community Bancorp, Inc. Common Stock"
+2215,NYCB-U,"New York Community Bancorp, Inc. New York Community Capital Tr V (BONUSES)"
+2216,NYLD,"NRG Yield, Inc. Class A Common Stock"
+2217,NYRT,"New York REIT, Inc. Common Stock"
+2218,NYT,New York Times Company (The) Common Stock
+2219,O,Realty Income Corporation Common Stock
+2220,O-F,Realty Income Corporation Monthly Income Cumulative Red Preferred Stock Class F
+2221,OAK,"Oaktree Capital Group, LLC Class A Units Representing Limited Liability Company Interests"
+2222,OAKS,Five Oaks Investment Corp. Common Stock
+2223,OAKS-A,Five Oaks Investment Corp. 8.75% Series A Cumulative Redeemable Preferred Stock
+2224,OAS,Oasis Petroleum Inc. Common Stock
+2225,OB,"OneBeacon Insurance Group, Ltd. Class A Common Stock"
+2226,OC,Owens Corning Inc Common Stock New
+2227,OCIP,OCI Partners LP Common Units representing Limited Partner Interests
+2228,OCIR,OCI Resources LP Common Units representing Limited Partner Interests
+2229,OCN,Ocwen Financial Corporation NEW Common Stock
+2230,OCR,"Omnicare, Inc. Common Stock"
+2231,OCR-A,"Omnicare, Inc. Trust Preferred Income Equity Redeemable Securities (PIERS)"
+2232,OCR-B,"Omnicare, Inc. Omnicare Capital Trust II Series B 4.00% Trust Preferred Income Equity Redeemable Securities (PIERS)"
+2233,ODC,Oil
+2234,OEC,Orion Engineered Carbons S.A Common Shares
+2235,OFC,Corporate Office Properties Trust Common Stock
+2236,OFC-L,Corporate Office Properties Trust Preferred Series L
+2237,OFG,OFG Bancorp Common Stock
+2238,OFG-A,OFG Bancorp Preferred Stock
+2239,OFG-B,OFG Bancorp 7.0% Non Cumulative Monthly Income Preferred Stock Series B
+2240,OFG-D,OFG Bancorp 7.125% Non
+2241,OGE,OGE Energy Corporation Common Stock
+2242,OGS,"ONE Gas, Inc. Common Stock"
+2243,OHI,"Omega Healthcare Investors, Inc. Common Stock"
+2244,OI,Owens
+2245,OIA,Invesco Municipal Income Opportunities Trust Common Stock
+2246,OIBR,Oi S.A. American Depositary Shares (Each representing 1 Preferred Share)
+2247,OIBR.C,"Oi S.A. American Depositary Shares, (Each representing 1 Common Share)"
+2248,OII,"Oceaneering International, Inc. Common Stock"
+2249,OILT,"Oiltanking Partners, L.P. Common Units Representing Limited Partnership Interests"
+2250,OIS,"Oil States International, Inc. Common Stock"
+2251,OKE,"ONEOK, Inc. Common Stock"
+2252,OKS,"ONEOK Partners, L.P. Common Stock"
+2253,OLN,Olin Corporation Common Stock
+2254,OLP,"One Liberty Properties, Inc. Common Stock"
+2255,OMAM,OM Asset Management plc Ordinary Shares
+2256,OMC,Omnicom Group Inc. Common Stock
+2257,OME,Omega Protein Corporation Common Stock
+2258,OMG,"OM Group, Inc. Common Stock"
+2259,OMI,"Owens & Minor, Inc. Common Stock"
+2260,OMN,OMNOVA Solutions Inc. Common Stock
+2261,ONDK,"On Deck Capital, Inc. Common Stock"
+2262,ONE,"Higher One Holdings, Inc. Common Stock"
+2263,OPK,OPKO Health Inc. Common Stock
+2264,OPWR,"Opower, Inc. Common Stock"
+2265,OPY,"Oppenheimer Holdings, Inc. Class A Common Stock (DE)"
+2266,ORA,"Ormat Technologies, Inc. Common Stock"
+2267,ORAN,Orange
+2268,ORB,Orbital Sciences Corporation Common Stock
+2269,ORC,"Orchid Island Capital, Inc. Common Stock"
+2270,ORCL,Oracle Corporation Common Stock
+2271,ORI,Old Republic International Corporation Common Stock
+2272,ORN,Orion Marine Group Inc Common
+2273,OSK,Oshkosh Corporation (Holding Company)Common Stock
+2274,OUBS,UBS AG Common Stock
+2275,OUT,OUTFRONT Media Inc. Common Stock
+2276,OWW,"Orbitz Worldwide, Inc. Common Stock"
+2277,OXM,"Oxford Industries, Inc. Common Stock"
+2278,OXY,Occidental Petroleum Corporation Common Stock
+2279,OZM,Och
+2280,P,"Pandora Media, Inc. Common Stock"
+2281,PAA,"Plains All American Pipeline, L.P. Common Stock"
+2282,PAC,"Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)"
+2283,PACD,Pacific Drilling S.A. Common Shares
+2284,PAG,"Penske Automotive Group, Inc. Common Stock"
+2285,PAGP,"Plains Group Holdings, L.P. Class A Shares representing limited partner interests"
+2286,PAH,Platform Specialty Products Corporation Common Stock
+2287,PAI,Western Asset Income Fund Common Stock
+2288,PAM,Pampa Energia S.A. Pampa Energia S.A.
+2289,PANW,"Palo Alto Networks, Inc. Common Stock"
+2290,PAR,PAR Technology Corporation Common Stock
+2291,PAY,"Verifone Systems, Inc. Common Stock"
+2292,PAYC,"Paycom Software, Inc. Common Stock"
+2293,PB,"Prosperity Bancshares, Inc. Common Stock"
+2294,PBA,Pembina Pipeline Corp. Ordinary Shares (Canada)
+2295,PBF,PBF Energy Inc. Class A Common Stock
+2296,PBFX,PBF Logistics LP Common Units representing limited partner interests
+2297,PBH,"Prestige Brand Holdings, Inc. Common Stock"
+2298,PBI,Pitney Bowes Inc. Common Stock
+2299,PBI-A,Pitney Bowes Inc 5.25% Notes due 2022
+2300,PBI-B,Pitney Bowes Inc 6.70% Notes Due 2043
+2301,PBR,Petroleo Brasileiro S.A.
+2302,PBR.A,Petroleo Brasileiro S.A.
+2303,PBT,Permian Basin Royalty Trust Common Stock
+2304,PBY,Pep Boys
+2305,PBYI,Puma Biotechnology Inc Common Stock
+2306,PCF,Putnam High Income Securities Fund Common Stock
+2307,PCG,Pacific Gas & Electric Co. Common Stock
+2308,PCI,PIMCO Dynamic Credit Income Fund Common Shares of Beneficial Interest
+2309,PCK,Pimco California Municipal Income Fund II Common Shares of Beneficial Interest
+2310,PCL,"Plum Creek Timber Company, Inc. Common Stock"
+2311,PCM,"PCM Fund, Inc. Common Stock"
+2312,PCN,Pimco Corporate & Income Strategy Fund Common Stock
+2313,PCP,Precision Castparts Corporation Common Stock
+2314,PCQ,PIMCO California Municipal Income Fund Common Stock
+2315,PDI,PIMCO Dynamic Income Fund Common Stock
+2316,PDM,"Piedmont Office Realty Trust, Inc. Class A Common Stock"
+2317,PDS,Precision Drilling Corporation Common Stock
+2318,PDT,John Hancock Premium Dividend Fund
+2319,PE,"Parsley Energy, Inc. Class A Common Stock"
+2320,PEB,Pebblebrook Hotel Trust Common Shares of Beneficial Interest
+2321,PEB-A,Pebblebrook Hotel Trust PFD SER A
+2322,PEB-B,Pebblebrook Hotel Trust Preferred Series B
+2323,PEB-C,Pebblebrook Hotel Trust 6.50% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest
+2324,PEG,Public Service Enterprise Group Incorporated Common Stock
+2325,PEI,Pennsylvania Real Estate Investment Trust Common Stock
+2326,PEI-A,Pennsylvania Real Estate Investment Trust PFD sh CL A
+2327,PEI-B,Pennsylvania Real Estate Investment Trust Cumulative Redeemable Perpetual Preferred Shares Series B
+2328,PEO,Petroleum Resources Corporation Common Stock
+2329,PEP,"Pepsico, Inc. Common Stock"
+2330,PER,SandRidge Permian Trust Common Units of Benficial Interest
+2331,PES,Pioneer Energy Services Corp. Common Stk
+2332,PF,"Pinnacle Foods, Inc. Common Stock"
+2333,PFD,Flaherty & Crumrine Preferred Income Fund Incorporated Common Stock
+2334,PFE,"Pfizer, Inc. Common Stock"
+2335,PFG,Principal Financial Group Inc Common Stock
+2336,PFG-B,"Principal Financial Group, Inc. 6.518% Series B Non"
+2337,PFH,Cabco Tr Jcp 7.625 Common Stock
+2338,PFK,Prudential Financial Inflation
+2339,PFL,PIMCO Income Strategy Fund Shares of Beneficial Interest
+2340,PFN,PIMCO Income Strategy Fund II
+2341,PFO,Flaherty & Crumrine Preferred Income Opportunity Fund Incorporated Common Stock
+2342,PFS,"Provident Financial Services, Inc Common Stock"
+2343,PFSI,"PennyMac Financial Services, Inc. Class A Common Stock"
+2344,PFX,"Phoenix Companies, Inc. Phoenix Companies Inc 7.45% Pfd"
+2345,PG,Procter & Gamble Company (The) Common Stock
+2346,PGEM,"Ply Gem Holdings, Inc. Common Stock"
+2347,PGH,Pengrowth Energy Corporation
+2348,PGI,"Premiere Global Services, Inc."
+2349,PGN,Paragon Offshore plc Ordinary Shares
+2350,PGP,Pimco Global Stocksplus & Income Fund Pimco Global StocksPlus & Income Fund Common Shares of Beneficial Interest
+2351,PGR,Progressive Corporation (The) Common Stock
+2352,PGRE,"Paramount Group, Inc. Common Stock"
+2353,PGZ,Principal Real Estate Income Fund Common Shares of Beneficial Interest
+2354,PH,Parker
+2355,PHD,Pioneer Floating Rate Trust Pioneer Floating Rate Trust Shares of Beneficial Interest
+2356,PHG,Koninklijke Philips N.V. NY Registry Shares
+2357,PHH,PHH Corp Common Stock
+2358,PHI,Philippine Long Distance Telephone Company Sponsored ADR
+2359,PHK,Pimco High Income Fund Pimco High Income Fund
+2360,PHM,"PulteGroup, Inc. Common Stock"
+2361,PHT,Pioneer High Income Trust Common Shares of Beneficial Interest
+2362,PHX,Panhandle Oil and Gas Inc Common Stock
+2363,PII,Polaris Industries Inc. Common Stock
+2364,PIM,Putnam Master Intermediate Income Trust Common Stock
+2365,PIR,"Pier 1 Imports, Inc. Common Stock"
+2366,PIY,Preferred Plus Trust (Ser CZN) Preferred Plus Trust Ser CZN
+2367,PJC,Piper Jaffray Companies Common Stock
+2368,PJH,"Prudential Financial, Inc. 5.75% Junior Subordinated Notes due 2052"
+2369,PJS,PreferredPlus Trust Ser FAR 1 Tr Ctf
+2370,PKD,Parker Drilling Company Common Stock
+2371,PKE,Park Electrochemical Corporation Common Stock
+2372,PKG,Packaging Corporation of America Common Stock
+2373,PKI,"PerkinElmer, Inc. Common Stock"
+2374,PKO,Pimco Income Opportunity Fund Common Shares of Beneficial Interest
+2375,PKX,POSCO Common Stock
+2376,PKY,"Parkway Properties, Inc. Common Stock"
+2377,PL,Protective Life Corporation Common Stock
+2378,PL-B,Protective Life Corporation PLC Capital Trust V Trust Originated Preferred Securities (TOPRS)
+2379,PL-C,Protective Life Corporation 6.25% Subordinated Debentures due 2042
+2380,PL-E,Protective Life Corporation 6.00% Subordinated Debentures due 2042
+2381,PLD,"ProLogis, Inc. Common Stock"
+2382,PLL,Pall Corporation Common Stock
+2383,PLOW,"Douglas Dynamics, Inc. Common Stock"
+2384,PLT,"Plantronics, Inc. Common Stock"
+2385,PM,Philip Morris International Inc Common Stock
+2386,PMC,Pharmerica Corporation Common Stock
+2387,PMF,PIMCO Municipal Income Fund Common Stock
+2388,PML,Pimco Municipal Income Fund II Common Shares of Beneficial Interest
+2389,PMM,Putnam Managed Municipal Income Trust Common Stock
+2390,PMO,Putnam Municipal Opportunities Trust Common Stock
+2391,PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest
+2392,PMX,PIMCO Municipal Income Fund III Common Shares of Beneficial Interest
+2393,PNC,"PNC Financial Services Group, Inc. (The) Common Stock"
+2394,PNC-P,"PNC Financial Services Group, Inc. (The) Depositary Shares Representing 1/4000th Perpetual Preferred Series P"
+2395,PNC-Q,"PNC Financial Services Group, Inc. (The) Depositary Shares Representing 1/4000th Perpetual Preferred Shares Series Q"
+2396,PNC.W,"PNC Financial Services Group, Inc. Warrant expiring December 31, 2018"
+2397,PNF,PIMCO New York Municipal Income Fund Common Stock
+2398,PNI,Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest
+2399,PNK,"Pinnacle Entertainment, Inc. Common Stock"
+2400,PNM,"PNM Resources, Inc. (Holding Co.) Common Stock"
+2401,PNR,Pentair plc. Ordinary Share
+2402,PNTA,PennantPark Investment Corporation 6.25% Senior Notes due 2025
+2403,PNW,Pinnacle West Capital Corporation Common Stock
+2404,PNX,"Phoenix Companies, Inc. (The) Common Stock"
+2405,PNY,"Piedmont Natural Gas Company, Inc. Common Stock"
+2406,POL,PolyOne Corporation Common Stock
+2407,POM,"PEPCO Holdings, Inc Common Stock"
+2408,POR,Portland General Electric Co Common Stock
+2409,POST,"Post Holdings, Inc. Common Stock"
+2410,POT,Potash Corporation of Saskatchewan Inc. Common Stock
+2411,POWR,"PowerSecure International, Inc. Common Stock"
+2412,PPG,"PPG Industries, Inc. Common Stock"
+2413,PPL,PP&L Corporation Common Stock
+2414,PPO,Polypore International Inc Common Stock
+2415,PPP,Primero Mining Corp.  New Common Shares (Canada)
+2416,PPR,Voya Prime Rate Trust Shares of Beneficial Interest
+2417,PPS,"Post Properties, Inc. Common Stock"
+2418,PPS-A,"Post Properties, Inc. Preferred Stock"
+2419,PPT,Putnam Premier Income Trust Common Stock
+2420,PPX,"PPL Capital Funding, Inc. 2013 Series B Junior Subordinated Notes due 2073"
+2421,PQ,Petroquest Energy Inc Common Stock
+2422,PRA,ProAssurance Corporation Common Stock
+2423,PRE,PartnerRe Ltd. Common Stock
+2424,PRE-D,PartnerRe Ltd. Preferred Series D 6.5% (Bermuda)
+2425,PRE-E,PartnerRe Ltd. PFD SER E (Bermuda)
+2426,PRE-F,PartnerRe Ltd. Redeemable Preferred Shares Series F (Bermuda)
+2427,PRGO,Perrigo Company plc Ordinary Shares
+2428,PRH,"Prudential Financial, Inc. 5.70% Junior Subordinated Notes due 2053"
+2429,PRI,"Primerica, Inc. Common Stock"
+2430,PRLB,"Proto Labs, Inc. Common stock"
+2431,PRO,"PROS Holdings, Inc. Common Stock"
+2432,PRU,"Prudential Financial, Inc. Common Stock"
+2433,PRY,Prospect Capital Corporation 6.95% Senior Notes due 2022
+2434,PSA,Public Storage Common Stock
+2435,PSA-A,"Public Storage Depositary Shares each representing 1/1,000 of a 5.875% Cumulative Preferred SBI, Series A"
+2436,PSA-O,Public Storage Depositary Shares Representing 1/1000% Cumulative Pfd Sh Ben Int Series O
+2437,PSA-P,Public Storage DEPOSITARY SHS REPSTG % CUMULATIVE PFD SHS BEN INT (SER P)
+2438,PSA-Q,Public Storage DEPOSITARY SHS REPSTG 1/1000TH PFD SHS BEN INT SER Q
+2439,PSA-R,Public Storage Depository Sh Repstg 1/1000th Pfd Ser R
+2440,PSA-S,Public Storage DEP SH REPSTG PFD SH BEN INT SER S
+2441,PSA-T,Public Storage Depository Shares Representing 1/1000 Pfd Shares Beneficial Interest Series T
+2442,PSA-U,Public Storage Depositary Shares Representing 1/1000 Preferred Benerficial Interest Series U
+2443,PSA-V,Public Storage Dep Shs Repstg 1/1000th Pfd Sh Ben Int Ser V
+2444,PSA-W,Public Storage Depositary Shares Representing 1/1000 Preferred Shares of Benficial Interest Series W
+2445,PSA-X,Public Storage Depositary Shares Representing 1/1000th Cumulative Preferred Shares Beneficial Interest Series X
+2446,PSA-Y,Public Storage Dep Shs Repstg 1/1000th Pfd Sh Ben Int Ser Y
+2447,PSA-Z,Public Storage Dep Shs Representing 1/1000th Pfd Sh Ben Int Ser Z
+2448,PSB,"PS Business Parks, Inc. Common Stock"
+2449,PSB-R,"PS Business Parks, Inc. Depositary Shares, Each representing 1/1,000 of a share of 6.875% Cumulative Preferred stock, Series R, $0.01 par"
+2450,PSB-S,"PS Business Parks, Inc. Depositary Shares, each representing 1/1,000 of a share of 6.45% Cumulative Preferred Stock"
+2451,PSB-T,"PS Business Parks, Inc. Depositary Shares Representing 1/1000th Preferred Series T"
+2452,PSB-U,"PS Business Parks, Inc. Dep Shs Repstg 1/1000 Pfd Ser U"
+2453,PSB-V,"PS Business Parks, Inc. Depositary Shares Represting 1/1000th Shares Cumulative Preferred Stock Series V"
+2454,PSF,"Cohen & Steers Select Preferred and Income Fund, Inc. Common Stock"
+2455,PSG,Performance Sports Group Ltd. Ordinary Shares (Canada)
+2456,PSO,"Pearson, Plc Common Stock"
+2457,PSX,Phillips 66 Common Stock
+2458,PSXP,Phillips 66 Partners LP Common Units representing limited partner interest in the Partnership
+2459,PT,"Portugal Telecom SGPS, S.A . Common Stock"
+2460,PTP,"Platinum Underwriters Holdings, Ltd"
+2461,PTR,PetroChina Company Limited Common Stock
+2462,PTY,Pimco Corporate & Income Opportunity Fund
+2463,PUK,Prudential Public Limited Company Common Stock
+2464,PUK-,Prudential Public Limited Company 6.75% Perpetual Subordinated Captial Security
+2465,PUK-A,Prudential Public Limited Company 6.50% Perpetual Subordinated Capital Securities Exchangeable at the Issuer's Option Into Non
+2466,PVA,Penn Virginia Corporation Common Stock
+2467,PVG,"Pretium Resources, Inc. Ordinary Shares (Canada)"
+2468,PVH,PVH Corp. Common Stock
+2469,PVTD,"PrivateBancorp, Inc. 7.125% Subordinated Debentures due 2042"
+2470,PWE,Penn West Petroleum Ltd
+2471,PWR,"Quanta Services, Inc. Common Stock"
+2472,PX,"Praxair, Inc. Common Stock"
+2473,PXD,Pioneer Natural Resources Company Common Stock
+2474,PYB,PPlus Trust Series GSG
+2475,PYN,PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest
+2476,PYS,Merrill Lynch Depositor Inc PPlus Tr Ser RRD
+2477,PYT,PPlus Tr GSC
+2478,PZB,"Merrill Lynch Depositor, Inc. Merrill Lynch Depositor, Inc. PPLUS Class A 6.7% Callable Trust Certificates, Series LTD"
+2479,PZC,PIMCO California Municipal Income Fund III Common Shares of Beneficial Interest
+2480,PZE,Petrobras Argentina S.A. ADS
+2481,PZN,Pzena Investment Management Inc Class A Common Stock
+2482,Q,Quintiles Transnational Holdings Inc. Common Stock
+2483,QEP,"QEP Resources, Inc. Common Stock"
+2484,QEPM,"QEP Midstream Partners, LP Common Units representing Limited Partner Interests"
+2485,QIHU,"Qihoo 360 Technology Co. Ltd. American Depositary Shares, every 2 of which representing three Class A Ordinary Shares"
+2486,QSR,Restaurant Brands International Inc. Common Shares
+2487,QTM,Quantum Corporation Common Stock
+2488,QTS,"QTS Realty Trust, Inc. Class A Common Stock"
+2489,QTWO,"Q2 Holdings, Inc. Common Stock"
+2490,QUAD,"Quad Graphics, Inc Class A Common Stock"
+2491,R,"Ryder System, Inc. Common Stock"
+2492,RAD,Rite Aid Corporation Common Stock
+2493,RAI,Reynolds American Inc Common Stock
+2494,RALY,Rally Software Development Corp. Common Stock
+2495,RAS,RAIT Financial Trust New Common Shares of Beneficial Interest
+2496,RAS-A,RAIT Financial Trust  7.75% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest
+2497,RAS-B,RAIT Financial Trust 8.375% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest
+2498,RAS-C,RAIT Financial Trust 8.875% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest
+2499,RATE,"Bankrate, Inc. Common Stock"
+2500,RAX,"Rackspace Hosting, Inc Common Stock"
+2501,RBA,Ritchie Bros. Auctioneers Incorporated Common Stock
+2502,RBC,Regal Beloit Corporation Common Stock
+2503,RBS,Royal Bank of Scotland Group Plc New (The) ADS
+2504,RBS-E,RBS Capital Funding Trust V
+2505,RBS-F,Royal Bank of Scotland Group Plc (The) Preferred Stock
+2506,RBS-G,RBS Capital Funding Trust VII
+2507,RBS-H,Royal Bank of Scotland Group Plc (The) Preferred Stock
+2508,RBS-I,RBS Capital Funding Trust VI
+2509,RBS-L,Royal Bank of Scotland Group Plc (The) ADR representing One Non
+2510,RBS-M,Royal Bank of Scotland Group Plc (The) ADS Series M
+2511,RBS-N,Royal Bank of Scotland Group Plc (The) Royal Bank of Scotland Group PLC (The) American Depositary Shares (each representing One Non
+2512,RBS-P,Royal Bank of Scotland Group Plc (The) ADR representing Preferred Shares Series P
+2513,RBS-Q,Royal Bank of Scotland Group Plc (The) ADR repstg Pref Shs Ser Q
+2514,RBS-R,Royal Bank of Scotland Group Plc (The) ADR repstg USD Pfd Shs Ser R (United Kingdom)
+2515,RBS-S,Royal Bank of Scotland Group Plc (The) Sponsored ADR Repstg Pref Ser S (United Kingdom)
+2516,RBS-T,Royal Bank of Scotland Group Plc (The) Sponsored ADR Representing Pfef shs ser T (United Kingdom)
+2517,RCAP,RCS CAPITAL CORPORATION Common Stock
+2518,RCI,"Rogers Communication, Inc. Common Stock"
+2519,RCL,Royal Caribbean Cruises Ltd. Common Stock
+2520,RCS,"PIMCO Strategic Income Fund, Inc."
+2521,RDC,Rowan Companies plc Class A Ordinary Shares
+2522,RDN,Radian Group Inc. Common Stock
+2523,RDS.A,Royal Dutch Shell PLC Royal Dutch Shell American Depositary Shares (Each representing two Class A Ordinary Shares)
+2524,RDS.B,Royal Dutch Shell PLC Royal Dutch Shell PLC American Depositary Shares (Each representing two Class B Ordinary Shares)
+2525,RDY,Dr. Reddy's Laboratories Ltd Common Stock
+2526,RE,"Everest Re Group, Ltd. Common Stock"
+2527,REG,Regency Centers Corporation Common Stock
+2528,REG-F,Regency Centers Corporation Cumulative Red Preferred Series 6%
+2529,REG-G,Regency Centers Corporation Pfd Ser 7%
+2530,REN,Resolute Energy Corporation Comon Stock
+2531,RENN,"Renren Inc. American Depositary Shares, each representing three Class A ordinary shares"
+2532,RES,"RPC, Inc. Common Stock"
+2533,RESI,Altisource Residential Corporation Common Stock
+2534,REV,"Revlon, Inc. New Common Stock"
+2535,REX,REX American Resources Corporation
+2536,REXR,"Rexford Industrial Realty, Inc. Common Stock"
+2537,RF,Regions Financial Corporation Common Stock
+2538,RF-A,Regions Financial Corporation Depositary Shares Representing 1/40th Perpetual Preferred Series A
+2539,RF-B,Regions Financial Corporation Depositary Shares Representing 1/40th Perpetual Preferred Series B
+2540,RFI,"Cohen & Steers Total Return Realty Fund, Inc. Common Stock"
+2541,RFP,Resolute Forest Products Inc. Common Stock
+2542,RFT,RAIT Financial Trust 7.625% Senior Notes due 2024
+2543,RFTA,RAIT Financial Trust 7.125% Senior Notes due 2019
+2544,RGA,"Reinsurance Group of America, Incorporated Common Stock"
+2545,RGC,Regal Entertainment Group Class A Common Stock
+2546,RGP,Regency Energy Partners LP Common Units Representing Limited Partner Interests
+2547,RGR,"Sturm, Ruger & Company, Inc. Common Stock"
+2548,RGS,Regis Corporation Common Stock
+2549,RGT,"Royce Global Value Trust, Inc. Common Stock"
+2550,RH,Restoration Hardware Holdings Inc. Common Stock
+2551,RHI,Robert Half International Inc. Common Stock
+2552,RHP,"Ryman Hospitality Properties, Inc. (REIT)"
+2553,RHT,"Red Hat, Inc. Common Stock"
+2554,RICE,Rice Energy Inc. Common Stock
+2555,RIG,Transocean Ltd (Switzerland) Common Stock
+2556,RIGP,Transocean Partners LLC Common Units Representing Limited Liability Company Interests
+2557,RIO,Rio Tinto Plc Common Stock
+2558,RIOM,Rio Alto Mining Limited Common Shares (Canada)
+2559,RIT,LMP Real Estate Income Fund Inc Common Stock
+2560,RJD,"Raymond James Financial, Inc. 6.90% Senior Notes Due 2042"
+2561,RJF,"Raymond James Financial, Inc. Common Stock"
+2562,RKT,Rock
+2563,RKUS,"Ruckus Wireless, Inc. Common Stock"
+2564,RL,Ralph Lauren Corporation Common Stock
+2565,RLD,RealD Inc Common Stock
+2566,RLGY,Realogy Holdings Corp. Common Stock
+2567,RLH,Red Lions Hotels Corporation Common Stock
+2568,RLH-A,Red Lion Hotels Capital Trust Red Lion Hotels Capital Trust
+2569,RLI,RLI Corp. Common Stock
+2570,RLJ,RLJ Lodging Trust Common Shares of Beneficial Interest $0.01 par value
+2571,RM,Regional Management Corp. Common Stock
+2572,RMAX,"RE/MAX Holdings, Inc. Class A Common Stock"
+2573,RMD,ResMed Inc. Common Stock
+2574,RMP,Rice Midstream Partners LP Common Units representing limited partner interests
+2575,RMT,Royce Micro
+2576,RNDY,"Roundy's, Inc. Common Stock"
+2577,RNE,"Morgan Stanley Eastern Europe Fund, Inc. Common Stock"
+2578,RNF,"Rentech Nitrogen Partners, L.P. Common Units representing limited partner interests"
+2579,RNG,"Ringcentral, Inc. Class A Common Stock"
+2580,RNO,Rhino Resource Partners LP Common Units representing limited partnership interests
+2581,RNP,Cohen & Steers Reit and Preferred Income Fund Inc Common Shares
+2582,RNR,RenaissanceRe Holdings Ltd. Common Stock
+2583,RNR-C,RenaissanceRe Holdings Ltd. 6.08% Series C Preference Shares
+2584,RNR-E,RenaissanceRe Holdings Ltd. 5.375% Series E Preference Shares
+2585,ROC,"Rockwood Holdings, Inc. Common Stock"
+2586,ROG,Rogers Corporation Common Stock
+2587,ROK,"Rockwell Automation, Inc. Common Stock"
+2588,ROL,"Rollins, Inc. Common Stock"
+2589,ROP,"Roper Industries, Inc. Common Stock"
+2590,ROYT,Pacific Coast Oil Trust Units of Beneficial Interest
+2591,RPAI,"Retail Properties of America, Inc. Class A Common Stock"
+2592,RPAI-A,"Retail Properties of America, Inc. Pfd Ser A %"
+2593,RPM,RPM International Inc. Common Stock
+2594,RPT,Ramco
+2595,RPT-D,Ramco
+2596,RQI,Cohen & Steers Quality Income Realty Fund Inc Common Shares
+2597,RRC,Range Resources Corporation Common Stock
+2598,RRMS,"Rose Rock Midstream, L.P. Common Units Representing Limited Partner Interests"
+2599,RRTS,"Roadrunner Transportation Systems, Inc Common Stock"
+2600,RS,Reliance Steel & Aluminum Co. Common Stock
+2601,RSE,"Rouse Properties, Inc. Common Stock"
+2602,RSG,"Republic Services, Inc. Common Stock"
+2603,RSH,Radioshack Corporation Common Stock
+2604,RSO,Resource Capital Corp. Resource Capital Corp. Common Stock
+2605,RSO-A,Resource Capital Corp. 8.50% Series A Cumulative Redeemable Preferred Stock
+2606,RSO-B,Resource Capital Corp. Pfd Ser B
+2607,RSO-C,Resource Capital Corp. Preferred Series C
+2608,RSPP,"RSP Permian, Inc. Common Stock"
+2609,RST,"Rosetta Stone Rosetta Stone, Inc."
+2610,RT,"Ruby Tuesday, Inc. Common Stock"
+2611,RTEC,"Rudolph Technologies, Inc. Common Stock"
+2612,RTI,"RTI International Metals, Inc. Common Stock"
+2613,RTN,Raytheon Company Common Stock
+2614,RUBI,"The Rubicon Project, Inc. Common Stock"
+2615,RUK,Reed Elsevier NV PLC New ADS
+2616,RVT,"Royce Value Trust, Inc. Common Stock"
+2617,RWT,"Redwood Trust, Inc. Common Stock"
+2618,RXN,Rexnord Corporation Common Stock
+2619,RY,Royal Bank Of Canada Common Stock
+2620,RYAM,Rayonier Advanced Materials Inc. Common Stock
+2621,RYI,Ryerson Holding Corporation Common Stock
+2622,RYL,"Ryland Group, Inc. (The) Common Stock"
+2623,RYN,Rayonier Inc. REIT Common Stock
+2624,RZA,"Reinsurance Group of America, Incorporated 6.20% Fixed"
+2625,S,Sprint Corporation Common Stock
+2626,SA,"Seabridge Gold, Inc. Ordinary Shares (Canada)"
+2627,SAH,"Sonic Automotive, Inc. Common Stock"
+2628,SAIC,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION Common Stock
+2629,SALT,Scorpio Bulkers Inc. Common Stock
+2630,SAM,"Boston Beer Company, Inc. (The) Common Stock"
+2631,SAN,"Banco Santander, S.A. Sponsored ADR (Spain)"
+2632,SAN-A,"Banco Santander, S.A. 6.80% Non"
+2633,SAN-B,Santander Finance Preferred SA Unipersonal Floating Rate Non
+2634,SAN-C,"Banco Santander, S.A. 6.50% Non"
+2635,SAN-I,"Banco Santander Central Hispano, S.A. Santander Finance Preferred S.A. Unipersonal 6.41% Non"
+2636,SAP,SAP  SE ADS
+2637,SAQ,Saratoga Investment Corp 7.50% Notes due 2020
+2638,SAR,Saratoga Investment Corp New
+2639,SB,"Safe Bulkers, Inc Common Stock ($0.001 par value)"
+2640,SB-B,"Safe Bulkers, Inc 8.00% Series B Cumulative Redeemable Perpetual Preferred Shares"
+2641,SB-C,"Safe Bulkers, Inc Cumulative Redeemable Perpetual Preferred Series C (Marshall Islands)"
+2642,SB-D,"Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)"
+2643,SBGL,Sibanye Gold Limited American Depositary Shares (Each representing four ordinary shares)
+2644,SBH,"Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock"
+2645,SBNA,Scorpio Tankers Inc. 6.75% Senior Notes due 2020
+2646,SBNB,Scorpio Tankers Inc. 7.50% Senior Notes Due 2017
+2647,SBR,Sabine Royalty Trust Common Stock
+2648,SBS,Companhia de saneamento Basico Do Estado De Sao Paulo
+2649,SBW,Western Asset Worldwide Income Fund Inc. Common Stock
+2650,SBY,Silver Bay Realty Trust Corp. Common Stock
+2651,SC,Santander Consumer USA Holdings Inc. Common Stock
+2652,SCCO,Southern Copper Corporation Common Stock
+2653,SCD,LMP Capital and Income Fund Inc. Common Stock
+2654,SCE-F,Southern California Edison Trust I Trust Preferred Securities
+2655,SCE-G,SCE Trust II Trust Preferred Securities
+2656,SCE-H,SCE Trust III Fixed/Floating Rate Trust Preference Securities
+2657,SCG,SCANA Corporation Common Stock
+2658,SCHW,Charles Schwab Corporation (The) Common Stock
+2659,SCHW-B,Charles Schwab Corporation Depositary Shares Representing 1/40th Int Sh Non Cumulative Preferred Stock Series B
+2660,SCI,Service Corporation International Common Stock
+2661,SCL,Stepan Company Common Stock
+2662,SCM,Stellus Capital Investment Corporation Common Stock
+2663,SCQ,Stellus Capital Investment Corporation 6.50% Notes due 2019
+2664,SCS,Steelcase Inc. Common Stock
+2665,SCU,Scana Corporation SCANA CORPORATION 2009 Series A 7.70% Enhanced Junior Subordinated Notes
+2666,SCX,L.S. Starrett Company (The) Common Stock
+2667,SD,Sandridge Energy Inc. Common Stock
+2668,SDLP,Seadrill Partners LLC Common Units Representing Limited Liability Company Interests
+2669,SDR,SandRidge Mississippian Trust II Common Units representing Beneficial Interests
+2670,SDRL,Seadrill Limited Ordinary Shares (Bermuda)
+2671,SDT,SandRidge Mississippian Trust I Common Units of Beneficial Interest
+2672,SE,Spectra Energy Corp Common Stock
+2673,SEAS,"SeaWorld Entertainment, Inc. Common Stock"
+2674,SEE,Sealed Air Corporation Common Stock
+2675,SEM,Select Medical Holdings Corporation Common Stock
+2676,SEMG,Semgroup Corporation Class A Common Stock
+2677,SEP,"Spectra Energy Partners, LP Common Units representing Limited Partner Interests"
+2678,SERV,"ServiceMaster Global Holdings, Inc. Common Stock"
+2679,SF,Stifel Financial Corporation Common Stock
+2680,SFB,Stifel Financial Corp. 6.70% Senior Note due 2022
+2681,SFE,"Safeguard Scientifics, Inc. New Common Stock"
+2682,SFG,"StanCorp Financial Group, Inc. Common Stock"
+2683,SFL,Ship Finance International Limited
+2684,SFN,Stifel Financial Corporation 5.375% Senior Notes due December 2022
+2685,SFS,"Smart & Final Stores, Inc. Common Stock"
+2686,SFUN,"SouFun Holdings Limited American Depositary Shares (Each representing Four Class A Ordinary Shares, HK$1.00 par value)"
+2687,SFY,Swift Energy Company (Holding Company) Common Stock
+2688,SGF,"Aberdeen Singapore Fund, Inc. Common Stock"
+2689,SGL,"Strategic Global Income Fund, Inc. Common Stock"
+2690,SGM,Stonegate Mortgage Corporation Common Stock
+2691,SGU,"Star Gas Partners, L.P. Common Stock"
+2692,SGY,Stone Energy Corporation Common Stock
+2693,SGZA,"Selective Insurance Group, Inc. 5.875% Senior Notes due 2043"
+2694,SHG,Shinhan Financial Group Co Ltd American Depositary Shares
+2695,SHI,"SINOPEC Shangai Petrochemical Company, Ltd. Common Stock"
+2696,SHLX,"Shell Midstream Partners, L.P. Common Units representing Limited Partner Interests"
+2697,SHO,"Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares"
+2698,SHO-D,"Sunstone Hotel Investors, Inc. 8.0% Series D Cumulative Redeemable Preferred Stock"
+2699,SHW,Sherwin
+2700,SID,Companhia Siderurgica Nacional S.A. Common Stock
+2701,SIG,Signet Jewelers Limited Common Shares
+2702,SIR,Select Income REIT Common Shares of Beneficial Interest
+2703,SIX,Six Flags Entertainment Corporation New Common Stock
+2704,SJI,"South Jersey Industries, Inc. Common Stock"
+2705,SJM,J.M. Smucker Company (The) New Common Stock
+2706,SJR,Shaw Communications Inc. Common Stock
+2707,SJT,San Juan Basin Royalty Trust Common Stock
+2708,SJW,SJW Corporation Common Stock
+2709,SKH,"Skilled Healthcare Group, Inc. Common Stock"
+2710,SKM,"SK Telecom Co., Ltd. Common Stock"
+2711,SKT,"Tanger Factory Outlet Centers, Inc. Common Stock"
+2712,SKX,"Skechers U.S.A., Inc. Common Stock"
+2713,SLB,Schlumberger N.V. Common Stock
+2714,SLCA,"U.S. Silica Holdings, Inc. Common Stock"
+2715,SLF,Sun Life Financial Inc. Common Stock
+2716,SLG,SL Green Realty Corporation Common Stock
+2717,SLG-I,SL Green Realty Corporation Preferred Series I
+2718,SLH,"Solera Holdings, Inc. Solera Holdings, Inc. Common Stock"
+2719,SLRA,Solar Capital Ltd. 6.75% Senior Notes due 2042
+2720,SLTB,Scorpio Bulkers Inc. 7.50% Senior Notes due 2019
+2721,SLW,Silver Wheaton Corp Common Shares (Canada)
+2722,SM,SM Energy Company Common Stock
+2723,SMFG,Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan)
+2724,SMG,Scotts Miracle
+2725,SMI,Semiconductor  Manufacturing International Corporation ADR
+2726,SMLP,"Summit Midstream Partners, LP Common Units Representing Limited Partner Interests"
+2727,SMM,Salient Midstream Common Shares of Beneficial Interest
+2728,SMP,"Standard Motor Products, Inc. Common Stock"
+2729,SN,Sanchez Energy Corporation Common Stock
+2730,SNA,Snap
+2731,SNE,Sony Corporation Common Stock
+2732,SNH,Senior Housing Properties Trust Common Stock
+2733,SNHN,Senior Housing Properties Trust 5.625% Senior Notes due 2042
+2734,SNI,"Scripps Networks Interactive, Inc Common Class A"
+2735,SNN,"Smith & Nephew SNATS, Inc. Common Stock"
+2736,SNOW,"Intrawest Resorts Holdings, Inc. Common Stock"
+2737,SNP,China Petroleum & Chemical Corporation Common Stock
+2738,SNR,New Senior Investment Group Inc. Common Stock
+2739,SNV,Synovus Financial Corp. Common Stock
+2740,SNV-C,Synovus Financial Corp. Perp Pfd Ser C Fxd To Fltg
+2741,SNX,Synnex Corporation Common Stock
+2742,SNY,Sanofi American Depositary Shares (Each repstg one
+2743,SO,Southern Company (The) Common Stock
+2744,SOL,Renesola Ltd. Common Shares of Beneficial Interest
+2745,SON,Sonoco Products Company Common Stock
+2746,SOR,"Source Capital, Inc. Common Stock"
+2747,SOV-C,"Santander Holdings USA, Inc. Dep Shs repstg 1/1000 Perp Pfd Ser C"
+2748,SPA,Sparton Corporation Common Stock
+2749,SPB,"Spectrum Brands Holdings, Inc. Common Stock"
+2750,SPE,"Special Opportunities Fund, Inc Common Stock"
+2751,SPF,Standard Pacific Corp Common Stock
+2752,SPG,"Simon Property Group, Inc. Common Stock"
+2753,SPG-J,"Simon Property Group, Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock"
+2754,SPH,"Suburban Propane Partners, L.P. Common Stock"
+2755,SPLP,Steel Partners Holdings LP LTD PARTNERSHIP UNIT
+2756,SPN,"Superior Energy Services, Inc. Common Stock"
+2757,SPR,"Spirit Aerosystems Holdings, Inc. Common Stock"
+2758,SPW,SPX Corporation Common Stock
+2759,SPXX,Nuveen S&P 500 Dynamic Overwrite Fund
+2760,SQM,Sociedad Quimica y Minera S.A. Common Stock
+2761,SQNS,"Sequans Communications S.A. American Depositary Shares, each representing one Ordinary Share"
+2762,SR,Standard Register Company (The) Common Stock
+2763,SRC,"Spirit Realty Capital, Inc. Common Stock"
+2764,SRE,Sempra Energy Common Stock
+2765,SRF,The Cushing Royalty & Income Fund Common Shares of Beneficial Interest
+2766,SRI,"Stoneridge, Inc. Common Stock"
+2767,SRLP,Sprague Resources LP Common Units representing Limited Partner Interests
+2768,SRT,"StarTek, Inc. Common Stock"
+2769,SRV,The Cushing MLP Total Return Fund Common Shares of Beneficial Interest
+2770,SSD,"Simpson Manufacturing Company, Inc. Common Stock"
+2771,SSE,Seventy Seven Energy Inc. Common Stock
+2772,SSI,"Stage Stores, Inc. Common Stock"
+2773,SSL,Sasol Ltd. American Depositary Shares
+2774,SSLT,Sesa Sterlite Limited  American Depositary Shares (Each representing four equity shares)
+2775,SSNI,"Silver Spring Networks, Inc. Common Stock"
+2776,SSP,E.W. Scripps Company (The) Common Stock
+2777,SSS,"Sovran Self Storage, Inc. Common Stock"
+2778,SSTK,"Shutterstock, Inc. Common Stock"
+2779,SSW,Seaspan Corporation Seaspan Corporation Common Shares
+2780,SSW-C,Seaspan Corporation 9.50% Series C Cumulative Redeemable Perpetual Preferred Shares
+2781,SSW-D,Seaspan Corporation Cumulative Redeemable Perpetual Preferred Series D (Marshall Islands)
+2782,SSW-E,Seaspan Corporation Cumulative Redeemable Perpetual Preferred Series E (Marshall Islands)
+2783,SSWN,Seaspan Corporation 6.375% Notes due 2019
+2784,ST,Sensata Technologies Holding N.V. Ordinary Shares
+2785,STAG,"Stag Industrial, Inc. Common Stock"
+2786,STAG-A,"Stag Industrial, Inc. Preferred Series A"
+2787,STAG-B,"Stag Industrial, Inc. Cum Pfd Ser B"
+2788,STAR,iStar Financial Inc. Common Stock
+2789,STAR-D,iStar Financial Inc. Preferred Stock
+2790,STAR-E,iStar Financial Inc. 7.875% Preferred Ser E
+2791,STAR-F,iStar Financial Inc. Series F Preferred Stock
+2792,STAR-G,iStar Financial Inc. Preferred Stock Series G
+2793,STAR-I,iStar Financial Inc. Preferred Series I
+2794,STAY,"Extended Stay America, Inc. Common Stock"
+2795,STC,Stewart Information Services Corporation Common Stock
+2796,STE,STERIS Corporation Common Stock
+2797,STI,"SunTrust Banks, Inc. Common Stock"
+2798,STI-A,"SunTrust Banks, Inc. Dep Shs repstg 1/4000 Perpetual Pfd Stk Ser A"
+2799,STI-E,"SunTrust Banks, Inc. Depositary Shares Representing Perpetual Preferred Series E"
+2800,STI.A,"SunTrust Banks, Inc. Class A Warrant (Expiring December 31, 2018)"
+2801,STI.B,"SunTrust Banks, Inc. Class B Warrant (Expiring November 14, 2018)"
+2802,STJ,"St. Jude Medical, Inc. Common Stock"
+2803,STK,Columbia Seligman Premium Technology Growth Fund Inc
+2804,STL,Sterling Bancorp
+2805,STM,STMicroelectronics N.V. Common Stock
+2806,STN,Stantec Inc Common Stock
+2807,STNG,Scorpio Tankers Inc. Common Shares
+2808,STO,Statoil ASA
+2809,STON,StoneMor Partners L.P. Common Unit Rep Limited Partnership Interests
+2810,STOR,STORE Capital Corporation Common Stock
+2811,STR,Questar Corporation Common Stock
+2812,STRI,"STR Holdings, Inc Common Stock"
+2813,STT,State Street Corporation Common Stock
+2814,STT-C,State Street Corporation Dep Shs Representing 1/4000 Ownership Int In Sh Non Cum (Perpertual Pfd Stk Ser C)
+2815,STT-D,State Street Corporation Depositary Shares representing 1/4000th Perpetual Preferred Series D
+2816,STT-E,"State Street Corporation Depository Shares, each representing a 1/4,000th ownership interest in a share of Non"
+2817,STV,"China Digital TV Holding Co., Ltd. American Depositary Shares"
+2818,STWD,"STARWOOD PROPERTY TRUST, INC. Starwood Property Trust Inc."
+2819,STZ,"Constellation Brands, Inc. Common Stock"
+2820,STZ.B,"Constellation Brands, Inc. Common Stock"
+2821,SU,Suncor Energy  Inc. Common Stock
+2822,SUI,"Sun Communities, Inc. Common Stock"
+2823,SUI-A,"Sun Communities, Inc. Preferred Series A"
+2824,SUN,Sunoco LP Common Units representing limited partner interests
+2825,SUNE,"SunEdison, Inc. Common Stock"
+2826,SUP,"Superior Industries International, Inc. Common Stock"
+2827,SVM,Silvercorp Metals Inc Ordinary Shares (Canada)
+2828,SVU,SuperValu Inc. Common Stock
+2829,SWAY,Starwood Waypoint Residential Trust Common Stock
+2830,SWC,Stillwater Mining Company Common Stock ($0.01 Par Value)
+2831,SWFT,Swift Transportation Company Class A Common Stock
+2832,SWH,"Stanley Black & Decker, Inc. Corp Unit 2013"
+2833,SWI,"Solarwinds, Inc. Common Stock"
+2834,SWJ,"Stanley Black & Decker, Inc. 5.75% Junior Subordinated Debenture due 2052"
+2835,SWK,"Stanley Black & Decker, Inc. Common Stock"
+2836,SWM,Schweitzer
+2837,SWN,Southwestern Energy Company Common Stock
+2838,SWU,"Stanley Black & Decker, Inc Corporate Units"
+2839,SWX,Southwest Gas Corporation Common Stock
+2840,SWY,Safeway Inc. Common Stock
+2841,SWZ,"Swiss Helvetia Fund, Inc. (The) Common Stock"
+2842,SXC,"SunCoke Energy, Inc. Common Stock"
+2843,SXCP,"SunCoke Energy Partners, L.P. Common Units Representing Limited partner Interests"
+2844,SXE,"Southcross Energy Partners, L.P. Common Units representing limited partner interest in the Partnership"
+2845,SXI,Standex International Corporation Common Stock
+2846,SXL,Sunoco Logistics Partners LP Common Units representing limited partner interests
+2847,SXT,Sensient Technologies Corporation Common Stock
+2848,SYA,Symetra Financial Corporation Common Stock $0.01 par value
+2849,SYF,Synchrony Financial Common Stock
+2850,SYK,Stryker Corporation Common Stock
+2851,SYT,Syngenta AG Common Stock
+2852,SYX,Systemax Inc. Common Stock
+2853,SYY,Sysco Corporation Common Stock
+2854,SZC,Cushing Renaissance Fund (The) Common Shares of Beneficial Interest
+2855,T,AT&T Inc.
+2856,TA,TravelCenters of America LLC Common Stock
+2857,TAC,TransAlta Corporation Ordinary Shares
+2858,TAHO,"Tahoe Resources, Inc. Ordinary Shares (Canada)"
+2859,TAI,"Transamerica Income Shares, Inc. Common Stock"
+2860,TAL,"TAL International Group, Inc. Common Stock"
+2861,TANN,TravelCenters of America LLC 8.25% Senior Notes due 2028
+2862,TANO,TravelCenters of America LLC 8.00% Senior Notes due 2029
+2863,TAOM,Taomee Holdings Limited American Depositary Shares (each representing 20 ordinary shares)
+2864,TAP,Molson Coors Brewing Company Class B Common Stock
+2865,TAP.A,Molson Coors Brewing  Company Molson Coors Brewing Company Class A Common Stock
+2866,TARO,Taro Pharmaceutical Industries Ltd. Ordinary Shares
+2867,TBI,"TrueBlue, Inc. Common Stock"
+2868,TC,Thompson Creek Metals Company Inc. Ordinary Shares (Canada)
+2869,TCAP,Triangle Capital Corporation Common Stock
+2870,TCB,TCF Financial Corporation Common Stock
+2871,TCB-B,TCF Financial Corporation Del Dep Shs Repstg 1/1000 Pfd Ser A
+2872,TCB-C,TCF Financial Corporation Perp Pfd Ser B
+2873,TCB.W,TCF Financial Corporation TCF Financial Corporation Warrants
+2874,TCC,Triangle Capital Corporation 7.00% Senior Notes due 2019
+2875,TCCA,Triangle Capital Corporation 6.375% Senior Notes due 2022
+2876,TCI,"Transcontinental Realty Investors, Inc. Common Stock"
+2877,TCK,Teck Resources Ltd Ordinary Shares
+2878,TCO,"Taubman Centers, Inc. Common Stock"
+2879,TCO-J,"Taubman Centers, Inc. Preferred Shares Series J"
+2880,TCO-K,"Taubman Centers, Inc. Preferred Series K"
+2881,TCP,"TC PipeLines, LP Common Units representing Limited Partner Interests"
+2882,TCPI,TCP International Holdings Ltd. Common Shares
+2883,TCRX,"THL Credit, Inc. 6.75% Notes due 2021"
+2884,TCS,Container Store (The) Common Stock
+2885,TD,Toronto Dominion Bank (The) Common Stock
+2886,TDA,"Telephone and Data Systems, Inc. 5.875% Senior Notes due 2061"
+2887,TDC,Teradata Corporation Common Stock
+2888,TDE,"Telephone and Data Systems, Inc. 6.875% Senior Notes due 2059"
+2889,TDF,"Templeton Dragon Fund, Inc. Common Stock"
+2890,TDG,Transdigm Group Incorporated Transdigm Group Inc. Common Stock
+2891,TDI,"Telephone and Data Systems, Inc. Sr Nt"
+2892,TDJ,"Telephone and Data Systems, Inc. 7% Senior Notes due 2060"
+2893,TDS,"Telephone and Data Systems, Inc. Common Shares"
+2894,TDW,Tidewater Inc. Common Stock
+2895,TDY,Teledyne Technologies Incorporated Common Stock
+2896,TE,"TECO Energy, Inc. Common Stock"
+2897,TEF,Telefonica SA Common Stock
+2898,TEG,"Integrys Energy Group, Inc. Common Stock"
+2899,TEI,"Templeton Emerging Markets Income Fund, Inc. Common Stock"
+2900,TEL,TE Connectivity Ltd. New Switzerland Registered Shares
+2901,TEN,Tenneco Inc. Common Stock
+2902,TEO,Telecom Argentina SA
+2903,TEP,"Tallgrass Energy Partners, LP Common Units representing limited partner interests"
+2904,TER,"Teradyne, Inc. Common Stock"
+2905,TEU,Box Ships Inc. Common Shares
+2906,TEU-C,Box Ships Inc. 9.00% Series C Cumulative Perpetual Preferred Stock
+2907,TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares
+2908,TEX,Terex Corporation Common Stock
+2909,TFG,"Fixed Income Trust for Goldman Sachs Subordinated Notes, Series 2011"
+2910,TFX,Teleflex Incorporated Common Stock
+2911,TG,Tredegar Corporation Common Stock
+2912,TGH,Textainer Group Holdings Limited Common Shares
+2913,TGI,"Triumph Group, Inc. Common Stock"
+2914,TGP,Teekay LNG Partners L.P.
+2915,TGS,Transportadora de Gas del Sur SA TGS Common Stock
+2916,TGT,Target Corporation Common Stock
+2917,THC,Tenet Healthcare Corporation Common Stock
+2918,THG,Hanover Insurance Group Inc
+2919,THGA,"The Hanover Insurance Group, Inc. 6.35% Subordinated Debentures due 2053"
+2920,THO,"Thor Industries, Inc. Common Stock"
+2921,THQ,Tekla Healthcare Opportunies Fund Shares of Beneficial Interest
+2922,THR,"Thermon Group Holdings, Inc. Common Stock"
+2923,THS,"Treehouse Foods, Inc. Common Stock"
+2924,TI,Telecom Italia S.P.A. New
+2925,TI.A,Telecom Italia S.P.A. New
+2926,TIF,Tiffany & Co. Common Stock
+2927,TIME,Time Inc. Common Stock
+2928,TISI,"Team, Inc. Common Stock"
+2929,TJX,"TJX Companies, Inc. (The) Common Stock"
+2930,TK,Teekay Corporation Common Stock
+2931,TKC,Turkcell Iletisim Hizmetleri AS Common Stock
+2932,TKF,"Turkish Investment Fund, Inc. (The) Common Stock"
+2933,TKR,Timken Company (The) Common Stock
+2934,TLI,LMP Corporate Loan Fund Inc Common Stock
+2935,TLK,"PT Telekomunikasi Indonesia, Tbk"
+2936,TLLP,Tesoro Logistics LP Common Units representing Limited Partner Interests
+2937,TLM,Talisman Energy Inc. Common Stock
+2938,TLP,Transmontaigne Partners L.P. Transmontaigne Partners L.P. Common Units representing limited partner interests
+2939,TLYS,"Tilly's, Inc. Common Stock"
+2940,TM,Toyota Motor Corporation Common Stock
+2941,TMH,"Team Health Holdings, Inc. Team Health Holdings, Inc."
+2942,TMHC,Taylor Morrison Home Corporation Class A Common Stock
+2943,TMK,Torchmark Corporation Common Stock
+2944,TMK-B,Torchmark Corporation 5.875% Junior Subordinated Debenture due 2052
+2945,TMO,Thermo Fisher Scientific Inc Common Stock
+2946,TMST,Timken Steel Corporation Common Shares
+2947,TMUS,T
+2948,TMUS-A,T
+2949,TNC,Tennant Company Common Stock
+2950,TNET,"TriNet Group, Inc. Common Stock"
+2951,TNH,"Terra Nitrogen Company, L.P. Common Units"
+2952,TNK,Teekay Tankers Ltd.
+2953,TNP,Tsakos Energy Navigation Ltd Common Shares
+2954,TNP-B,Tsakos Energy Navigation Ltd Red Perp Pfd Ser B% (Bermuda)
+2955,TNP-C,Tsakos Energy Navigation Ltd 8.875% Series C Preferred Cumulative Redeemable Perpetual Preferred Shares
+2956,TOL,Toll Brothers Inc. Common Stock
+2957,TOO,Teekay Offshore Partners L.P. Common Units representing Limited Partner Interests
+2958,TOO-A,Teekay Offshore Partners L.P. 7.25% Series A Redeemable Preferred Units
+2959,TOT,Total S.A.
+2960,TOWR,"Tower International, Inc. Common stock"
+2961,TPC,Tutor Perini Corporation Common Stock
+2962,TPH,"Tri Pointe Homes, Inc. Common Stock"
+2963,TPL,Texas Pacific Land Trust Common Stock
+2964,TPRE,Third Point Reinsurance Ltd. Common Shares
+2965,TPUB,Tribune Publishing Company Common Stock
+2966,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock
+2967,TPX,"Tempur Sealy International, Inc. Common Stock"
+2968,TPZ,"Tortoise Power and Energy Infrastructure Fund, Inc Common Stock"
+2969,TR,"Tootsie Roll Industries, Inc. Common Stock"
+2970,TRC,Tejon Ranch Co Common Stock
+2971,TRCO,Tribune Media Company Class A Common Stock
+2972,TREC,Trecora Resources Common Stock
+2973,TREX,"Trex Company, Inc. Common Stock"
+2974,TRF,"Templeton Russia and East European Fund, Inc. Common Stock"
+2975,TRGP,"Targa Resources, Inc. Common Stock"
+2976,TRI,Thomson Reuters Corp Ordinary Shares
+2977,TRK,"Speedway Motorsports, Inc. Common Stock"
+2978,TRLA,"Trulia, Inc. Common Stock"
+2979,TRMR,"Tremor Video, Inc. Common Stock"
+2980,TRN,"Trinity Industries, Inc. Common Stock"
+2981,TRNO,Terreno Realty Corporation Common Stock
+2982,TRNO-A,Terreno Realty Corporation Preferred Shares Series A
+2983,TROX,Tronox Limited Ordinary Shares Class A $0.01 par
+2984,TRP,TransCanada Corporation Common Stock
+2985,TRQ,Turquoise Hill Resources Ltd. Ordinary Shares
+2986,TRR,"TRC Companies, Inc. Common Stock"
+2987,TRUP,"Trupanion, Inc. Common Stock"
+2988,TRV,"The Travelers Companies, Inc. Common Stock"
+2989,TRW,TRW Automotive Holdings Corporation Common Stock
+2990,TS,Tenaris S.A. American Depositary Shares
+2991,TSE,Trinseo S.A. Ordinary Shares
+2992,TSI,"TCW Strategic Income Fund, Inc. Common Stock"
+2993,TSL,Trina Solar Limited Sponsored ADR (Cayman Islands)
+2994,TSLF,THL Credit Senior Loan Fund Common Shares of Beneficial Interest
+2995,TSLX,"TPG Specialty Lending, Inc. Common Stock"
+2996,TSM,Taiwan Semiconductor Manufacturing Company Ltd.
+2997,TSN,"Tyson Foods, Inc. Common Stock"
+2998,TSNU,"Tyson Foods, Inc. Tangible Equity Unit 1 Prepaid Stock Purchase Contact & 1 Sr (Amortorizing NT)"
+2999,TSO,Tesoro Corporation Common Stock
+3000,TSQ,"Townsquare Media, Inc. Class A Common Stock"
+3001,TSS,"Total System Services, Inc. Common Stock"
+3002,TSU,TIM Participacoes S.A. American Depositary Shares (Each representing 5 Common Shares)
+3003,TTC,Toro Company (The) Common Stock
+3004,TTF,"Thai Fund, Inc. (The) Common Stock"
+3005,TTI,"Tetra Technologies, Inc. Common Stock"
+3006,TTM,Tata Motors Ltd Tata Motors Limited
+3007,TTP,"Tortoise Pipeline & Energy Fund, Inc. Common Stock"
+3008,TU,Telus Corporation Ordinary Shares
+3009,TUMI,"Tumi Holdings, Inc. Common Stock"
+3010,TUP,Tupperware Brands Corporation Common Stock
+3011,TV,Grupo Televisa S.A. Common Stock
+3012,TVC,Tennessee Valley Authority Common Stock
+3013,TVE,Tennessee Valley Authority
+3014,TVPT,Travelport Worldwide Limited Common Shares
+3015,TW,Towers Watson & Co Common Stock Class A
+3016,TWC,Time Warner Cable Inc Common Stock
+3017,TWI,"Titan International, Inc. Common Stock"
+3018,TWN,"Taiwan Fund, Inc. (The) Common Stock"
+3019,TWO,Two Harbors Investment Corp
+3020,TWTR,"Twitter, Inc. Common Stock"
+3021,TWX,Time Warner Inc. New Common Stock
+3022,TX,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)"
+3023,TXT,Textron Inc. Common Stock
+3024,TXTR,Textura Corporation Common Stock
+3025,TY,Tri Continental Corporation Common Stock
+3026,TY-,Tri Continental Corporation Preferred Stock
+3027,TYC,Tyco International plc (Ireland) Ordinary Share
+3028,TYG,Tortoise Energy Infrastructure Corporation Common Stock
+3029,TYG-B,Tortoise Energy Infrastructure Corporation Mandatory Red Pfd Ser B
+3030,TYG-C,Tortoise Energy Infrastructure Corporation Series C Mandatory Redeemable Preferred Shares
+3031,TYL,"Tyler Technologies, Inc. Common Stock"
+3032,TZF,"Bear Stearns Depositor, Inc. Pfd Stk TRUCs Srs 2001"
+3033,UA,"Under Armour, Inc. Class A Common Stock"
+3034,UAL,United Continental Holdings
+3035,UAM,Universal American Corporation New Common Stock
+3036,UAN,"CVR Partners, LP Common Units representing Limited Partner Interests"
+3037,UBA,Urstadt Biddle Properties Inc. Common Stock
+3038,UBP,Urstadt Biddle Properties Inc. Common Stock
+3039,UBP-F,Urstadt Biddle Properties Inc. Pfd Ser F
+3040,UBP-G,Urstadt Biddle Properties Inc. Preferred Stock Series G 6.75%
+3041,UBS,UBS Group AG Registered Ordinary Shares
+3042,UBS-D,UBS AG Trust Preferred Securities
+3043,UCP,"UCP, Inc. Class A Common Stock"
+3044,UDR,"UDR, Inc. Common Stock"
+3045,UE.V,Urban Edge Properties Common Shares of Beneficial Interest When Issued
+3046,UFI,"Unifi, Inc. New Common Stock"
+3047,UFS,Domtar Corporation (NEW) Common Stock
+3048,UGI,UGI Corporation Common Stock
+3049,UGP,Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share)
+3050,UHS,"Universal Health Services, Inc. Common Stock"
+3051,UHT,Universal Health Realty Income Trust Common Stock
+3052,UIL,UIL Holdings Corporation Common Stock
+3053,UIS,Unisys Corporation New Common Stock
+3054,UL,Unilever PLC Common Stock
+3055,UMC,United Microelectronics Corporation (NEW) Common Stock
+3056,UMH,"UMH Properties, Inc. Common Stock"
+3057,UMH-A,"UMH Properties, Inc. 8.25% Series A Cumulative Redeemable Preferred Stock, Liquidation Preference $25 per share"
+3058,UN,Unilever NV Common Stock
+3059,UNF,Unifirst Corporation Common Stock
+3060,UNH,UnitedHealth Group Incorporated Common Stock
+3061,UNM,Unum Group Common Stock
+3062,UNP,Union Pacific Corporation Common Stock
+3063,UNT,Unit Corporation Common Stock
+3064,UPL,Ultra Petroleum Corp. Common Stock
+3065,UPS,"United Parcel Service, Inc. Common Stock"
+3066,URI,"United Rentals, Inc. Common Stock"
+3067,USA,Liberty All
+3068,USAC,"USA Compression Partners, LP Common Units Representing Limited Partner Interests"
+3069,USB,U.S. Bancorp Common Stock
+3070,USB-A,"U.S. Bancorp Depositary Shares, Each representing a 1/100th interest in a share of Series A Non"
+3071,USB-H,U.S. Bancorp Depositary Shares repstg 1/1000th Pfd Ser B
+3072,USB-M,U.S. Bancorp Depositary Shares Representing 1/1000th Interest in a Shares Series F
+3073,USB-N,US Bancorp Del DEPOSITARY SH S G
+3074,USB-O,US Bancorp Del Dep Shs Repstg 1/1000th Perp Pfd Ser H
+3075,USDP,USD Partners LP Common Units representing limited partner interest
+3076,USG,USG Corporation Common Stock
+3077,USM,United States Cellular Corporation Common Stock
+3078,USNA,"USANA Health Sciences, Inc. Common Stock"
+3079,USPH,"U.S. Physical Therapy, Inc. Common Stock"
+3080,UTF,"Cohen & Steers Infrastructure Fund, Inc Common Stock"
+3081,UTI,Universal Technical Institute Inc Common Stock
+3082,UTL,UNITIL Corporation Common Stock
+3083,UTX,United Technologies Corporation Common Stock
+3084,UTX-A,United Technologies Corp Corp Unit
+3085,UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock
+3086,UVV,Universal Corporation Common Stock
+3087,UZA,United States Cellular Corporation 6.95% Senior Notes due 2060
+3088,UZB,United States Cellular Corporation 7.25% Senior Notes due 2063
+3089,V,Visa Inc.
+3090,VAC,Marriot Vacations Worldwide Corporation Common Stock
+3091,VAL,Valspar Corporation (The) Common Stock
+3092,VALE,VALE S.A.  American Depositary Shares Each Representing one common share
+3093,VALE.P,VALE S.A.
+3094,VAR,"Varian Medical Systems, Inc. Common Stock"
+3095,VBF,Invesco Bond Fund Common Stock
+3096,VC,Visteon Corporation Common Stock
+3097,VCO,Vina Concha Y Toro Common Stock
+3098,VCRA,"Vocera Communications, Inc. Common Stock"
+3099,VCV,Invesco California Value Municipal Income Trust Common Stock
+3100,VEC,"Vectrus, Inc. Common Stock"
+3101,VEEV,Veeva Systems Inc. Class A Common Stock
+3102,VET,Vermilion Energy Inc. Common (Canada)
+3103,VFC,V.F. Corporation Common Stock
+3104,VG,Vonage Holdings Corp. Common Stock
+3105,VGI,Virtus Global Multi
+3106,VGM,Invesco Trust for Investment Grade Municipals Common Stock (DE)
+3107,VGR,Vector Group Ltd. Common Stock
+3108,VHI,"Valhi, Inc. Common Stock"
+3109,VIPS,"Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares"
+3110,VIV,"Telefonica Brasil, S.A. ADS"
+3111,VJET,"voxeljet AG American Depositary Shares, each representing one"
+3112,VKQ,Invesco Municipal Trust Common Stock
+3113,VLO,Valero Energy Corporation Common Stock
+3114,VLP,Valero Energy Partners LP Common Units representing limited partner interests
+3115,VLRS,"Controladora Vuela Compania de Aviacion, S.A.B. de C.V. American Depositary Shares, each representing ten (10) Ordinary Participation Certificates"
+3116,VLT,Invesco High Income Trust II
+3117,VLY,Valley National Bancorp Common Stock
+3118,VLY.W,Valley National Bancorp Warrants Expiring 11/14/2018
+3119,VMC,Vulcan Materials Company (Holding Company) Common Stock
+3120,VMEM,"Violin Memory, Inc. Common Stock"
+3121,VMI,"Valmont Industries, Inc. Common Stock"
+3122,VMO,Invesco Municipal Opportunity Trust Common Stock
+3123,VMW,"Vmware, Inc. Common stock, Class A"
+3124,VNCE,Vince Holding Corp. Common Stock
+3125,VNO,Vornado Realty Trust Common Stock
+3126,VNO-G,Vornado Realty Trust Preferred Series G
+3127,VNO-I,Vornado Realty Trust Preferred Series I
+3128,VNO-J,Vornado Realty Trust PFD CUMULATIVE RED SER J %
+3129,VNO-K,Vornado Realty Trust Pfd S K
+3130,VNO-L,Vornado Realty Trust Pfd Ser L %
+3131,VNO.V,Vornado Realty Trust Common Shares of Beneficial Interest Ex
+3132,VNTV,"Vantiv, Inc. Class A Common Stock"
+3133,VOC,VOC Energy Trust Units of Beneficial Interest
+3134,VOYA,"Voya Financial, Inc. Common Stock"
+3135,VPG,"Vishay Precision Group, Inc. Common Stock"
+3136,VPV,Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE)
+3137,VR,"Validus Holdings, Ltd. Common Shares"
+3138,VRS,Verso Corporation Common Stock
+3139,VRTV,Veritiv Corporation Common Stock
+3140,VRX,"Valeant Pharmaceuticals International, Inc."
+3141,VSH,"Vishay Intertechnology, Inc. Common Stock"
+3142,VSI,"Vitamin Shoppe, Inc Common Stock"
+3143,VSLR,"Vivint Solar, Inc. Common Stock"
+3144,VTA,Invesco Credit Opportunities Fund Common Shares of Beneficial Interest
+3145,VTN,Invesco Trust for Investment Grade New York Municipals Common Stock
+3146,VTR,"Ventas, Inc. Common Stock"
+3147,VTRB,"Ventas Realty, Limited Partnership // Ventas Capital Corporation 5.45% Senior Notes due 2043"
+3148,VTTI,VTTI Energy Partners LP Common Units representing limited partner interests
+3149,VVC,Vectren Corporation Common Stock
+3150,VVI,Viad Corp Common Stock
+3151,VVR,Invesco Senior Income Trust Common Stock (DE)
+3152,VZ,Verizon Communications Inc. Common Stock
+3153,VZA,Verizon Communications Inc. 5.90% Notes due 2054
+3154,W,Wayfair Inc. Class A Common Stock
+3155,WAB,Westinghouse Air Brake Technologies Corporation Common Stock
+3156,WAC,Walter Investment Management Corp. Common Stock
+3157,WAGE,"WageWorks, Inc. Common Stock $0.001 par value"
+3158,WAIR,"Wesco Aircraft Holdings, Inc. Common Stock"
+3159,WAL,Western Alliance Bancorporation Common Stock (DE)
+3160,WAT,Waters Corporation Common Stock
+3161,WBAI,"500.com Limited American Depositary Shares, each representing 10 Class A shares"
+3162,WBC,Wabco Holdings Inc. Common Stock
+3163,WBK,Westpac Banking Corporation Common Stock
+3164,WBS,Webster Financial Corporation Common Stock
+3165,WBS-E,Webster Financial Corporation Dep Shs Repstg 1/1000th Perp Pfd Ser E
+3166,WBS.W,"Webster Financial Corporation Warrant (expiring November 21, 2018)"
+3167,WCC,"WESCO International, Inc. Common Stock"
+3168,WCG,"Wellcare Health Plans, Inc. Common Stock"
+3169,WCIC,"WCI Communities, Inc. Common Stock"
+3170,WCN,"Waste Connections, Inc. Common Stock"
+3171,WD,"Walker & Dunlop, Inc Common Stock"
+3172,WDAY,"Workday, Inc. Common Stock"
+3173,WDR,"Waddell & Reed Financial, Inc. Common Stock"
+3174,WEA,Western Asset Bond Fund Share of Beneficial Interest
+3175,WEC,Wisconsin Energy Corporation Common Stock
+3176,WES,"Western Gas Partners, LP Limited Partner Interests"
+3177,WEX,WEX Inc. common stock
+3178,WF,Woori Bank American Depositary Shares (Each representing 3 shares of Common Stock)
+3179,WFC,Wells Fargo & Company Common Stock
+3180,WFC-J,Wells Fargo & Company Wells Fargo & Company 8.00% Non
+3181,WFC-L,Wells Fargo & Company Wells Fargo & Company 7.50% Non
+3182,WFC-N,Wells Fargo & Company Dep Shs Repstg 1/1000th Perp Pfd Cl A Ser N
+3183,WFC-O,Wells Fargo & Company Depositary Shares Representing 1/1000th Perpetual Preferred Class A Series O
+3184,WFC-P,Wells Fargo & Company Dep Shs Repstg 1/1000th Int Non Cum Perp Cl A Pfd (Ser P)
+3185,WFC-Q,Wells Fargo & Company Depositary Shares Representing 1/1000th Interest Perpetual Preferred Class A Series Q Fixed to Floating
+3186,WFC-R,Wells Fargo & Company Dep Shs Repstg 1/1000th Int Perp Pfd Cl A (Ser R Fixed To Flltg)
+3187,WFC-T,Wells Fargo & Company New Depository Share Representing 1/1000th Perp. Preferred Class A Series T
+3188,WFC.W,"Wells Fargo & Company Warrants expiring October 28, 2018"
+3189,WFE-A,"Wells Fargo & Company Cumulative Perpetual Preferred Stock, Series A, Liquidation Preference $25 per share"
+3190,WFT,Weatherford International plc (Ireland)
+3191,WG,"Willbros Group, Inc. (DE) Common Stock"
+3192,WGL,WGL Holdings IncCommon Stock
+3193,WGO,"Winnebago Industries, Inc. Common Stock"
+3194,WGP,"Western Gas Equity Partners, LP Common Units Representing Limited Partner Interests"
+3195,WHG,Westwood Holdings Group Inc Common Stock
+3196,WHR,Whirlpool Corporation Common Stock
+3197,WHX,Whiting USA Trust I Whiting USA Trust I
+3198,WHZ,Whiting USA Trust II Units of Beneficial Interest
+3199,WIA,Western Asset/Claymore Inflation
+3200,WIT,Wipro Limited Common Stock
+3201,WIW,Western Asset/Claymore Inflation
+3202,WK,Workiva Inc. Class A Common Stock
+3203,WLH,Lyon William Homes Common Stock (Class A)
+3204,WLK,Westlake Chemical Corporation Common Stock
+3205,WLKP,Westlake Chemical Partners LP Common Units representing limited partner interests
+3206,WLL,Whiting Petroleum Corporation Common Stock
+3207,WLT,"Walter Energy, Inc. Common Stock"
+3208,WM,"Waste Management, Inc. Common Stock"
+3209,WMB,"Williams Companies, Inc. (The) Common Stock"
+3210,WMC,Western Asset Mortgage Capital Corporation Common Stock
+3211,WMK,"Weis Markets, Inc. Common Stock"
+3212,WMLP,"Westmoreland Resource Partners, LP Common Units representing Limited Partner Interests"
+3213,WMS,"Advanced Drainage Systems, Inc. Common Stock"
+3214,WMT,Wal
+3215,WNC,Wabash National Corporation Common Stock
+3216,WNR,"Western Refining Inc. Western Refining, Inc. Common Stock"
+3217,WNRL,"Western Refining Logistics, LP Common Units representing limited partner interests"
+3218,WNS,WNS (Holdings) Limited Sponsored ADR (Jersey)
+3219,WOR,"Worthington Industries, Inc. Common Stock"
+3220,WPC,W.P. Carey Inc. REIT
+3221,WPG,Washington Prime Group Inc. Common Stock
+3222,WPP,Wausau Paper Corp. Common Stock
+3223,WPT,"World Point Terminals, LP Common Units representing Limited Partner Interests"
+3224,WPX,"WPX Energy, Inc. Common Stock"
+3225,WPZ,Williams Partners L.P. Common Units
+3226,WR,"Westar Energy, Inc. Common Stock"
+3227,WRB,W.R. Berkley Corporation Common Stock
+3228,WRB-B,W.R. Berkley Corporation 5.625% Subordinated Debentures due 2053
+3229,WRE,Washington Real Estate Investment Trust Common Stock
+3230,WRI,Weingarten Realty Investors Common Stock
+3231,WRI-F,Weingarten Realty Investors Depository Shares Restg 1/100 Pfd Ser F
+3232,WRT,Winthrop Realty Trust 7.75% Senior Notes due 2022
+3233,WSH,Willis Group Holdings Public Limited (Ireland) Common Stock
+3234,WSM,Williams
+3235,WSO,"Watsco, Inc. Common Stock"
+3236,WSO.B,"Watsco, Inc. Class B Common Stock"
+3237,WSR,Whitestone REIT Common Shares
+3238,WST,"West Pharmaceutical Services, Inc. Common Stock"
+3239,WTI,"W&T Offshore, Inc. Common Stock"
+3240,WTM,"White Mountains Insurance Group, Ltd. Common Stock"
+3241,WTR,"Aqua America, Inc. Common Stock"
+3242,WTS,"Watts Water Technologies, Inc. Class A Common Stock"
+3243,WTW,Weight Watchers International Inc Weight Watchers International Inc
+3244,WU,Western Union Company (The) Common Stock
+3245,WUBA,"58.com Inc. American Depositary Shares, each representing 2 Class A Ordinary Shares"
+3246,WWAV,Whitewave Foods Company (The) Common Stock
+3247,WWE,"World Wrestling Entertainment, Inc. Class A Common Stock"
+3248,WWW,"Wolverine World Wide, Inc. Common Stock"
+3249,WX,WuXi PharmaTech (Cayman) Inc. American Depositary Shares
+3250,WY,Weyerhaeuser Company Common Stock
+3251,WY-A,Weyerhaeuser Company Pref Conv Ser A
+3252,WYN,Wyndham Worldwide Corp Common  Stock
+3253,X,United States Steel Corporation Common Stock
+3254,XCO,"EXCO Resources, Inc. Exco Resources, Inc. Common Stock"
+3255,XEC,Cimarex Energy Co Common Stock
+3256,XEL,Xcel Energy Inc. Common Stock
+3257,XIN,Xinyuan Real Estate Co Ltd American Depositary Shares
+3258,XKE,Lehman ABS Corporation Corporate
+3259,XL,XL Group plc
+3260,XLS,Exelis Inc. Common Stock New
+3261,XNY,"China Xiniya Fashion Limited American Depositary Shares, each representing four ordinary shares"
+3262,XOM,Exxon Mobil Corporation Common Stock
+3263,XON,Intrexon Corporation Common Stock
+3264,XOXO,"XO Group, Inc. Common Stock"
+3265,XPO,"XPO Logistics, Inc."
+3266,XRM,"Xerium Technologies, Inc. New Common Stock"
+3267,XRS,"TAL Education Group American Depositary Shares, each representing 2 Class A common shares"
+3268,XRX,Xerox Corporation Common Stock
+3269,XUE,"Xueda Education Group American Depositary Shares, each representing two Ordinary Shares, $0.0001 par value"
+3270,XYL,Xylem Inc. Common Stock New
+3271,Y,Alleghany Corporation Common Stock
+3272,YDKN,Yadkin Financial Corporation Common Stock
+3273,YELP,Yelp Inc. Class A Common Stock
+3274,YGE,Yingli Green Energy Holding Company Limited ADR
+3275,YOKU,"Youku Tudou Inc. American Depositary Shares, each representing 18 Class A ordinary shares."
+3276,YPF,YPF Sociedad Anonima Common Stock
+3277,YUM,"Yum! Brands, Inc."
+3278,YUME,"YuMe, Inc. Common Stock"
+3279,YZC,Yanzhou Coal Mining Company Limited Common Stock
+3280,ZA,Zuoan Fashion Limited American Depositary Shares
+3281,ZAYO,"Zayo Group Holdings, Inc. Common Stock"
+3282,ZB-A,Zions Bancorporation Depositary Shares (Each representing 1/40th Interest in a Share of Series A Floating
+3283,ZB-F,Zions Bancorporation Dep shs Repstg 1/40th Int Sh Ser F Fxd Rate Non Cum (Perp Pfd Stk)
+3284,ZB-G,Zions Bancorporation Dep Shs Repstg 1/40th Perp Pfd Ser G
+3285,ZB-H,Zions Bancorporation Dep Shs Repstg 1/40th Int Sh Ser H Perp Pfd Stk
+3286,ZBK,Zions Bancorporation 6.95% Fixed
+3287,ZEN,"Zendesk, Inc. Common Stock"
+3288,ZEP,Zep Inc. Common Stock
+3289,ZF,"Zweig Fund, Inc. (The) Common Stock"
+3290,ZFC,ZAIS Financial Corp. Common Stock
+3291,ZMH,"Zimmer Holdings, Inc. Common Stock"
+3292,ZNH,China Southern Airlines Company Limited Common Stock
+3293,ZOES,"Zoe's Kitchen, Inc. Common Stock"
+3294,ZPIN,"Zhaopin Limited American Depositary Shares, each reprenting two Ordinary Shares"
+3295,ZQK,"Quiksilver, Inc. Common Stock"
+3296,ZTR,"Zweig Total Return Fund, Inc. (The) Common Stock"
+3297,ZTS,Zoetis Inc. Class A Common Stock
+3298,ZX,"China Zenix Auto International Limited American Depositary Shares, each representing four ordinary shares."
